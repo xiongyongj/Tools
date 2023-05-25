@@ -1,0 +1,50 @@
+[2022-10-27 10:54:47] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-10-27 10:54:49] [INFO] 127.0.0.1:54325 requested connection to xbvpn.site:443
+[2022-10-27 10:54:49] [INFO] 127.0.0.1:54328 requested connection to xbsj9855.xyz:443
+[2022-10-27 10:54:51] [INFO] 127.0.0.1:54337 requested connection to xbsj9855.xyz:443
+[2022-10-27 10:54:51] [INFO] 127.0.0.1:54341 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-27 10:54:51] [INFO] 127.0.0.1:54342 requested connection to pub.idqqimg.com:443
+[2022-10-27 10:54:52] [INFO] 127.0.0.1:54347 requested connection to xbvpn.site:443
+[2022-10-27 10:54:52] [INFO] 127.0.0.1:54348 requested connection to xbvpn.site:443
+[2022-10-27 10:54:53] [INFO] 127.0.0.1:54358 requested connection to aegis.qq.com:443
+[2022-10-27 10:54:56] [INFO] 127.0.0.1:54328 disconnected, 4667 bytes received, 629 bytes sent, lasted for 7 seconds
+[2022-10-27 10:54:59] [INFO] 127.0.0.1:54374 requested connection to xbvpn.site:443
+[2022-10-27 10:54:59] [INFO] 127.0.0.1:54375 requested connection to xbvpn.site:443
+[2022-10-27 10:55:02] [INFO] 127.0.0.1:54387 requested connection to config.uca.cloud.unity3d.com:443
+[2022-10-27 10:55:05] [INFO] 127.0.0.1:54325 disconnected, 141916 bytes received, 631 bytes sent, lasted for 16 seconds
+[2022-10-27 10:55:05] [INFO] 127.0.0.1:54337 disconnected, 5954 bytes received, 583 bytes sent, lasted for 14 seconds
+[2022-10-27 10:55:05] [INFO] 127.0.0.1:54341 disconnected, 7577 bytes received, 52732 bytes sent, lasted for 14 seconds
+[2022-10-27 10:55:05] [INFO] 127.0.0.1:54342 disconnected, 5688 bytes received, 1309 bytes sent, lasted for 14 seconds
+[2022-10-27 10:55:05] [INFO] 127.0.0.1:54375 disconnected, 102810 bytes received, 607 bytes sent, lasted for 6 seconds
+[2022-10-27 10:55:05] [INFO] 127.0.0.1:54374 disconnected, 15240 bytes received, 601 bytes sent, lasted for 6 seconds
+[2022-10-27 10:55:05] [INFO] 127.0.0.1:54358 disconnected, 3854 bytes received, 4169 bytes sent, lasted for 12 seconds
+[2022-10-27 10:55:05] [INFO] 127.0.0.1:54387 disconnected, 5560 bytes received, 1129 bytes sent, lasted for 3 seconds
+[2022-10-27 10:55:14] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-10-27 10:55:16] [INFO] 127.0.0.1:54420 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-27 10:55:17] [INFO] 127.0.0.1:54429 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-10-27 10:55:18] [INFO] 127.0.0.1:54432 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-27 10:55:18] [INFO] 127.0.0.1:54435 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-10-27 10:55:21] [INFO] 127.0.0.1:54444 requested connection to xbvpn.site:443
+[2022-10-27 10:55:38] [INFO] 127.0.0.1:54486 requested connection to config.uca.cloud.unity3d.com:443
+[2022-10-27 10:55:44] [INFO] 127.0.0.1:54503 requested connection to 54.151.139.47:9500
+[2022-10-27 10:55:45] [INFO] 127.0.0.1:54503 disconnected, 353 bytes received, 225 bytes sent, lasted for 1 seconds
+[2022-10-27 10:55:45] [INFO] 127.0.0.1:54508 requested connection to 54.151.139.47:9500
+[2022-10-27 10:55:46] [INFO] 127.0.0.1:54508 disconnected, 306 bytes received, 901 bytes sent, lasted for 1 seconds
+[2022-10-27 10:55:46] [INFO] 127.0.0.1:54511 requested connection to 54.151.139.47:9500
+[2022-10-27 10:55:46] [INFO] 127.0.0.1:54511 disconnected, 750 bytes received, 431 bytes sent, lasted for 0 seconds
+[2022-10-27 10:55:46] [INFO] 127.0.0.1:54514 requested connection to 54.151.139.47:9500
+[2022-10-27 10:55:46] [INFO] 127.0.0.1:54514 disconnected, 3772 bytes received, 810 bytes sent, lasted for 0 seconds
+[2022-10-27 10:55:51] [INFO] 127.0.0.1:54530 requested connection to pub.idqqimg.com:443
+[2022-10-27 10:55:53] [INFO] 127.0.0.1:54538 requested connection to aegis.qq.com:443
+[2022-10-27 10:56:04] [INFO] 127.0.0.1:54420 disconnected, 7560 bytes received, 54684 bytes sent, lasted for 48 seconds
+[2022-10-27 10:56:52] [INFO] 127.0.0.1:54667 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-27 10:56:57] [INFO] 127.0.0.1:54680 requested connection to xbvpn.site:443
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54429 disconnected, 6826 bytes received, 1366 bytes sent, lasted for 101 seconds
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54667 disconnected, 4064 bytes received, 1612 bytes sent, lasted for 6 seconds
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54432 disconnected, 4984 bytes received, 13618 bytes sent, lasted for 100 seconds
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54435 disconnected, 11268 bytes received, 1114 bytes sent, lasted for 100 seconds
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54444 disconnected, 281609 bytes received, 1455 bytes sent, lasted for 97 seconds
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54486 disconnected, 5543 bytes received, 1162 bytes sent, lasted for 80 seconds
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54680 disconnected, 12567 bytes received, 751 bytes sent, lasted for 1 seconds
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54530 disconnected, 1415 bytes received, 1489 bytes sent, lasted for 67 seconds
+[2022-10-27 10:56:58] [INFO] 127.0.0.1:54538 disconnected, 477 bytes received, 7231 bytes sent, lasted for 65 seconds

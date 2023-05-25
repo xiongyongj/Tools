@@ -1,0 +1,11 @@
+[2022-08-03 10:13:47] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-08-03 10:14:19] [INFO] 127.0.0.1:53130 requested connection to avatars.githubusercontent.com:443
+[2022-08-03 10:14:19] [INFO] 127.0.0.1:53133 requested connection to content-autofill.googleapis.com:443
+[2022-08-03 10:14:42] [INFO] 127.0.0.1:53150 requested connection to www.google.com:443
+[2022-08-03 10:14:53] [INFO] 127.0.0.1:53150 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-03 10:15:35] [INFO] 127.0.0.1:53164 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-08-03 10:15:42] [INFO] 127.0.0.1:53169 requested connection to www.google.com:443
+[2022-08-03 10:15:53] [INFO] 127.0.0.1:53169 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-03 10:18:20] [INFO] 127.0.0.1:53133 disconnected, 5897 bytes received, 1245 bytes sent, lasted for 241 seconds
+[2022-08-03 10:19:20] [INFO] 127.0.0.1:53130 disconnected, 819 bytes received, 1253 bytes sent, lasted for 301 seconds
+[2022-08-03 10:19:36] [INFO] 127.0.0.1:53164 disconnected, 6117 bytes received, 1215 bytes sent, lasted for 241 seconds

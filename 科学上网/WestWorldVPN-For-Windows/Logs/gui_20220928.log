@@ -1,0 +1,140 @@
+--------------------------------info[11:21:52]--------------------------------
+System.Exception: 程序运行目录 : C:\Users\zhangwei\Desktop\WestWorldVPN-For-Windows\WestWorldVPN.exe
+
+ 
+--------------------------------info[11:21:52]--------------------------------
+System.Exception: Main exe start up 1.06
+
+ 
+--------------------------------info[11:21:53]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=66bde5074557bf6eb3600ff3661bc78a
+
+ 
+--------------------------------info[11:21:57]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[11:21:59]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=66bde5074557bf6eb3600ff3661bc78a
+
+ 
+--------------------------------info[11:21:59]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[11:22:06]--------------------------------
+System.Exception: PAC Webserver prefixes http://127.0.0.1:21883/pac/
+
+ 
+--------------------------------info[11:22:06]--------------------------------
+System.Exception: PAC Webserver at 127.0.0.1:21883
+
+ 
+--------------------------------info[11:22:06]--------------------------------
+System.Exception: PAC Webserver running...
+
+ 
+--------------------------------info[11:22:06]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:22:06]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:22:06]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:22:06]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:22:06]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:22:07]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:22:09]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:42:59]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:12:58]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:28:53]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:42:59]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:01:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:46:24]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:43:05]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:43:50]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:43:51]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[18:31:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[18:43:51]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:25:54]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:42:58]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[21:30:45]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[21:45:40]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[22:43:54]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[23:27:08]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[23:33:32]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[23:37:01]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 

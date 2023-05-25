@@ -1,0 +1,284 @@
+[2022-11-11 10:11:07] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-11-11 10:11:10] [INFO] 127.0.0.1:49596 requested connection to xbvpn.site:443
+[2022-11-11 10:11:17] [INFO] 127.0.0.1:49607 requested connection to xbsj9855.xyz:443
+[2022-11-11 10:11:24] [INFO] 127.0.0.1:49614 requested connection to xbvpn.site:443
+[2022-11-11 10:11:24] [INFO] 127.0.0.1:49615 requested connection to xbvpn.site:443
+[2022-11-11 10:11:31] [ERROR] 127.0.0.1:49596 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:31] [INFO] 127.0.0.1:49596 disconnected, 0 bytes received, 364 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:31] [INFO] 127.0.0.1:49625 requested connection to xbvpn.site:443
+[2022-11-11 10:11:31] [INFO] 127.0.0.1:49626 requested connection to xbvpn.site:443
+[2022-11-11 10:11:32] [INFO] 127.0.0.1:49630 requested connection to docs.gtimg.com:443
+[2022-11-11 10:11:37] [INFO] 127.0.0.1:49637 requested connection to default.exp-tas.com:443
+[2022-11-11 10:11:37] [INFO] 127.0.0.1:49641 requested connection to marketplace.visualstudio.com:443
+[2022-11-11 10:11:38] [INFO] 127.0.0.1:49645 requested connection to dc.services.visualstudio.com:443
+[2022-11-11 10:11:38] [INFO] 127.0.0.1:49648 requested connection to dc.services.visualstudio.com:443
+[2022-11-11 10:11:38] [INFO] 127.0.0.1:49651 requested connection to roslynomnisharp.blob.core.windows.net:443
+[2022-11-11 10:11:38] [ERROR] 127.0.0.1:49607 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:38] [INFO] 127.0.0.1:49607 disconnected, 0 bytes received, 174 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:38] [INFO] 127.0.0.1:49655 requested connection to xbsj9855.xyz:443
+[2022-11-11 10:11:38] [INFO] 127.0.0.1:49656 requested connection to xbsj9855.xyz:443
+[2022-11-11 10:11:40] [INFO] 127.0.0.1:49660 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:11:40] [INFO] 127.0.0.1:49668 requested connection to mobile.events.data.microsoft.com:443
+[2022-11-11 10:11:44] [INFO] 127.0.0.1:49674 requested connection to cdp.cloud.unity3d.com:443
+[2022-11-11 10:11:45] [ERROR] 127.0.0.1:49615 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:45] [INFO] 127.0.0.1:49615 disconnected, 0 bytes received, 172 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:45] [ERROR] 127.0.0.1:49614 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:45] [INFO] 127.0.0.1:49614 disconnected, 0 bytes received, 172 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:48] [INFO] 127.0.0.1:49680 requested connection to default.exp-tas.com:443
+[2022-11-11 10:11:50] [INFO] 127.0.0.1:49685 requested connection to mobile.events.data.microsoft.com:443
+[2022-11-11 10:11:50] [INFO] 127.0.0.1:49690 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:11:50] [INFO] 127.0.0.1:49692 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:11:50] [INFO] 127.0.0.1:49697 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:11:52] [INFO] 127.0.0.1:49703 requested connection to xbvpn.site:443
+[2022-11-11 10:11:52] [ERROR] 127.0.0.1:49625 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:52] [INFO] 127.0.0.1:49625 disconnected, 0 bytes received, 172 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:52] [ERROR] 127.0.0.1:49626 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:52] [INFO] 127.0.0.1:49626 disconnected, 0 bytes received, 172 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:53] [ERROR] 127.0.0.1:49630 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:53] [INFO] 127.0.0.1:49630 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:53] [INFO] 127.0.0.1:49706 requested connection to docs.gtimg.com:443
+[2022-11-11 10:11:53] [INFO] 127.0.0.1:49709 requested connection to dc.services.visualstudio.com:443
+[2022-11-11 10:11:53] [INFO] 127.0.0.1:49712 requested connection to mobile.events.data.microsoft.com:443
+[2022-11-11 10:11:58] [ERROR] 127.0.0.1:49637 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:58] [INFO] 127.0.0.1:49637 disconnected, 0 bytes received, 593 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:58] [INFO] 127.0.0.1:49718 requested connection to default.exp-tas.com:443
+[2022-11-11 10:11:58] [ERROR] 127.0.0.1:49641 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:58] [INFO] 127.0.0.1:49641 disconnected, 0 bytes received, 602 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:58] [INFO] 127.0.0.1:49722 requested connection to marketplace.visualstudio.com:443
+[2022-11-11 10:11:59] [INFO] 127.0.0.1:49726 requested connection to xbvpn.site:443
+[2022-11-11 10:11:59] [ERROR] 127.0.0.1:49645 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:59] [INFO] 127.0.0.1:49645 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:59] [ERROR] 127.0.0.1:49648 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:59] [INFO] 127.0.0.1:49648 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-11-11 10:11:59] [ERROR] 127.0.0.1:49651 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:11:59] [INFO] 127.0.0.1:49651 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:00] [ERROR] 127.0.0.1:49656 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:00] [INFO] 127.0.0.1:49656 disconnected, 0 bytes received, 174 bytes sent, lasted for 22 seconds
+[2022-11-11 10:12:00] [ERROR] 127.0.0.1:49655 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:00] [INFO] 127.0.0.1:49655 disconnected, 0 bytes received, 174 bytes sent, lasted for 22 seconds
+[2022-11-11 10:12:01] [ERROR] 127.0.0.1:49660 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:01] [INFO] 127.0.0.1:49660 disconnected, 0 bytes received, 525 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:01] [INFO] 127.0.0.1:49732 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:12:01] [ERROR] 127.0.0.1:49668 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:01] [INFO] 127.0.0.1:49668 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:05] [ERROR] 127.0.0.1:49674 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:05] [INFO] 127.0.0.1:49674 disconnected, 0 bytes received, 316 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:06] [INFO] 127.0.0.1:49739 requested connection to xbsj9855.xyz:443
+[2022-11-11 10:12:09] [ERROR] 127.0.0.1:49680 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:09] [INFO] 127.0.0.1:49680 disconnected, 0 bytes received, 258 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:11] [ERROR] 127.0.0.1:49685 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:11] [INFO] 127.0.0.1:49685 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:11] [ERROR] 127.0.0.1:49690 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:11] [INFO] 127.0.0.1:49690 disconnected, 0 bytes received, 525 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:11] [ERROR] 127.0.0.1:49692 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:11] [INFO] 127.0.0.1:49692 disconnected, 0 bytes received, 525 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:11] [INFO] 127.0.0.1:49745 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:12:11] [INFO] 127.0.0.1:49746 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:12:11] [ERROR] 127.0.0.1:49697 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:11] [INFO] 127.0.0.1:49697 disconnected, 0 bytes received, 525 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:11] [INFO] 127.0.0.1:49750 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:12:12] [INFO] 127.0.0.1:49754 requested connection to xbvpn.site:443
+[2022-11-11 10:12:13] [INFO] 127.0.0.1:49758 requested connection to go.microsoft.com:443
+[2022-11-11 10:12:13] [ERROR] 127.0.0.1:49703 cannot establish connection to remote server 183.240.220.54:12005: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-11-11 10:12:13] [INFO] 127.0.0.1:49703 disconnected, 0 bytes received, 172 bytes sent, lasted for 21 seconds
+[2022-11-11 10:12:29] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-11-11 10:12:32] [INFO] 127.0.0.1:49782 requested connection to clientservices.googleapis.com:443
+[2022-11-11 10:12:32] [INFO] 127.0.0.1:49785 requested connection to accounts.google.com:443
+[2022-11-11 10:12:32] [INFO] 127.0.0.1:49788 requested connection to www.google.com:443
+[2022-11-11 10:12:33] [INFO] 127.0.0.1:49792 requested connection to www.gstatic.com:443
+[2022-11-11 10:12:34] [INFO] 127.0.0.1:49799 requested connection to mtalk.google.com:5228
+[2022-11-11 10:12:34] [INFO] 127.0.0.1:49800 requested connection to android.clients.google.com:443
+[2022-11-11 10:12:34] [INFO] 127.0.0.1:49804 requested connection to update.googleapis.com:443
+[2022-11-11 10:12:35] [INFO] 127.0.0.1:49807 requested connection to styles.redditmedia.com:443
+[2022-11-11 10:12:35] [INFO] 127.0.0.1:49810 requested connection to www.reddit.com:443
+[2022-11-11 10:12:35] [INFO] 127.0.0.1:49813 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-11-11 10:12:39] [INFO] 127.0.0.1:49817 requested connection to www.youtube.com:443
+[2022-11-11 10:12:39] [INFO] 127.0.0.1:49820 requested connection to id.google.com:443
+[2022-11-11 10:12:39] [INFO] 127.0.0.1:49824 requested connection to i.ytimg.com:443
+[2022-11-11 10:12:39] [INFO] 127.0.0.1:49827 requested connection to fonts.googleapis.com:443
+[2022-11-11 10:12:39] [INFO] 127.0.0.1:49830 requested connection to play.google.com:443
+[2022-11-11 10:12:39] [INFO] 127.0.0.1:49833 requested connection to content-autofill.googleapis.com:443
+[2022-11-11 10:12:40] [INFO] 127.0.0.1:49836 requested connection to fonts.gstatic.com:443
+[2022-11-11 10:12:40] [INFO] 127.0.0.1:49839 requested connection to docrp.weixin.qq.com:443
+[2022-11-11 10:12:40] [INFO] 127.0.0.1:49842 requested connection to play.google.com:443
+[2022-11-11 10:12:41] [INFO] 127.0.0.1:49845 requested connection to www.gstatic.com:443
+[2022-11-11 10:12:41] [INFO] 127.0.0.1:49848 requested connection to googleads.g.doubleclick.net:443
+[2022-11-11 10:12:41] [INFO] 127.0.0.1:49851 requested connection to www.google.co.jp:443
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49855 requested connection to yt3.ggpht.com:443
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49856 requested connection to yt3.ggpht.com:443
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49859 requested connection to yt3.ggpht.com:443
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49862 requested connection to yt3.ggpht.com:443
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49864 requested connection to yt3.ggpht.com:443
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49866 requested connection to yt3.ggpht.com:443
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49866 disconnected, 7820 bytes received, 591 bytes sent, lasted for 0 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49856 disconnected, 7821 bytes received, 591 bytes sent, lasted for 0 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49862 disconnected, 7820 bytes received, 591 bytes sent, lasted for 0 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49855 disconnected, 7820 bytes received, 591 bytes sent, lasted for 0 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49859 disconnected, 7821 bytes received, 591 bytes sent, lasted for 0 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49799 disconnected, 9615 bytes received, 758 bytes sent, lasted for 8 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49788 disconnected, 767086 bytes received, 16674 bytes sent, lasted for 10 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49810 disconnected, 5104 bytes received, 3047 bytes sent, lasted for 7 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49807 disconnected, 18981 bytes received, 1044 bytes sent, lasted for 7 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49792 disconnected, 1051363 bytes received, 3279 bytes sent, lasted for 9 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49804 disconnected, 7511 bytes received, 2337 bytes sent, lasted for 8 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49800 disconnected, 8766 bytes received, 1168 bytes sent, lasted for 8 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49785 disconnected, 7168 bytes received, 1529 bytes sent, lasted for 10 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49833 disconnected, 6553 bytes received, 1404 bytes sent, lasted for 3 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49813 disconnected, 7649 bytes received, 1055 bytes sent, lasted for 7 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49851 disconnected, 5900 bytes received, 1818 bytes sent, lasted for 1 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49820 disconnected, 8646 bytes received, 1772 bytes sent, lasted for 3 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49845 disconnected, 54571 bytes received, 1512 bytes sent, lasted for 1 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49817 disconnected, 2255429 bytes received, 60968 bytes sent, lasted for 3 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49848 disconnected, 6857 bytes received, 1554 bytes sent, lasted for 1 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49836 disconnected, 116480 bytes received, 2299 bytes sent, lasted for 2 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49824 disconnected, 171992 bytes received, 3206 bytes sent, lasted for 3 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49827 disconnected, 7742 bytes received, 1579 bytes sent, lasted for 3 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49830 disconnected, 7790 bytes received, 1117 bytes sent, lasted for 3 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49842 disconnected, 8304 bytes received, 2111 bytes sent, lasted for 2 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49864 disconnected, 34336 bytes received, 2499 bytes sent, lasted for 0 seconds
+[2022-11-11 10:12:42] [INFO] 127.0.0.1:49782 disconnected, 6208 bytes received, 1088 bytes sent, lasted for 10 seconds
+[2022-11-11 10:12:44] [INFO] 127.0.0.1:49878 requested connection to cdp.cloud.unity3d.com:443
+[2022-11-11 10:12:55] [INFO] 127.0.0.1:49886 requested connection to clientservices.googleapis.com:443
+[2022-11-11 10:12:55] [INFO] 127.0.0.1:49889 requested connection to www.reddit.com:443
+[2022-11-11 10:12:55] [INFO] 127.0.0.1:49892 requested connection to accounts.google.com:443
+[2022-11-11 10:12:56] [INFO] 127.0.0.1:49895 requested connection to www.redditstatic.com:443
+[2022-11-11 10:12:57] [INFO] 127.0.0.1:49898 requested connection to mtalk.google.com:5228
+[2022-11-11 10:12:57] [INFO] 127.0.0.1:49902 requested connection to update.googleapis.com:443
+[2022-11-11 10:12:57] [INFO] 127.0.0.1:49905 requested connection to www.redditstatic.com:443
+[2022-11-11 10:12:58] [INFO] 127.0.0.1:49908 requested connection to preview.redd.it:443
+[2022-11-11 10:12:58] [INFO] 127.0.0.1:49911 requested connection to styles.redditmedia.com:443
+[2022-11-11 10:12:58] [INFO] 127.0.0.1:49914 requested connection to a.thumbs.redditmedia.com:443
+[2022-11-11 10:12:58] [INFO] 127.0.0.1:49917 requested connection to b.thumbs.redditmedia.com:443
+[2022-11-11 10:12:58] [INFO] 127.0.0.1:49920 requested connection to w3-reporting.reddit.com:443
+[2022-11-11 10:12:58] [INFO] 127.0.0.1:49924 requested connection to translate.googleapis.com:443
+[2022-11-11 10:12:58] [INFO] 127.0.0.1:49929 requested connection to api-js.datadome.co:443
+[2022-11-11 10:12:59] [INFO] 127.0.0.1:49932 requested connection to gql.reddit.com:443
+[2022-11-11 10:12:59] [INFO] 127.0.0.1:49935 requested connection to gateway.reddit.com:443
+[2022-11-11 10:12:59] [INFO] 127.0.0.1:49938 requested connection to www.redditmedia.com:443
+[2022-11-11 10:12:59] [INFO] 127.0.0.1:49941 requested connection to gql-realtime.reddit.com:443
+[2022-11-11 10:12:59] [INFO] 127.0.0.1:49944 requested connection to external-preview.redd.it:443
+[2022-11-11 10:12:59] [INFO] 127.0.0.1:49947 requested connection to www.googletagmanager.com:443
+[2022-11-11 10:13:00] [INFO] 127.0.0.1:49950 requested connection to alb.reddit.com:443
+[2022-11-11 10:13:00] [INFO] 127.0.0.1:49953 requested connection to id.rlcdn.com:443
+[2022-11-11 10:13:00] [INFO] 127.0.0.1:49957 requested connection to www.google.com:443
+[2022-11-11 10:13:00] [INFO] 127.0.0.1:49941 disconnected, 4341 bytes received, 2122 bytes sent, lasted for 1 seconds
+[2022-11-11 10:13:00] [INFO] 127.0.0.1:49960 requested connection to gql-realtime.reddit.com:443
+[2022-11-11 10:13:01] [INFO] 127.0.0.1:49963 requested connection to sb.scorecardresearch.com:443
+[2022-11-11 10:13:02] [INFO] 127.0.0.1:49966 requested connection to array813.prod.do.dsp.mp.microsoft.com:443
+[2022-11-11 10:13:02] [INFO] 127.0.0.1:49970 requested connection to content-autofill.googleapis.com:443
+[2022-11-11 10:13:07] [INFO] 127.0.0.1:49976 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-11-11 10:13:10] [INFO] 127.0.0.1:49957 disconnected, 4451 bytes received, 591 bytes sent, lasted for 10 seconds
+[2022-11-11 10:13:12] [INFO] 127.0.0.1:49982 requested connection to go.microsoft.com:443
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:49999 requested connection to www.google-analytics.com:443
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50002 requested connection to cn.bing.com:443
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50005 requested connection to www.collinsdictionary.com:443
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50007 requested connection to dictionary.cambridge.org:443
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50012 requested connection to dict.youdao.com:443
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50014 requested connection to www.urbandictionary.com:80
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50017 requested connection to www.vocabulary.com:443
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50021 requested connection to api.fanyi.baidu.com:80
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50025 requested connection to fanyi.youdao.com:80
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50026 requested connection to www.google.com:443
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50014 disconnected, 248 bytes received, 328 bytes sent, lasted for 0 seconds
+[2022-11-11 10:13:35] [INFO] 127.0.0.1:50030 requested connection to www.urbandictionary.com:443
+[2022-11-11 10:13:36] [INFO] 127.0.0.1:50025 disconnected, 6448 bytes received, 350 bytes sent, lasted for 1 seconds
+[2022-11-11 10:13:36] [INFO] 127.0.0.1:50034 requested connection to fanyi.youdao.com:80
+[2022-11-11 10:13:36] [INFO] 127.0.0.1:50038 requested connection to ssl.gstatic.com:443
+[2022-11-11 10:13:36] [INFO] 127.0.0.1:50034 disconnected, 429 bytes received, 794 bytes sent, lasted for 0 seconds
+[2022-11-11 10:13:37] [INFO] 127.0.0.1:50021 disconnected, 271 bytes received, 946 bytes sent, lasted for 2 seconds
+[2022-11-11 10:13:37] [INFO] 127.0.0.1:50049 requested connection to api.interpreter.caiyunai.com:443
+[2022-11-11 10:13:51] [INFO] 127.0.0.1:50007 disconnected, 37657 bytes received, 2135 bytes sent, lasted for 16 seconds
+[2022-11-11 10:13:55] [INFO] 127.0.0.1:50073 requested connection to update.googleapis.com:443
+[2022-11-11 10:14:00] [INFO] 127.0.0.1:50083 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:00] [INFO] 127.0.0.1:50083 disconnected, 551 bytes received, 290 bytes sent, lasted for 0 seconds
+[2022-11-11 10:14:00] [INFO] 127.0.0.1:50086 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:00] [INFO] 127.0.0.1:50086 disconnected, 1718 bytes received, 362 bytes sent, lasted for 0 seconds
+[2022-11-11 10:14:03] [INFO] 127.0.0.1:50093 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:03] [INFO] 127.0.0.1:50093 disconnected, 2086 bytes received, 365 bytes sent, lasted for 0 seconds
+[2022-11-11 10:14:08] [INFO] 127.0.0.1:50104 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:08] [INFO] 127.0.0.1:50104 disconnected, 5874 bytes received, 365 bytes sent, lasted for 0 seconds
+[2022-11-11 10:14:09] [INFO] 127.0.0.1:49929 disconnected, 4893 bytes received, 13864 bytes sent, lasted for 71 seconds
+[2022-11-11 10:14:11] [INFO] 127.0.0.1:50108 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:11] [INFO] 127.0.0.1:50108 disconnected, 12063 bytes received, 366 bytes sent, lasted for 0 seconds
+[2022-11-11 10:14:13] [INFO] 127.0.0.1:50113 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:14] [INFO] 127.0.0.1:50113 disconnected, 7297 bytes received, 367 bytes sent, lasted for 1 seconds
+[2022-11-11 10:14:16] [INFO] 127.0.0.1:50117 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:16] [INFO] 127.0.0.1:50117 disconnected, 31416 bytes received, 367 bytes sent, lasted for 0 seconds
+[2022-11-11 10:14:17] [INFO] 127.0.0.1:50121 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:17] [INFO] 127.0.0.1:50121 disconnected, 24609 bytes received, 367 bytes sent, lasted for 0 seconds
+[2022-11-11 10:14:18] [INFO] 127.0.0.1:50124 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:19] [INFO] 127.0.0.1:50124 disconnected, 101077 bytes received, 368 bytes sent, lasted for 1 seconds
+[2022-11-11 10:14:19] [INFO] 127.0.0.1:50127 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:20] [INFO] 127.0.0.1:50127 disconnected, 217100 bytes received, 369 bytes sent, lasted for 1 seconds
+[2022-11-11 10:14:21] [INFO] 127.0.0.1:50130 requested connection to edgedl.me.gvt1.com:80
+[2022-11-11 10:14:21] [INFO] 127.0.0.1:50130 disconnected, 421362 bytes received, 369 bytes sent, lasted for 0 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49960 disconnected, 5445 bytes received, 3276 bytes sent, lasted for 91 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49898 disconnected, 7341 bytes received, 832 bytes sent, lasted for 94 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49970 disconnected, 6821 bytes received, 3627 bytes sent, lasted for 89 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49895 disconnected, 2623093 bytes received, 9787 bytes sent, lasted for 95 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49908 disconnected, 107898 bytes received, 1686 bytes sent, lasted for 93 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49914 disconnected, 13700 bytes received, 1243 bytes sent, lasted for 93 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49889 disconnected, 549570 bytes received, 9604 bytes sent, lasted for 96 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49892 disconnected, 90003 bytes received, 2205 bytes sent, lasted for 96 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49932 disconnected, 714972 bytes received, 244935 bytes sent, lasted for 92 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49950 disconnected, 6311 bytes received, 59625 bytes sent, lasted for 91 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49902 disconnected, 7362 bytes received, 2337 bytes sent, lasted for 94 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49935 disconnected, 92219 bytes received, 2205 bytes sent, lasted for 92 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49911 disconnected, 230723 bytes received, 2090 bytes sent, lasted for 93 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49905 disconnected, 422285 bytes received, 2228 bytes sent, lasted for 94 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50030 disconnected, 35423 bytes received, 1021 bytes sent, lasted for 56 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49953 disconnected, 7284 bytes received, 1247 bytes sent, lasted for 91 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49947 disconnected, 47153 bytes received, 1133 bytes sent, lasted for 92 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49917 disconnected, 20626 bytes received, 1517 bytes sent, lasted for 93 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49920 disconnected, 5345 bytes received, 3390 bytes sent, lasted for 93 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49976 disconnected, 6889 bytes received, 1457 bytes sent, lasted for 84 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49944 disconnected, 81621 bytes received, 1666 bytes sent, lasted for 92 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49938 disconnected, 5752 bytes received, 1292 bytes sent, lasted for 92 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49999 disconnected, 6228 bytes received, 1521 bytes sent, lasted for 56 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50038 disconnected, 10175 bytes received, 1290 bytes sent, lasted for 55 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50017 disconnected, 11922 bytes received, 1081 bytes sent, lasted for 56 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49963 disconnected, 6637 bytes received, 1281 bytes sent, lasted for 90 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50026 disconnected, 113203 bytes received, 1603 bytes sent, lasted for 56 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50002 disconnected, 32028 bytes received, 1421 bytes sent, lasted for 56 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50005 disconnected, 55942 bytes received, 1223 bytes sent, lasted for 56 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50049 disconnected, 5789 bytes received, 1386 bytes sent, lasted for 54 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50012 disconnected, 15453 bytes received, 1280 bytes sent, lasted for 56 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49886 disconnected, 6050 bytes received, 1088 bytes sent, lasted for 96 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:49924 disconnected, 8565 bytes received, 1034 bytes sent, lasted for 93 seconds
+[2022-11-11 10:14:31] [INFO] 127.0.0.1:50073 disconnected, 9422 bytes received, 12296 bytes sent, lasted for 36 seconds
+[2022-11-11 10:14:40] [INFO] 127.0.0.1:49966 disconnected, 3102 bytes received, 1351 bytes sent, lasted for 98 seconds
+[2022-11-11 10:15:00] [INFO] 127.0.0.1:50210 requested connection to default.exp-tas.com:443
+[2022-11-11 10:15:01] [INFO] 127.0.0.1:50213 requested connection to dc.services.visualstudio.com:443
+[2022-11-11 10:15:01] [INFO] 127.0.0.1:50216 requested connection to dc.services.visualstudio.com:443
+[2022-11-11 10:15:01] [INFO] 127.0.0.1:50219 requested connection to roslynomnisharp.blob.core.windows.net:443
+[2022-11-11 10:15:01] [INFO] 127.0.0.1:50222 requested connection to marketplace.visualstudio.com:443
+[2022-11-11 10:15:02] [INFO] 127.0.0.1:50216 disconnected, 4848 bytes received, 836 bytes sent, lasted for 1 seconds
+[2022-11-11 10:15:02] [INFO] 127.0.0.1:50213 disconnected, 4848 bytes received, 832 bytes sent, lasted for 1 seconds
+[2022-11-11 10:15:03] [INFO] 127.0.0.1:50226 requested connection to vscodeexperiments.azureedge.net:443
+[2022-11-11 10:15:04] [INFO] 127.0.0.1:50230 requested connection to mobile.events.data.microsoft.com:443
+[2022-11-11 10:15:05] [INFO] 127.0.0.1:50230 disconnected, 5027 bytes received, 12234 bytes sent, lasted for 1 seconds
+[2022-11-11 10:15:07] [INFO] 127.0.0.1:50219 disconnected, 29381887 bytes received, 830 bytes sent, lasted for 6 seconds
+[2022-11-11 10:15:08] [INFO] 127.0.0.1:50239 requested connection to vsdebugger.azureedge.net:443
+[2022-11-11 10:15:11] [INFO] 127.0.0.1:50243 requested connection to default.exp-tas.com:443
+[2022-11-11 10:15:11] [INFO] 127.0.0.1:50243 disconnected, 6453 bytes received, 933 bytes sent, lasted for 0 seconds
+[2022-11-11 10:15:13] [INFO] 127.0.0.1:50247 requested connection to mobile.events.data.microsoft.com:443
+[2022-11-11 10:15:14] [INFO] 127.0.0.1:50247 disconnected, 5025 bytes received, 3471 bytes sent, lasted for 1 seconds
+[2022-11-11 10:15:16] [INFO] 127.0.0.1:50252 requested connection to dc.services.visualstudio.com:443
+[2022-11-11 10:15:16] [INFO] 127.0.0.1:50255 requested connection to mobile.events.data.microsoft.com:443
+[2022-11-11 10:15:17] [INFO] 127.0.0.1:50239 disconnected, 48470178 bytes received, 1031 bytes sent, lasted for 9 seconds
+[2022-11-11 10:15:17] [INFO] 127.0.0.1:50252 disconnected, 4988 bytes received, 1419 bytes sent, lasted for 1 seconds
+[2022-11-11 10:15:20] [INFO] 127.0.0.1:50255 disconnected, 4988 bytes received, 1474 bytes sent, lasted for 4 seconds
+[2022-11-11 10:15:33] [INFO] 127.0.0.1:50269 requested connection to mobile.events.data.microsoft.com:443
+[2022-11-11 10:15:35] [INFO] 127.0.0.1:50269 disconnected, 4988 bytes received, 8330 bytes sent, lasted for 2 seconds
+[2022-11-11 10:15:40] [INFO] 127.0.0.1:49839 disconnected, 5268 bytes received, 3003 bytes sent, lasted for 180 seconds
+[2022-11-11 10:15:47] [INFO] 127.0.0.1:50281 requested connection to mobile.events.data.microsoft.com:443
+[2022-11-11 10:15:48] [INFO] 127.0.0.1:50281 disconnected, 5027 bytes received, 2836 bytes sent, lasted for 1 seconds
+[2022-11-11 10:15:51] [INFO] 127.0.0.1:50286 requested connection to xbvpn.site:443
+[2022-11-11 10:15:51] [INFO] 127.0.0.1:50289 requested connection to xbvpn.site:443
+[2022-11-11 10:15:53] [INFO] 127.0.0.1:49982 disconnected, 6947 bytes received, 1013 bytes sent, lasted for 161 seconds
+[2022-11-11 10:15:53] [INFO] 127.0.0.1:49878 disconnected, 4817 bytes received, 7601 bytes sent, lasted for 189 seconds
+[2022-11-11 10:15:53] [INFO] 127.0.0.1:50226 disconnected, 8454 bytes received, 1505 bytes sent, lasted for 50 seconds
+[2022-11-11 10:15:53] [INFO] 127.0.0.1:50286 disconnected, 16983 bytes received, 1107 bytes sent, lasted for 2 seconds
+[2022-11-11 10:15:53] [INFO] 127.0.0.1:50289 disconnected, 126265 bytes received, 757 bytes sent, lasted for 2 seconds
+[2022-11-11 10:15:53] [INFO] 127.0.0.1:50222 disconnected, 105227 bytes received, 2869 bytes sent, lasted for 52 seconds
+[2022-11-11 10:15:53] [INFO] 127.0.0.1:50210 disconnected, 6966 bytes received, 1730 bytes sent, lasted for 53 seconds

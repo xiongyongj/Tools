@@ -1,0 +1,509 @@
+[2022-08-10 09:46:32] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-08-10 09:46:33] [INFO] 127.0.0.1:54009 requested connection to www.gstatic.com:80
+[2022-08-10 09:46:33] [INFO] 127.0.0.1:54010 requested connection to www.google.com.hk:443
+[2022-08-10 09:46:33] [INFO] 127.0.0.1:54009 disconnected, 102 bytes received, 305 bytes sent, lasted for 0 seconds
+[2022-08-10 09:46:34] [INFO] 127.0.0.1:54017 requested connection to www.gstatic.com:443
+[2022-08-10 09:46:34] [INFO] 127.0.0.1:54020 requested connection to id.google.com.hk:443
+[2022-08-10 09:46:39] [INFO] 127.0.0.1:54028 requested connection to play.google.com:443
+[2022-08-10 09:46:41] [INFO] 127.0.0.1:54031 requested connection to play.google.com:443
+[2022-08-10 09:46:53] [INFO] 127.0.0.1:54038 requested connection to www.google.com:443
+[2022-08-10 09:47:03] [INFO] 127.0.0.1:54038 disconnected, 4287 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-10 09:47:53] [INFO] 127.0.0.1:54017 disconnected, 4955 bytes received, 659 bytes sent, lasted for 79 seconds
+[2022-08-10 09:47:53] [INFO] 127.0.0.1:54058 requested connection to www.google.com:443
+[2022-08-10 09:48:03] [INFO] 127.0.0.1:54058 disconnected, 212 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-10 09:48:13] [INFO] 127.0.0.1:54064 requested connection to www.google.com.hk:443
+[2022-08-10 09:48:13] [INFO] 127.0.0.1:54065 requested connection to google.com.hk:443
+[2022-08-10 09:50:36] [INFO] 127.0.0.1:54020 disconnected, 1851 bytes received, 1763 bytes sent, lasted for 242 seconds
+[2022-08-10 09:50:41] [INFO] 127.0.0.1:54028 disconnected, 7897 bytes received, 1196 bytes sent, lasted for 242 seconds
+[2022-08-10 09:50:41] [INFO] 127.0.0.1:54031 disconnected, 8677 bytes received, 2005 bytes sent, lasted for 240 seconds
+[2022-08-10 09:52:13] [INFO] 127.0.0.1:54010 disconnected, 538767 bytes received, 11841 bytes sent, lasted for 340 seconds
+[2022-08-10 09:52:14] [INFO] 127.0.0.1:54065 disconnected, 1995 bytes received, 1436 bytes sent, lasted for 241 seconds
+[2022-08-10 09:52:14] [INFO] 127.0.0.1:54064 disconnected, 6088 bytes received, 22111 bytes sent, lasted for 241 seconds
+[2022-08-10 09:53:14] [INFO] 127.0.0.1:54178 requested connection to google.com.hk:443
+[2022-08-10 09:53:14] [INFO] 127.0.0.1:54181 requested connection to www.google.com.hk:443
+[2022-08-10 09:56:03] [INFO] 127.0.0.1:54316 requested connection to www.google.com.hk:443
+[2022-08-10 09:56:04] [INFO] 127.0.0.1:54320 requested connection to www.google.com.hk:443
+[2022-08-10 09:56:04] [INFO] 127.0.0.1:54323 requested connection to www.google.com.hk:443
+[2022-08-10 09:56:04] [INFO] 127.0.0.1:54327 requested connection to www.gstatic.com:443
+[2022-08-10 09:56:04] [INFO] 127.0.0.1:54320 disconnected, 0 bytes received, 597 bytes sent, lasted for 0 seconds
+[2022-08-10 09:56:04] [INFO] 127.0.0.1:54323 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-10 09:56:05] [INFO] 127.0.0.1:54332 requested connection to id.google.com.hk:443
+[2022-08-10 09:56:05] [INFO] 127.0.0.1:54335 requested connection to play.google.com:443
+[2022-08-10 09:56:12] [INFO] 127.0.0.1:54377 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-10 09:56:14] [INFO] 127.0.0.1:54396 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-10 09:56:15] [INFO] 127.0.0.1:54401 requested connection to www.google.com:443
+[2022-08-10 09:57:14] [INFO] 127.0.0.1:54178 disconnected, 1995 bytes received, 1428 bytes sent, lasted for 240 seconds
+[2022-08-10 09:57:15] [INFO] 127.0.0.1:54181 disconnected, 6088 bytes received, 1439 bytes sent, lasted for 241 seconds
+[2022-08-10 09:57:27] [INFO] 127.0.0.1:54327 disconnected, 4954 bytes received, 659 bytes sent, lasted for 83 seconds
+[2022-08-10 09:57:27] [INFO] 127.0.0.1:54428 requested connection to www.google.com.hk:443
+[2022-08-10 09:59:12] [INFO] 127.0.0.1:54471 requested connection to google.com.hk:443
+[2022-08-10 10:00:06] [INFO] 127.0.0.1:54335 disconnected, 1837 bytes received, 2004 bytes sent, lasted for 241 seconds
+[2022-08-10 10:00:07] [INFO] 127.0.0.1:54332 disconnected, 5781 bytes received, 1765 bytes sent, lasted for 242 seconds
+[2022-08-10 10:00:11] [INFO] 127.0.0.1:54316 disconnected, 80496 bytes received, 8025 bytes sent, lasted for 248 seconds
+[2022-08-10 10:00:15] [INFO] 127.0.0.1:54401 disconnected, 6370 bytes received, 1496 bytes sent, lasted for 240 seconds
+[2022-08-10 10:00:16] [INFO] 127.0.0.1:54377 disconnected, 56349 bytes received, 3863 bytes sent, lasted for 244 seconds
+[2022-08-10 10:00:16] [INFO] 127.0.0.1:54396 disconnected, 4890 bytes received, 3467 bytes sent, lasted for 242 seconds
+[2022-08-10 10:01:28] [INFO] 127.0.0.1:54428 disconnected, 6087 bytes received, 3789 bytes sent, lasted for 241 seconds
+[2022-08-10 10:03:13] [INFO] 127.0.0.1:54471 disconnected, 6088 bytes received, 1731 bytes sent, lasted for 241 seconds
+[2022-08-10 10:08:43] [INFO] 127.0.0.1:54658 requested connection to clients2.google.com:443
+[2022-08-10 10:08:44] [INFO] 127.0.0.1:54658 disconnected, 7282 bytes received, 796 bytes sent, lasted for 1 seconds
+[2022-08-10 10:15:54] [INFO] 127.0.0.1:54833 requested connection to www.google.com:443
+[2022-08-10 10:16:05] [INFO] 127.0.0.1:54833 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-10 10:16:33] [INFO] 127.0.0.1:54850 requested connection to www.google.com:443
+[2022-08-10 10:16:33] [INFO] 127.0.0.1:54861 requested connection to content-autofill.googleapis.com:443
+[2022-08-10 10:16:34] [INFO] 127.0.0.1:54866 requested connection to www.google.com.hk:443
+[2022-08-10 10:20:37] [INFO] 127.0.0.1:54850 disconnected, 8543 bytes received, 1797 bytes sent, lasted for 244 seconds
+[2022-08-10 10:20:38] [INFO] 127.0.0.1:54866 disconnected, 291208 bytes received, 2566 bytes sent, lasted for 244 seconds
+[2022-08-10 10:20:51] [INFO] 127.0.0.1:54861 disconnected, 6132 bytes received, 3081 bytes sent, lasted for 258 seconds
+[2022-08-10 10:21:36] [INFO] 127.0.0.1:54938 requested connection to www.google.com.hk:443
+[2022-08-10 10:22:21] [INFO] 127.0.0.1:54956 requested connection to www.google.com.hk:443
+[2022-08-10 10:22:23] [INFO] 127.0.0.1:54969 requested connection to content-autofill.googleapis.com:443
+[2022-08-10 10:22:55] [INFO] 127.0.0.1:55020 requested connection to www.google.com:443
+[2022-08-10 10:23:05] [INFO] 127.0.0.1:55020 disconnected, 4287 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-10 10:23:55] [INFO] 127.0.0.1:55041 requested connection to www.google.com:443
+[2022-08-10 10:24:05] [INFO] 127.0.0.1:55041 disconnected, 4287 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-10 10:25:37] [INFO] 127.0.0.1:54938 disconnected, 1995 bytes received, 1872 bytes sent, lasted for 241 seconds
+[2022-08-10 10:25:54] [INFO] 127.0.0.1:55076 requested connection to www.google.com.hk:443
+[2022-08-10 10:26:23] [INFO] 127.0.0.1:54956 disconnected, 6543 bytes received, 3211 bytes sent, lasted for 242 seconds
+[2022-08-10 10:26:55] [INFO] 127.0.0.1:55132 requested connection to www.google.com:443
+[2022-08-10 10:27:05] [INFO] 127.0.0.1:55132 disconnected, 4288 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-10 10:27:47] [INFO] 127.0.0.1:55160 requested connection to avatars.githubusercontent.com:443
+[2022-08-10 10:27:55] [INFO] 127.0.0.1:55168 requested connection to www.google.com:443
+[2022-08-10 10:28:00] [INFO] 127.0.0.1:55185 requested connection to connect.facebook.net:443
+[2022-08-10 10:28:00] [INFO] 127.0.0.1:55188 requested connection to static.ads-twitter.com:443
+[2022-08-10 10:28:00] [INFO] 127.0.0.1:55191 requested connection to www.redditstatic.com:443
+[2022-08-10 10:28:01] [INFO] 127.0.0.1:55206 requested connection to t.co:443
+[2022-08-10 10:28:01] [INFO] 127.0.0.1:55208 requested connection to analytics.twitter.com:443
+[2022-08-10 10:28:01] [INFO] 127.0.0.1:55209 requested connection to t.co:443
+[2022-08-10 10:28:01] [INFO] 127.0.0.1:55210 requested connection to analytics.twitter.com:443
+[2022-08-10 10:28:01] [INFO] 127.0.0.1:55216 requested connection to www.facebook.com:443
+[2022-08-10 10:28:01] [INFO] 127.0.0.1:55219 requested connection to alb.reddit.com:443
+[2022-08-10 10:28:06] [INFO] 127.0.0.1:55168 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-10 10:28:06] [INFO] 127.0.0.1:55236 requested connection to t.co:443
+[2022-08-10 10:28:06] [INFO] 127.0.0.1:55237 requested connection to analytics.twitter.com:443
+[2022-08-10 10:28:06] [INFO] 127.0.0.1:55240 requested connection to t.co:443
+[2022-08-10 10:28:06] [INFO] 127.0.0.1:55241 requested connection to analytics.twitter.com:443
+[2022-08-10 10:28:09] [INFO] 127.0.0.1:55237 disconnected, 0 bytes received, 517 bytes sent, lasted for 3 seconds
+[2022-08-10 10:28:09] [INFO] 127.0.0.1:55253 requested connection to analytics.twitter.com:443
+[2022-08-10 10:28:13] [INFO] 127.0.0.1:55206 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 10:28:13] [INFO] 127.0.0.1:55257 requested connection to t.co:443
+[2022-08-10 10:28:13] [INFO] 127.0.0.1:55208 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 10:28:13] [INFO] 127.0.0.1:55260 requested connection to analytics.twitter.com:443
+[2022-08-10 10:28:13] [INFO] 127.0.0.1:55209 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 10:28:13] [INFO] 127.0.0.1:55263 requested connection to t.co:443
+[2022-08-10 10:28:14] [INFO] 127.0.0.1:55210 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:28:14] [INFO] 127.0.0.1:55266 requested connection to analytics.twitter.com:443
+[2022-08-10 10:28:19] [INFO] 127.0.0.1:55240 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:28:19] [INFO] 127.0.0.1:55236 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:28:19] [INFO] 127.0.0.1:55241 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:28:19] [INFO] 127.0.0.1:55283 requested connection to t.co:443
+[2022-08-10 10:28:19] [INFO] 127.0.0.1:55284 requested connection to t.co:443
+[2022-08-10 10:28:19] [INFO] 127.0.0.1:55285 requested connection to analytics.twitter.com:443
+[2022-08-10 10:28:22] [INFO] 127.0.0.1:55253 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:28:26] [INFO] 127.0.0.1:55257 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:28:26] [INFO] 127.0.0.1:55260 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:28:26] [INFO] 127.0.0.1:55263 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:28:26] [INFO] 127.0.0.1:55266 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 10:28:31] [INFO] 127.0.0.1:55285 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 10:28:31] [INFO] 127.0.0.1:55283 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 10:28:31] [INFO] 127.0.0.1:55284 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 10:28:55] [INFO] 127.0.0.1:55160 disconnected, 4269 bytes received, 581 bytes sent, lasted for 68 seconds
+[2022-08-10 10:28:55] [INFO] 127.0.0.1:55298 requested connection to www.google.com:443
+[2022-08-10 10:29:06] [INFO] 127.0.0.1:55298 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-10 10:29:06] [INFO] 127.0.0.1:55185 disconnected, 137806 bytes received, 1242 bytes sent, lasted for 66 seconds
+[2022-08-10 10:29:12] [INFO] 127.0.0.1:55216 disconnected, 3818 bytes received, 4811 bytes sent, lasted for 71 seconds
+[2022-08-10 10:29:55] [INFO] 127.0.0.1:55076 disconnected, 1995 bytes received, 1439 bytes sent, lasted for 241 seconds
+[2022-08-10 10:29:55] [INFO] 127.0.0.1:55336 requested connection to www.google.com:443
+[2022-08-10 10:30:06] [INFO] 127.0.0.1:55336 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-10 10:30:34] [INFO] 127.0.0.1:55351 requested connection to clients2.google.com:443
+[2022-08-10 10:30:46] [INFO] 127.0.0.1:55370 requested connection to www.facebook.com:443
+[2022-08-10 10:30:46] [INFO] 127.0.0.1:55376 requested connection to t.co:443
+[2022-08-10 10:30:46] [INFO] 127.0.0.1:55378 requested connection to analytics.twitter.com:443
+[2022-08-10 10:30:46] [INFO] 127.0.0.1:55379 requested connection to t.co:443
+[2022-08-10 10:30:46] [INFO] 127.0.0.1:55380 requested connection to analytics.twitter.com:443
+[2022-08-10 10:30:50] [INFO] 127.0.0.1:55380 disconnected, 0 bytes received, 517 bytes sent, lasted for 4 seconds
+[2022-08-10 10:30:50] [INFO] 127.0.0.1:55388 requested connection to analytics.twitter.com:443
+[2022-08-10 10:30:55] [INFO] 127.0.0.1:55391 requested connection to www.google.com:443
+[2022-08-10 10:30:59] [INFO] 127.0.0.1:55379 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:30:59] [INFO] 127.0.0.1:55378 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:30:59] [INFO] 127.0.0.1:55376 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:30:59] [INFO] 127.0.0.1:55397 requested connection to t.co:443
+[2022-08-10 10:30:59] [INFO] 127.0.0.1:55399 requested connection to analytics.twitter.com:443
+[2022-08-10 10:30:59] [INFO] 127.0.0.1:55400 requested connection to t.co:443
+[2022-08-10 10:31:02] [INFO] 127.0.0.1:55388 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 10:31:06] [INFO] 127.0.0.1:55391 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-10 10:31:12] [INFO] 127.0.0.1:55400 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:31:12] [INFO] 127.0.0.1:55399 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:31:12] [INFO] 127.0.0.1:55397 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-10 10:31:53] [INFO] 127.0.0.1:55370 disconnected, 1063 bytes received, 2553 bytes sent, lasted for 67 seconds
+[2022-08-10 10:34:35] [INFO] 127.0.0.1:55351 disconnected, 2833 bytes received, 1148 bytes sent, lasted for 241 seconds
+[2022-08-10 10:34:40] [INFO] 127.0.0.1:54969 disconnected, 3951 bytes received, 5850 bytes sent, lasted for 737 seconds
+[2022-08-10 10:35:46] [INFO] 127.0.0.1:55188 disconnected, 4691 bytes received, 1357 bytes sent, lasted for 466 seconds
+[2022-08-10 10:35:46] [INFO] 127.0.0.1:55191 disconnected, 4856 bytes received, 1225 bytes sent, lasted for 466 seconds
+[2022-08-10 10:35:47] [INFO] 127.0.0.1:55219 disconnected, 4678 bytes received, 1892 bytes sent, lasted for 466 seconds
+[2022-08-10 10:36:51] [INFO] 127.0.0.1:55521 requested connection to www.facebook.com:443
+[2022-08-10 10:36:53] [INFO] 127.0.0.1:55545 requested connection to static.ads-twitter.com:443
+[2022-08-10 10:36:53] [INFO] 127.0.0.1:55548 requested connection to www.redditstatic.com:443
+[2022-08-10 10:36:54] [INFO] 127.0.0.1:55558 requested connection to t.co:443
+[2022-08-10 10:36:54] [INFO] 127.0.0.1:55557 requested connection to analytics.twitter.com:443
+[2022-08-10 10:36:54] [INFO] 127.0.0.1:55561 requested connection to t.co:443
+[2022-08-10 10:36:54] [INFO] 127.0.0.1:55562 requested connection to analytics.twitter.com:443
+[2022-08-10 10:36:54] [INFO] 127.0.0.1:55568 requested connection to alb.reddit.com:443
+[2022-08-10 10:36:55] [INFO] 127.0.0.1:55572 requested connection to www.google.com:443
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55545 disconnected, 472 bytes received, 1135 bytes sent, lasted for 3 seconds
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55521 disconnected, 1228 bytes received, 3313 bytes sent, lasted for 5 seconds
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55572 disconnected, 4287 bytes received, 581 bytes sent, lasted for 1 seconds
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55557 disconnected, 0 bytes received, 517 bytes sent, lasted for 2 seconds
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55562 disconnected, 0 bytes received, 517 bytes sent, lasted for 2 seconds
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55561 disconnected, 0 bytes received, 517 bytes sent, lasted for 2 seconds
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55558 disconnected, 0 bytes received, 517 bytes sent, lasted for 2 seconds
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55548 disconnected, 999 bytes received, 1130 bytes sent, lasted for 3 seconds
+[2022-08-10 10:36:56] [INFO] 127.0.0.1:55568 disconnected, 659 bytes received, 1306 bytes sent, lasted for 2 seconds
+[2022-08-10 23:24:13] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-08-10 23:24:15] [INFO] 127.0.0.1:58346 requested connection to www.google.com:443
+[2022-08-10 23:24:15] [INFO] 127.0.0.1:58349 requested connection to www.google.com:443
+[2022-08-10 23:24:15] [INFO] 127.0.0.1:58352 requested connection to www.google.com:443
+[2022-08-10 23:24:15] [INFO] 127.0.0.1:58355 requested connection to www.google.com:443
+[2022-08-10 23:24:15] [INFO] 127.0.0.1:58349 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-10 23:24:15] [INFO] 127.0.0.1:58355 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-10 23:24:16] [INFO] 127.0.0.1:58360 requested connection to www.google.com.hk:443
+[2022-08-10 23:24:16] [INFO] 127.0.0.1:58363 requested connection to www.google.com.hk:443
+[2022-08-10 23:24:16] [INFO] 127.0.0.1:58370 requested connection to www.google.com.hk:443
+[2022-08-10 23:24:17] [INFO] 127.0.0.1:58360 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-10 23:24:19] [INFO] 127.0.0.1:58373 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-08-10 23:24:19] [INFO] 127.0.0.1:58376 requested connection to www.gstatic.com:443
+[2022-08-10 23:24:19] [INFO] 127.0.0.1:58379 requested connection to www.gstatic.com:443
+[2022-08-10 23:24:22] [INFO] 127.0.0.1:58379 disconnected, 0 bytes received, 517 bytes sent, lasted for 3 seconds
+[2022-08-10 23:24:24] [INFO] 127.0.0.1:58383 requested connection to id.google.com.hk:443
+[2022-08-10 23:24:25] [INFO] 127.0.0.1:58387 requested connection to www.youtube.com:443
+[2022-08-10 23:24:25] [INFO] 127.0.0.1:58388 requested connection to www.youtube.com:443
+[2022-08-10 23:24:27] [INFO] 127.0.0.1:58393 requested connection to content-autofill.googleapis.com:443
+[2022-08-10 23:24:27] [INFO] 127.0.0.1:58352 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 23:24:28] [INFO] 127.0.0.1:58396 requested connection to i.ytimg.com:443
+[2022-08-10 23:24:28] [INFO] 127.0.0.1:58370 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-10 23:24:30] [INFO] 127.0.0.1:58400 requested connection to accounts.google.com:443
+[2022-08-10 23:24:30] [INFO] 127.0.0.1:58403 requested connection to play.google.com:443
+[2022-08-10 23:24:32] [INFO] 127.0.0.1:58407 requested connection to play.google.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58410 requested connection to id.google.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58415 requested connection to i.ytimg.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58418 requested connection to yt3.ggpht.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58421 requested connection to i.ytimg.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58423 requested connection to yt3.ggpht.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58427 requested connection to i.ytimg.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58430 requested connection to yt3.ggpht.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58433 requested connection to i.ytimg.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58437 requested connection to yt3.ggpht.com:443
+[2022-08-10 23:24:34] [INFO] 127.0.0.1:58438 requested connection to i.ytimg.com:443
+[2022-08-10 23:24:35] [INFO] 127.0.0.1:58442 requested connection to yt3.ggpht.com:443
+[2022-08-10 23:24:35] [INFO] 127.0.0.1:58445 requested connection to yt3.ggpht.com:443
+[2022-08-10 23:24:35] [INFO] 127.0.0.1:58448 requested connection to jnn-pa.googleapis.com:443
+[2022-08-10 23:24:35] [INFO] 127.0.0.1:58418 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-10 23:24:35] [INFO] 127.0.0.1:58423 disconnected, 1186 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-10 23:24:36] [INFO] 127.0.0.1:58396 disconnected, 1186 bytes received, 517 bytes sent, lasted for 8 seconds
+[2022-08-10 23:24:36] [INFO] 127.0.0.1:58427 disconnected, 0 bytes received, 517 bytes sent, lasted for 2 seconds
+[2022-08-10 23:24:36] [INFO] 127.0.0.1:58415 disconnected, 0 bytes received, 517 bytes sent, lasted for 2 seconds
+[2022-08-10 23:24:36] [INFO] 127.0.0.1:58445 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-10 23:24:36] [INFO] 127.0.0.1:58442 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-10 23:24:37] [INFO] 127.0.0.1:58438 disconnected, 0 bytes received, 517 bytes sent, lasted for 3 seconds
+[2022-08-10 23:24:39] [INFO] 127.0.0.1:58433 disconnected, 0 bytes received, 517 bytes sent, lasted for 5 seconds
+[2022-08-10 23:24:40] [INFO] 127.0.0.1:58452 requested connection to youtube.com:443
+[2022-08-10 23:24:41] [INFO] 127.0.0.1:58437 disconnected, 0 bytes received, 517 bytes sent, lasted for 7 seconds
+[2022-08-10 23:25:14] [INFO] 127.0.0.1:58463 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-10 23:25:16] [INFO] 127.0.0.1:58467 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-10 23:25:16] [INFO] 127.0.0.1:58470 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-10 23:25:17] [INFO] 127.0.0.1:58473 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-10 23:25:17] [INFO] 127.0.0.1:58467 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-10 23:25:17] [INFO] 127.0.0.1:58473 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-10 23:25:17] [INFO] 127.0.0.1:58470 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-10 23:25:18] [INFO] 127.0.0.1:58490 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-10 23:25:31] [INFO] 127.0.0.1:58387 disconnected, 7284 bytes received, 581 bytes sent, lasted for 66 seconds
+[2022-08-10 23:25:31] [INFO] 127.0.0.1:58496 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-08-10 23:25:33] [INFO] 127.0.0.1:58499 requested connection to accounts.google.com:443
+[2022-08-10 23:26:02] [INFO] 127.0.0.1:58509 requested connection to google.com.hk:443
+[2022-08-10 23:26:06] [INFO] 127.0.0.1:58512 requested connection to rr1---sn-oguesn6d.googlevideo.com:443
+[2022-08-10 23:26:07] [INFO] 127.0.0.1:58515 requested connection to rr4---sn-oguelney.googlevideo.com:443
+[2022-08-10 23:26:07] [INFO] 127.0.0.1:58517 requested connection to rr4---sn-oguelney.googlevideo.com:443
+[2022-08-10 23:26:15] [INFO] 127.0.0.1:58531 requested connection to rr4---sn-oguelney.googlevideo.com:443
+[2022-08-10 23:26:16] [INFO] 127.0.0.1:58536 requested connection to rr3---sn-npoeenlk.googlevideo.com:443
+[2022-08-10 23:26:20] [INFO] 127.0.0.1:58542 requested connection to rr3---sn-npoeenlk.googlevideo.com:443
+[2022-08-10 23:27:16] [INFO] 127.0.0.1:58531 disconnected, 5178 bytes received, 581 bytes sent, lasted for 61 seconds
+[2022-08-10 23:28:23] [INFO] 127.0.0.1:58373 disconnected, 6128 bytes received, 1026 bytes sent, lasted for 244 seconds
+[2022-08-10 23:28:32] [INFO] 127.0.0.1:58400 disconnected, 264128 bytes received, 2009 bytes sent, lasted for 242 seconds
+[2022-08-10 23:28:34] [INFO] 127.0.0.1:58393 disconnected, 6132 bytes received, 1410 bytes sent, lasted for 247 seconds
+[2022-08-10 23:28:38] [INFO] 127.0.0.1:58448 disconnected, 38260 bytes received, 3075 bytes sent, lasted for 243 seconds
+[2022-08-10 23:28:40] [INFO] 127.0.0.1:58410 disconnected, 8417 bytes received, 1557 bytes sent, lasted for 246 seconds
+[2022-08-10 23:28:40] [INFO] 127.0.0.1:58383 disconnected, 6936 bytes received, 2181 bytes sent, lasted for 256 seconds
+[2022-08-10 23:28:41] [INFO] 127.0.0.1:58363 disconnected, 321390 bytes received, 13412 bytes sent, lasted for 265 seconds
+[2022-08-10 23:28:43] [INFO] 127.0.0.1:58452 disconnected, 8570 bytes received, 1459 bytes sent, lasted for 243 seconds
+[2022-08-10 23:29:03] [INFO] 127.0.0.1:58593 requested connection to www.google.com.hk:443
+[2022-08-10 23:29:04] [INFO] 127.0.0.1:58597 requested connection to www.google.com.hk:443
+[2022-08-10 23:29:06] [INFO] 127.0.0.1:58593 disconnected, 0 bytes received, 597 bytes sent, lasted for 3 seconds
+[2022-08-10 23:29:07] [INFO] 127.0.0.1:58403 disconnected, 8092 bytes received, 1358 bytes sent, lasted for 277 seconds
+[2022-08-10 23:29:08] [INFO] 127.0.0.1:58407 disconnected, 8990 bytes received, 3407 bytes sent, lasted for 276 seconds
+[2022-08-10 23:29:09] [INFO] 127.0.0.1:58512 disconnected, 13819 bytes received, 8141 bytes sent, lasted for 183 seconds
+[2022-08-10 23:29:15] [INFO] 127.0.0.1:58376 disconnected, 126574 bytes received, 3093 bytes sent, lasted for 296 seconds
+[2022-08-10 23:29:30] [INFO] 127.0.0.1:58542 disconnected, 14712855 bytes received, 34193 bytes sent, lasted for 190 seconds
+[2022-08-10 23:29:33] [INFO] 127.0.0.1:58496 disconnected, 6221 bytes received, 1321 bytes sent, lasted for 242 seconds
+[2022-08-10 23:29:34] [INFO] 127.0.0.1:58536 disconnected, 5126314 bytes received, 29692 bytes sent, lasted for 198 seconds
+[2022-08-10 23:30:00] [INFO] 127.0.0.1:58346 disconnected, 30661 bytes received, 5914 bytes sent, lasted for 345 seconds
+[2022-08-10 23:30:16] [INFO] 127.0.0.1:58517 disconnected, 14846071 bytes received, 36130 bytes sent, lasted for 249 seconds
+[2022-08-10 23:30:21] [INFO] 127.0.0.1:58616 requested connection to www.google.com:443
+[2022-08-10 23:30:31] [INFO] 127.0.0.1:58515 disconnected, 9898882 bytes received, 53537 bytes sent, lasted for 264 seconds
+[2022-08-10 23:30:37] [INFO] 127.0.0.1:58499 disconnected, 6758 bytes received, 2107 bytes sent, lasted for 304 seconds
+[2022-08-10 23:31:00] [INFO] 127.0.0.1:58626 requested connection to rr4---sn-ogul7n7k.googlevideo.com:443
+[2022-08-10 23:31:01] [INFO] 127.0.0.1:58629 requested connection to rr4---sn-oguelnzs.googlevideo.com:443
+[2022-08-10 23:31:01] [INFO] 127.0.0.1:58631 requested connection to rr4---sn-oguelnzs.googlevideo.com:443
+[2022-08-10 23:31:04] [INFO] 127.0.0.1:58636 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:31:04] [INFO] 127.0.0.1:58639 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:31:05] [INFO] 127.0.0.1:58509 disconnected, 6262 bytes received, 1898 bytes sent, lasted for 303 seconds
+[2022-08-10 23:31:07] [INFO] 127.0.0.1:58642 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:32:09] [INFO] 127.0.0.1:58631 disconnected, 5178 bytes received, 581 bytes sent, lasted for 68 seconds
+[2022-08-10 23:32:17] [INFO] 127.0.0.1:58642 disconnected, 1269303 bytes received, 9383 bytes sent, lasted for 70 seconds
+[2022-08-10 23:32:24] [INFO] 127.0.0.1:58639 disconnected, 5545173 bytes received, 29361 bytes sent, lasted for 80 seconds
+[2022-08-10 23:32:24] [INFO] 127.0.0.1:58636 disconnected, 2293820 bytes received, 29257 bytes sent, lasted for 80 seconds
+[2022-08-10 23:32:24] [INFO] 127.0.0.1:58658 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:32:24] [INFO] 127.0.0.1:58661 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:32:35] [INFO] 127.0.0.1:58658 disconnected, 86146 bytes received, 2859 bytes sent, lasted for 11 seconds
+[2022-08-10 23:32:38] [INFO] 127.0.0.1:58670 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:32:44] [INFO] 127.0.0.1:58674 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:32:45] [INFO] 127.0.0.1:58670 disconnected, 61018 bytes received, 2758 bytes sent, lasted for 7 seconds
+[2022-08-10 23:32:45] [INFO] 127.0.0.1:58661 disconnected, 1029592 bytes received, 11714 bytes sent, lasted for 21 seconds
+[2022-08-10 23:32:45] [INFO] 127.0.0.1:58677 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:32:46] [INFO] 127.0.0.1:58680 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:33:00] [INFO] 127.0.0.1:58708 requested connection to redirector.googlevideo.com:443
+[2022-08-10 23:33:03] [INFO] 127.0.0.1:58626 disconnected, 6262 bytes received, 2649 bytes sent, lasted for 123 seconds
+[2022-08-10 23:33:05] [INFO] 127.0.0.1:58597 disconnected, 1377 bytes received, 3492 bytes sent, lasted for 241 seconds
+[2022-08-10 23:33:45] [INFO] 127.0.0.1:58677 disconnected, 313602 bytes received, 18086 bytes sent, lasted for 60 seconds
+[2022-08-10 23:34:04] [INFO] 127.0.0.1:58674 disconnected, 5233297 bytes received, 31407 bytes sent, lasted for 80 seconds
+[2022-08-10 23:34:14] [INFO] 127.0.0.1:58388 disconnected, 2188171 bytes received, 451112 bytes sent, lasted for 589 seconds
+[2022-08-10 23:34:14] [INFO] 127.0.0.1:58708 disconnected, 7284 bytes received, 581 bytes sent, lasted for 74 seconds
+[2022-08-10 23:34:14] [INFO] 127.0.0.1:58725 requested connection to www.youtube.com:443
+[2022-08-10 23:34:14] [INFO] 127.0.0.1:58729 requested connection to www.youtube.com:443
+[2022-08-10 23:34:14] [INFO] 127.0.0.1:58730 requested connection to www.youtube.com:443
+[2022-08-10 23:34:22] [INFO] 127.0.0.1:58737 requested connection to www.youtube.com:443
+[2022-08-10 23:34:22] [INFO] 127.0.0.1:58680 disconnected, 1511056 bytes received, 5045 bytes sent, lasted for 96 seconds
+[2022-08-10 23:34:22] [INFO] 127.0.0.1:58740 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:34:29] [INFO] 127.0.0.1:58463 disconnected, 16958 bytes received, 8345 bytes sent, lasted for 555 seconds
+[2022-08-10 23:34:30] [INFO] 127.0.0.1:58490 disconnected, 11125 bytes received, 6757 bytes sent, lasted for 552 seconds
+[2022-08-10 23:34:31] [INFO] 127.0.0.1:58616 disconnected, 1282 bytes received, 1940 bytes sent, lasted for 250 seconds
+[2022-08-10 23:34:32] [INFO] 127.0.0.1:58753 requested connection to www.youtube.com:443
+[2022-08-10 23:34:32] [INFO] 127.0.0.1:58757 requested connection to www.youtube.com:443
+[2022-08-10 23:34:35] [INFO] 127.0.0.1:58725 disconnected, 0 bytes received, 595 bytes sent, lasted for 21 seconds
+[2022-08-10 23:34:35] [INFO] 127.0.0.1:58730 disconnected, 3558 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-08-10 23:34:35] [INFO] 127.0.0.1:58757 disconnected, 0 bytes received, 517 bytes sent, lasted for 3 seconds
+[2022-08-10 23:34:37] [INFO] 127.0.0.1:58753 disconnected, 0 bytes received, 517 bytes sent, lasted for 5 seconds
+[2022-08-10 23:34:49] [INFO] 127.0.0.1:58763 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:34:49] [INFO] 127.0.0.1:58740 disconnected, 63810 bytes received, 2758 bytes sent, lasted for 27 seconds
+[2022-08-10 23:34:51] [ERROR] 127.0.0.1:58729 SSL handshake failed with 14.215.107.16:28179: 信号灯超时时间已到
+[2022-08-10 23:34:51] [INFO] 127.0.0.1:58729 disconnected, 0 bytes received, 595 bytes sent, lasted for 37 seconds
+[2022-08-10 23:34:53] [INFO] 127.0.0.1:58767 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:35:00] [INFO] 127.0.0.1:58763 disconnected, 47058 bytes received, 2758 bytes sent, lasted for 11 seconds
+[2022-08-10 23:35:01] [INFO] 127.0.0.1:58770 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:35:06] [INFO] 127.0.0.1:58629 disconnected, 17380 bytes received, 11730 bytes sent, lasted for 245 seconds
+[2022-08-10 23:35:09] [INFO] 127.0.0.1:58430 disconnected, 1397694 bytes received, 15609 bytes sent, lasted for 635 seconds
+[2022-08-10 23:35:34] [INFO] 127.0.0.1:58767 disconnected, 1973875 bytes received, 11707 bytes sent, lasted for 41 seconds
+[2022-08-10 23:35:46] [INFO] 127.0.0.1:58780 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:35:58] [INFO] 127.0.0.1:58784 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:36:06] [INFO] 127.0.0.1:58421 disconnected, 8428216 bytes received, 34710 bytes sent, lasted for 692 seconds
+[2022-08-10 23:37:02] [INFO] 127.0.0.1:58784 disconnected, 5178 bytes received, 581 bytes sent, lasted for 64 seconds
+[2022-08-10 23:39:24] [INFO] 127.0.0.1:58849 requested connection to beacons5.gvt3.com:443
+[2022-08-10 23:40:05] [INFO] 127.0.0.1:58860 requested connection to play.google.com:443
+[2022-08-10 23:40:20] [INFO] 127.0.0.1:58770 disconnected, 16755819 bytes received, 80353 bytes sent, lasted for 319 seconds
+[2022-08-10 23:40:23] [INFO] 127.0.0.1:58865 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:41:23] [INFO] 127.0.0.1:58879 requested connection to clients2.google.com:443
+[2022-08-10 23:41:24] [INFO] 127.0.0.1:58882 requested connection to clients2.google.com:443
+[2022-08-10 23:41:25] [INFO] 127.0.0.1:58882 disconnected, 6670 bytes received, 581 bytes sent, lasted for 1 seconds
+[2022-08-10 23:43:10] [INFO] 127.0.0.1:58933 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:43:10] [INFO] 127.0.0.1:58865 disconnected, 17543908 bytes received, 45306 bytes sent, lasted for 167 seconds
+[2022-08-10 23:43:10] [INFO] 127.0.0.1:58780 disconnected, 29929305 bytes received, 168572 bytes sent, lasted for 444 seconds
+[2022-08-10 23:43:10] [INFO] 127.0.0.1:58936 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:43:28] [INFO] 127.0.0.1:58849 disconnected, 6108 bytes received, 2125 bytes sent, lasted for 244 seconds
+[2022-08-10 23:44:04] [INFO] 127.0.0.1:58933 disconnected, 6365539 bytes received, 16348 bytes sent, lasted for 54 seconds
+[2022-08-10 23:44:06] [INFO] 127.0.0.1:58960 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:44:08] [INFO] 127.0.0.1:58965 requested connection to rr5---sn-npoe7nsk.googlevideo.com:443
+[2022-08-10 23:44:10] [INFO] 127.0.0.1:58860 disconnected, 1913 bytes received, 2252 bytes sent, lasted for 245 seconds
+[2022-08-10 23:45:09] [INFO] 127.0.0.1:58965 disconnected, 5178 bytes received, 581 bytes sent, lasted for 61 seconds
+[2022-08-10 23:45:26] [INFO] 127.0.0.1:58879 disconnected, 10972 bytes received, 1197 bytes sent, lasted for 243 seconds
+[2022-08-10 23:45:51] [INFO] 127.0.0.1:58990 requested connection to i.ytimg.com:443
+[2022-08-10 23:45:57] [INFO] 127.0.0.1:58995 requested connection to rr1---sn-oguelnz7.googlevideo.com:443
+[2022-08-10 23:45:57] [INFO] 127.0.0.1:58996 requested connection to rr1---sn-oguelnz7.googlevideo.com:443
+[2022-08-10 23:46:02] [INFO] 127.0.0.1:59001 requested connection to rr2---sn-ogul7ne6.googlevideo.com:443
+[2022-08-10 23:46:27] [INFO] 127.0.0.1:59015 requested connection to rr1---sn-npoe7ns7.googlevideo.com:443
+[2022-08-10 23:47:43] [INFO] 127.0.0.1:58936 disconnected, 39871887 bytes received, 81762 bytes sent, lasted for 273 seconds
+[2022-08-10 23:47:47] [INFO] 127.0.0.1:58960 disconnected, 30176944 bytes received, 61633 bytes sent, lasted for 221 seconds
+[2022-08-10 23:47:57] [INFO] 127.0.0.1:59047 requested connection to content-autofill.googleapis.com:443
+[2022-08-10 23:48:37] [INFO] 127.0.0.1:58996 disconnected, 1163313 bytes received, 9624 bytes sent, lasted for 160 seconds
+[2022-08-10 23:48:37] [INFO] 127.0.0.1:58995 disconnected, 75722 bytes received, 4914 bytes sent, lasted for 160 seconds
+[2022-08-10 23:48:38] [INFO] 127.0.0.1:59001 disconnected, 26866 bytes received, 11962 bytes sent, lasted for 156 seconds
+[2022-08-10 23:48:38] [INFO] 127.0.0.1:59015 disconnected, 15228 bytes received, 7221 bytes sent, lasted for 131 seconds
+[2022-08-10 23:48:40] [INFO] 127.0.0.1:59073 requested connection to www.google.com:443
+[2022-08-10 23:48:51] [INFO] 127.0.0.1:59073 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-10 23:52:04] [INFO] 127.0.0.1:58990 disconnected, 696678 bytes received, 5551 bytes sent, lasted for 373 seconds
+[2022-08-10 23:52:12] [INFO] 127.0.0.1:59047 disconnected, 6560 bytes received, 2479 bytes sent, lasted for 255 seconds
+[2022-08-10 23:52:15] [INFO] 127.0.0.1:58737 disconnected, 49185 bytes received, 111025 bytes sent, lasted for 1073 seconds
+[2022-08-10 23:55:06] [INFO] 127.0.0.1:59268 requested connection to play.google.com:443
+[2022-08-10 23:57:10] [INFO] 127.0.0.1:59326 requested connection to www.youtube.com:443
+[2022-08-10 23:59:13] [INFO] 127.0.0.1:59268 disconnected, 1796 bytes received, 2252 bytes sent, lasted for 247 seconds
+[2022-08-11 00:01:11] [INFO] 127.0.0.1:59326 disconnected, 1400 bytes received, 3710 bytes sent, lasted for 241 seconds
+[2022-08-11 00:03:34] [INFO] 127.0.0.1:59471 requested connection to content-autofill.googleapis.com:443
+[2022-08-11 00:03:41] [INFO] 127.0.0.1:59480 requested connection to www.google.com:443
+[2022-08-11 00:03:52] [INFO] 127.0.0.1:59480 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-11 00:04:41] [INFO] 127.0.0.1:59521 requested connection to www.google.com:443
+[2022-08-11 00:04:52] [INFO] 127.0.0.1:59521 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-11 00:04:59] [INFO] 127.0.0.1:59537 requested connection to i.ytimg.com:443
+[2022-08-11 00:04:59] [INFO] 127.0.0.1:59540 requested connection to i.ytimg.com:443
+[2022-08-11 00:04:59] [INFO] 127.0.0.1:59543 requested connection to i.ytimg.com:443
+[2022-08-11 00:05:12] [INFO] 127.0.0.1:59549 requested connection to www.youtube.com:443
+[2022-08-11 00:06:05] [INFO] 127.0.0.1:59537 disconnected, 826 bytes received, 655 bytes sent, lasted for 66 seconds
+[2022-08-11 00:06:05] [INFO] 127.0.0.1:59543 disconnected, 5362 bytes received, 581 bytes sent, lasted for 66 seconds
+[2022-08-11 00:06:05] [INFO] 127.0.0.1:59568 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-11 00:06:06] [INFO] 127.0.0.1:59571 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-11 00:06:07] [INFO] 127.0.0.1:59574 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-11 00:06:07] [INFO] 127.0.0.1:59577 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-11 00:06:07] [INFO] 127.0.0.1:59568 disconnected, 0 bytes received, 615 bytes sent, lasted for 2 seconds
+[2022-08-11 00:06:07] [INFO] 127.0.0.1:59577 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-11 00:06:08] [INFO] 127.0.0.1:59581 requested connection to www.google.com:443
+[2022-08-11 00:06:08] [INFO] 127.0.0.1:59584 requested connection to suggestqueries-clients6.youtube.com:443
+[2022-08-11 00:06:10] [INFO] 127.0.0.1:59574 disconnected, 0 bytes received, 517 bytes sent, lasted for 3 seconds
+[2022-08-11 00:06:16] [INFO] 127.0.0.1:59593 requested connection to yt3.ggpht.com:443
+[2022-08-11 00:08:01] [INFO] 127.0.0.1:59549 disconnected, 89790 bytes received, 80707 bytes sent, lasted for 169 seconds
+[2022-08-11 00:08:01] [INFO] 127.0.0.1:59629 requested connection to www.youtube.com:443
+[2022-08-11 00:08:04] [INFO] 127.0.0.1:59633 requested connection to www.youtube.com:443
+[2022-08-11 00:08:06] [INFO] 127.0.0.1:59629 disconnected, 0 bytes received, 595 bytes sent, lasted for 5 seconds
+[2022-08-11 00:08:19] [INFO] 127.0.0.1:59471 disconnected, 7219 bytes received, 9482 bytes sent, lasted for 285 seconds
+[2022-08-11 00:10:05] [INFO] 127.0.0.1:59655 requested connection to play.google.com:443
+[2022-08-11 00:10:19] [INFO] 127.0.0.1:59633 disconnected, 98534 bytes received, 124149 bytes sent, lasted for 135 seconds
+[2022-08-11 00:10:19] [INFO] 127.0.0.1:59662 requested connection to www.youtube.com:443
+[2022-08-11 00:10:46] [INFO] 127.0.0.1:59668 requested connection to rr2---sn-ogul7n7k.googlevideo.com:443
+[2022-08-11 00:10:46] [INFO] 127.0.0.1:59671 requested connection to rr2---sn-ogul7n7k.googlevideo.com:443
+[2022-08-11 00:10:46] [INFO] 127.0.0.1:59673 requested connection to rr2---sn-ogul7n7k.googlevideo.com:443
+[2022-08-11 00:10:46] [INFO] 127.0.0.1:59677 requested connection to r1---sn-4g5e6nzz.googlevideo.com:443
+[2022-08-11 00:10:47] [INFO] 127.0.0.1:59680 requested connection to rr3---sn-npoldn7z.googlevideo.com:443
+[2022-08-11 00:10:49] [INFO] 127.0.0.1:59683 requested connection to rr3---sn-npoldn7z.googlevideo.com:443
+[2022-08-11 00:11:07] [INFO] 127.0.0.1:59693 requested connection to google.com:443
+[2022-08-11 00:11:07] [INFO] 127.0.0.1:59680 disconnected, 5178 bytes received, 2796 bytes sent, lasted for 20 seconds
+[2022-08-11 00:11:57] [INFO] 127.0.0.1:59677 disconnected, 5178 bytes received, 581 bytes sent, lasted for 71 seconds
+[2022-08-11 00:12:18] [INFO] 127.0.0.1:59668 disconnected, 5178 bytes received, 581 bytes sent, lasted for 92 seconds
+[2022-08-11 00:12:18] [INFO] 127.0.0.1:59708 requested connection to rr3---sn-ogul7n7d.googlevideo.com:443
+[2022-08-11 00:12:20] [INFO] 127.0.0.1:59712 requested connection to rr3---sn-oguelnsy.googlevideo.com:443
+[2022-08-11 00:12:20] [INFO] 127.0.0.1:59713 requested connection to rr3---sn-oguelnsy.googlevideo.com:443
+[2022-08-11 00:12:21] [INFO] 127.0.0.1:59717 requested connection to rr4---sn-npoldn7l.googlevideo.com:443
+[2022-08-11 00:12:22] [INFO] 127.0.0.1:59720 requested connection to rr4---sn-npoldn7l.googlevideo.com:443
+[2022-08-11 00:12:24] [INFO] 127.0.0.1:59724 requested connection to rr4---sn-npoldn7l.googlevideo.com:443
+[2022-08-11 00:12:25] [INFO] 127.0.0.1:59727 requested connection to rr4---sn-npoldn7l.googlevideo.com:443
+[2022-08-11 00:12:31] [INFO] 127.0.0.1:59730 requested connection to rr1---sn-oguelnz7.googlevideo.com:443
+[2022-08-11 00:12:34] [INFO] 127.0.0.1:59734 requested connection to rr2---sn-ogul7ne6.googlevideo.com:443
+[2022-08-11 00:12:37] [INFO] 127.0.0.1:59717 disconnected, 585834 bytes received, 13822 bytes sent, lasted for 16 seconds
+[2022-08-11 00:12:48] [INFO] 127.0.0.1:59671 disconnected, 5917 bytes received, 1615 bytes sent, lasted for 122 seconds
+[2022-08-11 00:12:51] [INFO] 127.0.0.1:59763 requested connection to rr1---sn-oguesn6r.googlevideo.com:443
+[2022-08-11 00:12:52] [INFO] 127.0.0.1:59767 requested connection to rr1---sn-oguesn6r.googlevideo.com:443
+[2022-08-11 00:12:52] [INFO] 127.0.0.1:59768 requested connection to rr1---sn-oguesn6r.googlevideo.com:443
+[2022-08-11 00:12:53] [INFO] 127.0.0.1:59772 requested connection to rr2---sn-npoeenle.googlevideo.com:443
+[2022-08-11 00:12:54] [INFO] 127.0.0.1:59776 requested connection to rr1---sn-oguesn6r.googlevideo.com:443
+[2022-08-11 00:13:04] [INFO] 127.0.0.1:59673 disconnected, 243465 bytes received, 11798 bytes sent, lasted for 138 seconds
+[2022-08-11 00:13:05] [INFO] 127.0.0.1:59683 disconnected, 975857 bytes received, 26921 bytes sent, lasted for 136 seconds
+[2022-08-11 00:13:26] [INFO] 127.0.0.1:59727 disconnected, 5178 bytes received, 581 bytes sent, lasted for 61 seconds
+[2022-08-11 00:13:27] [INFO] 127.0.0.1:59724 disconnected, 5178 bytes received, 581 bytes sent, lasted for 63 seconds
+[2022-08-11 00:13:54] [INFO] 127.0.0.1:59768 disconnected, 5178 bytes received, 581 bytes sent, lasted for 62 seconds
+[2022-08-11 00:13:57] [INFO] 127.0.0.1:59571 disconnected, 4641 bytes received, 3976 bytes sent, lasted for 471 seconds
+[2022-08-11 00:13:58] [INFO] 127.0.0.1:59584 disconnected, 2177 bytes received, 3553 bytes sent, lasted for 470 seconds
+[2022-08-11 00:13:58] [INFO] 127.0.0.1:59581 disconnected, 5530 bytes received, 2206 bytes sent, lasted for 470 seconds
+[2022-08-11 00:14:06] [INFO] 127.0.0.1:59655 disconnected, 8421 bytes received, 2252 bytes sent, lasted for 241 seconds
+[2022-08-11 00:14:20] [INFO] 127.0.0.1:59708 disconnected, 5917 bytes received, 1615 bytes sent, lasted for 122 seconds
+[2022-08-11 00:14:21] [INFO] 127.0.0.1:59713 disconnected, 7620 bytes received, 2810 bytes sent, lasted for 121 seconds
+[2022-08-11 00:14:25] [INFO] 127.0.0.1:59712 disconnected, 9979 bytes received, 4991 bytes sent, lasted for 125 seconds
+[2022-08-11 00:14:36] [INFO] 127.0.0.1:59720 disconnected, 751033 bytes received, 13645 bytes sent, lasted for 134 seconds
+[2022-08-11 00:14:40] [INFO] 127.0.0.1:59734 disconnected, 9011 bytes received, 2858 bytes sent, lasted for 126 seconds
+[2022-08-11 00:14:41] [INFO] 127.0.0.1:59804 requested connection to www.google.com:443
+[2022-08-11 00:14:52] [INFO] 127.0.0.1:59804 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-11 00:14:55] [INFO] 127.0.0.1:59767 disconnected, 78090 bytes received, 3818 bytes sent, lasted for 123 seconds
+[2022-08-11 00:14:55] [INFO] 127.0.0.1:59772 disconnected, 7298 bytes received, 2807 bytes sent, lasted for 122 seconds
+[2022-08-11 00:15:41] [INFO] 127.0.0.1:59815 requested connection to www.google.com:443
+[2022-08-11 00:15:52] [INFO] 127.0.0.1:59815 disconnected, 4286 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-11 00:16:01] [INFO] 127.0.0.1:59730 disconnected, 12875 bytes received, 5096 bytes sent, lasted for 210 seconds
+[2022-08-11 00:16:11] [INFO] 127.0.0.1:59693 disconnected, 8628 bytes received, 1824 bytes sent, lasted for 304 seconds
+[2022-08-11 00:16:14] [INFO] 127.0.0.1:59776 disconnected, 7961322 bytes received, 47687 bytes sent, lasted for 200 seconds
+[2022-08-11 00:16:16] [INFO] 127.0.0.1:59763 disconnected, 10593543 bytes received, 50248 bytes sent, lasted for 205 seconds
+[2022-08-11 00:16:28] [INFO] 127.0.0.1:59836 requested connection to rr5---sn-oguelnzy.googlevideo.com:443
+[2022-08-11 00:16:28] [INFO] 127.0.0.1:59840 requested connection to rr5---sn-oguelnzy.googlevideo.com:443
+[2022-08-11 00:16:28] [INFO] 127.0.0.1:59841 requested connection to rr5---sn-oguelnzy.googlevideo.com:443
+[2022-08-11 00:16:29] [INFO] 127.0.0.1:59845 requested connection to rr3---sn-npoe7ner.googlevideo.com:443
+[2022-08-11 00:16:30] [INFO] 127.0.0.1:59850 requested connection to rr3---sn-npoe7ner.googlevideo.com:443
+[2022-08-11 00:16:42] [INFO] 127.0.0.1:59854 requested connection to www.google.com:443
+[2022-08-11 00:16:52] [INFO] 127.0.0.1:59854 disconnected, 4288 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-11 00:17:42] [INFO] 127.0.0.1:59840 disconnected, 5178 bytes received, 581 bytes sent, lasted for 74 seconds
+[2022-08-11 00:17:42] [INFO] 127.0.0.1:59866 requested connection to www.google.com:443
+[2022-08-11 00:17:53] [INFO] 127.0.0.1:59866 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-11 00:18:30] [INFO] 127.0.0.1:59841 disconnected, 10011 bytes received, 5013 bytes sent, lasted for 122 seconds
+[2022-08-11 00:18:42] [INFO] 127.0.0.1:59880 requested connection to www.google.com:443
+[2022-08-11 00:18:46] [INFO] 127.0.0.1:59836 disconnected, 8396 bytes received, 3885 bytes sent, lasted for 138 seconds
+[2022-08-11 00:18:52] [INFO] 127.0.0.1:59880 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-11 00:18:56] [INFO] 127.0.0.1:59850 disconnected, 2552507 bytes received, 13922 bytes sent, lasted for 146 seconds
+[2022-08-11 00:18:59] [INFO] 127.0.0.1:59845 disconnected, 1299657 bytes received, 20533 bytes sent, lasted for 150 seconds
+[2022-08-11 00:19:39] [INFO] 127.0.0.1:59890 requested connection to rr2---sn-oguelnzz.googlevideo.com:443
+[2022-08-11 00:19:39] [INFO] 127.0.0.1:59891 requested connection to rr2---sn-oguelnzz.googlevideo.com:443
+[2022-08-11 00:19:39] [INFO] 127.0.0.1:59895 requested connection to rr2---sn-oguelnzz.googlevideo.com:443
+[2022-08-11 00:19:40] [INFO] 127.0.0.1:59898 requested connection to jnn-pa.googleapis.com:443
+[2022-08-11 00:19:42] [INFO] 127.0.0.1:59901 requested connection to www.google.com:443
+[2022-08-11 00:19:53] [INFO] 127.0.0.1:59901 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-11 00:20:11] [INFO] 127.0.0.1:59910 requested connection to play.google.com:443
+[2022-08-11 00:20:42] [INFO] 127.0.0.1:59916 requested connection to www.google.com:443
+[2022-08-11 00:20:43] [INFO] 127.0.0.1:59891 disconnected, 5178 bytes received, 581 bytes sent, lasted for 64 seconds
+[2022-08-11 00:20:45] [INFO] 127.0.0.1:59890 disconnected, 5178 bytes received, 581 bytes sent, lasted for 66 seconds
+[2022-08-11 00:20:56] [INFO] 127.0.0.1:59916 disconnected, 4287 bytes received, 581 bytes sent, lasted for 14 seconds
+[2022-08-11 00:21:10] [INFO] 127.0.0.1:59924 requested connection to rr1---sn-ogul7n7d.googlevideo.com:443
+[2022-08-11 00:21:10] [INFO] 127.0.0.1:59925 requested connection to rr1---sn-ogul7n7d.googlevideo.com:443
+[2022-08-11 00:21:14] [INFO] 127.0.0.1:59929 requested connection to rr5---sn-npoeenll.googlevideo.com:443
+[2022-08-11 00:21:14] [INFO] 127.0.0.1:59933 requested connection to rr4---sn-oguelnsr.googlevideo.com:443
+[2022-08-11 00:21:14] [INFO] 127.0.0.1:59934 requested connection to rr4---sn-oguelnsr.googlevideo.com:443
+[2022-08-11 00:21:14] [INFO] 127.0.0.1:59924 disconnected, 206050 bytes received, 2650 bytes sent, lasted for 4 seconds
+[2022-08-11 00:21:14] [INFO] 127.0.0.1:59925 disconnected, 9922 bytes received, 2554 bytes sent, lasted for 4 seconds
+[2022-08-11 00:21:15] [INFO] 127.0.0.1:59938 requested connection to rr1---sn-ogul7n7d.googlevideo.com:443
+[2022-08-11 00:21:15] [INFO] 127.0.0.1:59940 requested connection to rr1---sn-ogul7n7d.googlevideo.com:443
+[2022-08-11 00:21:25] [INFO] 127.0.0.1:59940 disconnected, 501702 bytes received, 7399 bytes sent, lasted for 10 seconds
+[2022-08-11 00:21:29] [INFO] 127.0.0.1:59949 requested connection to rr2---sn-ogul7n7k.googlevideo.com:443
+[2022-08-11 00:21:29] [INFO] 127.0.0.1:59950 requested connection to rr2---sn-ogul7n7k.googlevideo.com:443
+[2022-08-11 00:21:29] [INFO] 127.0.0.1:59933 disconnected, 282469 bytes received, 7539 bytes sent, lasted for 15 seconds
+[2022-08-11 00:21:29] [INFO] 127.0.0.1:59954 requested connection to rr4---sn-oguelnsr.googlevideo.com:443
+[2022-08-11 00:21:32] [INFO] 127.0.0.1:59957 requested connection to rr4---sn-oguelnsr.googlevideo.com:443
+[2022-08-11 00:21:37] [INFO] 127.0.0.1:59934 disconnected, 773030 bytes received, 18669 bytes sent, lasted for 23 seconds
+[2022-08-11 00:21:37] [INFO] 127.0.0.1:59957 disconnected, 102530 bytes received, 2903 bytes sent, lasted for 5 seconds
+[2022-08-11 00:21:41] [INFO] 127.0.0.1:59962 requested connection to rr5---sn-npoldn7z.googlevideo.com:443
+[2022-08-11 00:21:42] [INFO] 127.0.0.1:59895 disconnected, 31199 bytes received, 2639 bytes sent, lasted for 123 seconds
+[2022-08-11 00:21:42] [INFO] 127.0.0.1:59965 requested connection to www.google.com:443
+[2022-08-11 00:21:44] [INFO] 127.0.0.1:59969 requested connection to rr3---sn-oguelnss.googlevideo.com:443
+[2022-08-11 00:21:44] [INFO] 127.0.0.1:59970 requested connection to rr3---sn-oguelnss.googlevideo.com:443
+[2022-08-11 00:21:44] [INFO] 127.0.0.1:59950 disconnected, 117099 bytes received, 2886 bytes sent, lasted for 15 seconds
+[2022-08-11 00:21:51] [INFO] 127.0.0.1:59978 requested connection to rr4---sn-oguesn6r.googlevideo.com:443
+[2022-08-11 00:21:51] [INFO] 127.0.0.1:59979 requested connection to rr4---sn-oguesn6r.googlevideo.com:443
+[2022-08-11 00:21:52] [INFO] 127.0.0.1:59965 disconnected, 4288 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-11 00:22:09] [INFO] 127.0.0.1:59986 requested connection to rr1---sn-ogul7nll.googlevideo.com:443
+[2022-08-11 00:22:09] [INFO] 127.0.0.1:59987 requested connection to rr1---sn-ogul7nll.googlevideo.com:443
+[2022-08-11 00:22:09] [INFO] 127.0.0.1:59978 disconnected, 325847 bytes received, 14077 bytes sent, lasted for 18 seconds
+[2022-08-11 00:22:17] [INFO] 127.0.0.1:59993 requested connection to rr5---sn-oguelnss.googlevideo.com:443
+[2022-08-11 00:22:17] [INFO] 127.0.0.1:59994 requested connection to rr5---sn-oguelnss.googlevideo.com:443
+[2022-08-11 00:22:17] [INFO] 127.0.0.1:59987 disconnected, 608966 bytes received, 11881 bytes sent, lasted for 8 seconds
+[2022-08-11 00:22:20] [INFO] 127.0.0.1:60000 requested connection to www.google.com:443
+[2022-08-11 00:22:20] [INFO] 127.0.0.1:60004 requested connection to rr1---sn-oguelney.googlevideo.com:443
+[2022-08-11 00:22:20] [INFO] 127.0.0.1:60005 requested connection to rr1---sn-oguelney.googlevideo.com:443
+[2022-08-11 00:22:20] [INFO] 127.0.0.1:59993 disconnected, 190845 bytes received, 5055 bytes sent, lasted for 3 seconds
+[2022-08-11 00:22:21] [INFO] 127.0.0.1:60005 disconnected, 5178 bytes received, 2858 bytes sent, lasted for 1 seconds
+[2022-08-11 00:22:24] [INFO] 127.0.0.1:60009 requested connection to www.google.com.hk:443
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59662 disconnected, 1124209 bytes received, 1737024 bytes sent, lasted for 734 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:60000 disconnected, 5823 bytes received, 1842 bytes sent, lasted for 13 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59938 disconnected, 527055 bytes received, 9689 bytes sent, lasted for 78 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59898 disconnected, 19004 bytes received, 4712 bytes sent, lasted for 173 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59994 disconnected, 5178 bytes received, 581 bytes sent, lasted for 16 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59969 disconnected, 519325 bytes received, 13897 bytes sent, lasted for 49 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59970 disconnected, 578688 bytes received, 7386 bytes sent, lasted for 49 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59949 disconnected, 186036 bytes received, 5087 bytes sent, lasted for 64 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:60004 disconnected, 5178 bytes received, 581 bytes sent, lasted for 13 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59540 disconnected, 31897797 bytes received, 135643 bytes sent, lasted for 1054 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59954 disconnected, 5178 bytes received, 581 bytes sent, lasted for 64 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59929 disconnected, 15638 bytes received, 5206 bytes sent, lasted for 79 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59986 disconnected, 298921 bytes received, 5197 bytes sent, lasted for 24 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59979 disconnected, 104971 bytes received, 2861 bytes sent, lasted for 42 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59593 disconnected, 866917 bytes received, 40729 bytes sent, lasted for 977 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59962 disconnected, 10408 bytes received, 2876 bytes sent, lasted for 52 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:59910 disconnected, 9123 bytes received, 3792 bytes sent, lasted for 142 seconds
+[2022-08-11 00:22:33] [INFO] 127.0.0.1:60009 disconnected, 1209 bytes received, 2120 bytes sent, lasted for 9 seconds

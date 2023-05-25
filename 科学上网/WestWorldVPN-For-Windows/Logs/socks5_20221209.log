@@ -1,0 +1,513 @@
+[2022-12-09 16:44:04] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-12-09 16:44:06] [INFO] 127.0.0.1:64871 requested connection to googleads.g.doubleclick.net:443
+[2022-12-09 16:44:10] [INFO] 127.0.0.1:64874 requested connection to accounts.google.com:443
+[2022-12-09 16:44:10] [INFO] 127.0.0.1:64877 requested connection to www.google.com:443
+[2022-12-09 16:44:11] [INFO] 127.0.0.1:64880 requested connection to www.gstatic.com:443
+[2022-12-09 16:44:11] [INFO] 127.0.0.1:64883 requested connection to www.gstatic.com:443
+[2022-12-09 16:44:14] [INFO] 127.0.0.1:64887 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-12-09 16:44:15] [INFO] 127.0.0.1:64880 disconnected, 4503 bytes received, 591 bytes sent, lasted for 4 seconds
+[2022-12-09 16:44:16] [INFO] 127.0.0.1:64891 requested connection to apis.google.com:443
+[2022-12-09 16:44:45] [INFO] 127.0.0.1:64926 requested connection to ctldl.windowsupdate.com:80
+[2022-12-09 16:44:45] [INFO] 127.0.0.1:64926 disconnected, 248 bytes received, 282 bytes sent, lasted for 0 seconds
+[2022-12-09 16:44:55] [INFO] 127.0.0.1:64934 requested connection to opsive.com:443
+[2022-12-09 16:44:55] [INFO] 127.0.0.1:64937 requested connection to id.google.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64940 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64944 requested connection to opsive.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64945 requested connection to www.googletagmanager.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64951 requested connection to opsive.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64954 requested connection to static.mailerlite.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64958 requested connection to opsive.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64959 requested connection to opsive.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64961 requested connection to opsive.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64963 requested connection to code.jquery.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64964 requested connection to fonts.googleapis.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64965 requested connection to track.mailerlite.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64973 requested connection to play.google.com:443
+[2022-12-09 16:44:56] [INFO] 127.0.0.1:64976 requested connection to play.google.com:443
+[2022-12-09 16:44:57] [INFO] 127.0.0.1:64979 requested connection to adservice.google.com:443
+[2022-12-09 16:45:00] [INFO] 127.0.0.1:64959 disconnected, 261828 bytes received, 2938 bytes sent, lasted for 4 seconds
+[2022-12-09 16:45:01] [INFO] 127.0.0.1:64958 disconnected, 52960 bytes received, 5294 bytes sent, lasted for 5 seconds
+[2022-12-09 16:45:01] [INFO] 127.0.0.1:64961 disconnected, 55228 bytes received, 5320 bytes sent, lasted for 5 seconds
+[2022-12-09 16:45:01] [INFO] 127.0.0.1:64951 disconnected, 744623 bytes received, 2125 bytes sent, lasted for 5 seconds
+[2022-12-09 16:45:01] [INFO] 127.0.0.1:64944 disconnected, 53371 bytes received, 5263 bytes sent, lasted for 5 seconds
+[2022-12-09 16:45:01] [INFO] 127.0.0.1:64934 disconnected, 974337 bytes received, 4599 bytes sent, lasted for 6 seconds
+[2022-12-09 16:45:10] [INFO] 127.0.0.1:64987 requested connection to beacons.gcp.gvt2.com:443
+[2022-12-09 16:45:20] [INFO] 127.0.0.1:64992 requested connection to opsive.com:443
+[2022-12-09 16:45:20] [INFO] 127.0.0.1:64993 requested connection to opsive.com:443
+[2022-12-09 16:45:20] [INFO] 127.0.0.1:64996 requested connection to maxcdn.bootstrapcdn.com:443
+[2022-12-09 16:45:20] [INFO] 127.0.0.1:64998 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:45:33] [INFO] 127.0.0.1:65006 requested connection to i.ytimg.com:443
+[2022-12-09 16:45:34] [INFO] 127.0.0.1:65009 requested connection to www.youtube.com:443
+[2022-12-09 16:45:42] [INFO] 127.0.0.1:65014 requested connection to rr4---sn-ipoxu-umbk.googlevideo.com:443
+[2022-12-09 16:45:42] [INFO] 127.0.0.1:65016 requested connection to rr4---sn-ipoxu-umbk.googlevideo.com:443
+[2022-12-09 16:45:57] [INFO] 127.0.0.1:64963 disconnected, 43006 bytes received, 1122 bytes sent, lasted for 61 seconds
+[2022-12-09 16:46:21] [INFO] 127.0.0.1:64992 disconnected, 187 bytes received, 583 bytes sent, lasted for 61 seconds
+[2022-12-09 16:46:21] [INFO] 127.0.0.1:64993 disconnected, 187 bytes received, 583 bytes sent, lasted for 61 seconds
+[2022-12-09 16:46:25] [INFO] 127.0.0.1:64940 disconnected, 5468 bytes received, 591 bytes sent, lasted for 89 seconds
+[2022-12-09 16:46:25] [INFO] 127.0.0.1:64996 disconnected, 2451 bytes received, 581 bytes sent, lasted for 65 seconds
+[2022-12-09 16:46:25] [INFO] 127.0.0.1:65044 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-12-09 16:46:26] [INFO] 127.0.0.1:65047 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-12-09 16:46:26] [INFO] 127.0.0.1:65050 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-12-09 16:46:26] [INFO] 127.0.0.1:65050 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-12-09 16:46:32] [INFO] 127.0.0.1:65054 requested connection to www.gstatic.com:80
+[2022-12-09 16:46:35] [INFO] 127.0.0.1:65054 disconnected, 146 bytes received, 305 bytes sent, lasted for 3 seconds
+[2022-12-09 16:47:14] [INFO] 127.0.0.1:65074 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:47:29] [INFO] 127.0.0.1:65081 requested connection to opsive.com:443
+[2022-12-09 16:47:29] [INFO] 127.0.0.1:65082 requested connection to opsive.com:443
+[2022-12-09 16:47:29] [INFO] 127.0.0.1:65084 requested connection to code.jquery.com:443
+[2022-12-09 16:47:29] [INFO] 127.0.0.1:65089 requested connection to maxcdn.bootstrapcdn.com:443
+[2022-12-09 16:47:30] [INFO] 127.0.0.1:65092 requested connection to settings-win.data.microsoft.com:443
+[2022-12-09 16:47:31] [INFO] 127.0.0.1:65092 disconnected, 4039 bytes received, 1156 bytes sent, lasted for 1 seconds
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65095 requested connection to www.google-analytics.com:443
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65098 requested connection to content-autofill.googleapis.com:443
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65101 requested connection to opsive.com:443
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65084 disconnected, 320 bytes received, 616 bytes sent, lasted for 3 seconds
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65089 disconnected, 740 bytes received, 624 bytes sent, lasted for 3 seconds
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65105 requested connection to opsive.com:443
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65106 requested connection to opsive.com:443
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65108 requested connection to opsive.com:443
+[2022-12-09 16:47:32] [INFO] 127.0.0.1:65110 requested connection to cdn.mailerlite.com:443
+[2022-12-09 16:47:35] [INFO] 127.0.0.1:65081 disconnected, 42164 bytes received, 4050 bytes sent, lasted for 6 seconds
+[2022-12-09 16:47:35] [INFO] 127.0.0.1:65101 disconnected, 11571 bytes received, 1437 bytes sent, lasted for 3 seconds
+[2022-12-09 16:47:36] [INFO] 127.0.0.1:65108 disconnected, 35001 bytes received, 2327 bytes sent, lasted for 4 seconds
+[2022-12-09 16:47:36] [INFO] 127.0.0.1:65082 disconnected, 1410 bytes received, 2547 bytes sent, lasted for 7 seconds
+[2022-12-09 16:47:37] [INFO] 127.0.0.1:65150 requested connection to wup.browser.qq.com:443
+[2022-12-09 16:47:45] [INFO] 127.0.0.1:65165 requested connection to static.doubleclick.net:443
+[2022-12-09 16:47:45] [INFO] 127.0.0.1:65168 requested connection to jnn-pa.googleapis.com:443
+[2022-12-09 16:48:10] [INFO] 127.0.0.1:64874 disconnected, 7161 bytes received, 1529 bytes sent, lasted for 240 seconds
+[2022-12-09 16:48:16] [INFO] 127.0.0.1:64891 disconnected, 43367 bytes received, 1594 bytes sent, lasted for 240 seconds
+[2022-12-09 16:48:18] [INFO] 127.0.0.1:64887 disconnected, 9650 bytes received, 1279 bytes sent, lasted for 244 seconds
+[2022-12-09 16:48:32] [INFO] 127.0.0.1:65183 requested connection to maxcdn.bootstrapcdn.com:443
+[2022-12-09 16:48:33] [INFO] 127.0.0.1:65105 disconnected, 156 bytes received, 583 bytes sent, lasted for 61 seconds
+[2022-12-09 16:48:33] [INFO] 127.0.0.1:65187 requested connection to opsive.com:443
+[2022-12-09 16:48:33] [INFO] 127.0.0.1:65189 requested connection to opsive.com:443
+[2022-12-09 16:48:33] [INFO] 127.0.0.1:65193 requested connection to translate.googleapis.com:443
+[2022-12-09 16:48:33] [INFO] 127.0.0.1:65196 requested connection to opsive.com:443
+[2022-12-09 16:48:36] [INFO] 127.0.0.1:65189 disconnected, 27071 bytes received, 1455 bytes sent, lasted for 3 seconds
+[2022-12-09 16:48:36] [INFO] 127.0.0.1:65187 disconnected, 11232 bytes received, 1449 bytes sent, lasted for 3 seconds
+[2022-12-09 16:48:37] [INFO] 127.0.0.1:65199 requested connection to rr3---sn-ipoxu-umbk.googlevideo.com:443
+[2022-12-09 16:48:37] [INFO] 127.0.0.1:65202 requested connection to rr3---sn-ipoxu-umbk.googlevideo.com:443
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65205 requested connection to www.gstatic.com:443
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65106 disconnected, 72557 bytes received, 3671 bytes sent, lasted for 66 seconds
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65208 requested connection to rr2---sn-un57sne7.googlevideo.com:443
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65211 requested connection to rr2---sn-un57sne7.googlevideo.com:443
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65183 disconnected, 740 bytes received, 624 bytes sent, lasted for 6 seconds
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65214 requested connection to rr2---sn-npoeenee.googlevideo.com:443
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65208 disconnected, 7398 bytes received, 2623 bytes sent, lasted for 0 seconds
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65217 requested connection to opsive.com:443
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65211 disconnected, 9524 bytes received, 4593 bytes sent, lasted for 0 seconds
+[2022-12-09 16:48:38] [INFO] 127.0.0.1:65220 requested connection to rr2---sn-npoeenee.googlevideo.com:443
+[2022-12-09 16:48:39] [INFO] 127.0.0.1:65223 requested connection to cdp.cloud.unity3d.com:443
+[2022-12-09 16:48:42] [INFO] 127.0.0.1:65217 disconnected, 156 bytes received, 583 bytes sent, lasted for 4 seconds
+[2022-12-09 16:48:42] [INFO] 127.0.0.1:65227 requested connection to yt3.ggpht.com:443
+[2022-12-09 16:48:42] [INFO] 127.0.0.1:65196 disconnected, 94013 bytes received, 1443 bytes sent, lasted for 9 seconds
+[2022-12-09 16:48:42] [INFO] 127.0.0.1:65230 requested connection to rr2---sn-un57sne7.googlevideo.com:443
+[2022-12-09 16:48:44] [INFO] 127.0.0.1:65230 disconnected, 7514 bytes received, 2725 bytes sent, lasted for 2 seconds
+[2022-12-09 16:48:44] [INFO] 127.0.0.1:65234 requested connection to www.google.com.tw:443
+[2022-12-09 16:48:47] [INFO] 127.0.0.1:65214 disconnected, 375227 bytes received, 4772 bytes sent, lasted for 9 seconds
+[2022-12-09 16:48:47] [INFO] 127.0.0.1:65239 requested connection to youtube.com:443
+[2022-12-09 16:48:48] [INFO] 127.0.0.1:65199 disconnected, 7179 bytes received, 2620 bytes sent, lasted for 11 seconds
+[2022-12-09 16:48:48] [INFO] 127.0.0.1:65244 requested connection to rr2---sn-npoeenee.googlevideo.com:443
+[2022-12-09 16:48:53] [INFO] 127.0.0.1:65150 disconnected, 451 bytes received, 993 bytes sent, lasted for 76 seconds
+[2022-12-09 16:48:56] [INFO] 127.0.0.1:64945 disconnected, 74571 bytes received, 1182 bytes sent, lasted for 240 seconds
+[2022-12-09 16:49:14] [INFO] 127.0.0.1:65014 disconnected, 6052 bytes received, 2531 bytes sent, lasted for 212 seconds
+[2022-12-09 16:49:14] [INFO] 127.0.0.1:65016 disconnected, 6052 bytes received, 2531 bytes sent, lasted for 212 seconds
+[2022-12-09 16:49:20] [INFO] 127.0.0.1:64937 disconnected, 9577 bytes received, 2506 bytes sent, lasted for 265 seconds
+[2022-12-09 16:49:33] [INFO] 127.0.0.1:64998 disconnected, 6637 bytes received, 1281 bytes sent, lasted for 253 seconds
+[2022-12-09 16:49:57] [INFO] 127.0.0.1:65287 requested connection to opsive.com:443
+[2022-12-09 16:49:57] [INFO] 127.0.0.1:65289 requested connection to opsive.com:443
+[2022-12-09 16:49:57] [INFO] 127.0.0.1:65290 requested connection to maxcdn.bootstrapcdn.com:443
+[2022-12-09 16:49:57] [INFO] 127.0.0.1:65295 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:49:59] [INFO] 127.0.0.1:65298 requested connection to opsive.com:443
+[2022-12-09 16:50:01] [INFO] 127.0.0.1:65289 disconnected, 19257 bytes received, 1447 bytes sent, lasted for 4 seconds
+[2022-12-09 16:50:03] [INFO] 127.0.0.1:65287 disconnected, 42717 bytes received, 3603 bytes sent, lasted for 6 seconds
+[2022-12-09 16:50:26] [INFO] 127.0.0.1:65044 disconnected, 7266 bytes received, 1539 bytes sent, lasted for 241 seconds
+[2022-12-09 16:50:27] [INFO] 127.0.0.1:65047 disconnected, 26776 bytes received, 1393 bytes sent, lasted for 241 seconds
+[2022-12-09 16:50:31] [INFO] 127.0.0.1:65308 requested connection to opsive.com:443
+[2022-12-09 16:50:36] [INFO] 127.0.0.1:65298 disconnected, 16220 bytes received, 2565 bytes sent, lasted for 37 seconds
+[2022-12-09 16:50:42] [INFO] 127.0.0.1:65312 requested connection to opsive.com:443
+[2022-12-09 16:50:42] [INFO] 127.0.0.1:65315 requested connection to code.jquery.com:443
+[2022-12-09 16:50:42] [INFO] 127.0.0.1:65202 disconnected, 11621 bytes received, 6730 bytes sent, lasted for 125 seconds
+[2022-12-09 16:50:43] [INFO] 127.0.0.1:65318 requested connection to opsive.com:443
+[2022-12-09 16:50:45] [INFO] 127.0.0.1:65312 disconnected, 27278 bytes received, 1426 bytes sent, lasted for 3 seconds
+[2022-12-09 16:50:47] [INFO] 127.0.0.1:65308 disconnected, 32418 bytes received, 4380 bytes sent, lasted for 16 seconds
+[2022-12-09 16:50:54] [INFO] 127.0.0.1:65220 disconnected, 1467299 bytes received, 11130 bytes sent, lasted for 136 seconds
+[2022-12-09 16:51:02] [INFO] 127.0.0.1:65244 disconnected, 2026831 bytes received, 9157 bytes sent, lasted for 134 seconds
+[2022-12-09 16:51:43] [INFO] 127.0.0.1:65315 disconnected, 383 bytes received, 616 bytes sent, lasted for 61 seconds
+[2022-12-09 16:51:49] [INFO] 127.0.0.1:65318 disconnected, 187 bytes received, 583 bytes sent, lasted for 66 seconds
+[2022-12-09 16:52:06] [INFO] 127.0.0.1:65351 requested connection to self.events.data.microsoft.com:443
+[2022-12-09 16:52:06] [INFO] 127.0.0.1:65295 disconnected, 1340 bytes received, 845 bytes sent, lasted for 129 seconds
+[2022-12-09 16:52:06] [INFO] 127.0.0.1:65290 disconnected, 740 bytes received, 624 bytes sent, lasted for 129 seconds
+[2022-12-09 16:52:06] [INFO] 127.0.0.1:65354 requested connection to rr3---sn-ipoxu-umbk.googlevideo.com:443
+[2022-12-09 16:52:06] [INFO] 127.0.0.1:65358 requested connection to rr2---sn-un57sne7.googlevideo.com:443
+[2022-12-09 16:52:07] [INFO] 127.0.0.1:65362 requested connection to rr2---sn-npoeenee.googlevideo.com:443
+[2022-12-09 16:52:21] [INFO] 127.0.0.1:65372 requested connection to rr2---sn-npoeenee.googlevideo.com:443
+[2022-12-09 16:52:21] [INFO] 127.0.0.1:65375 requested connection to array602.prod.do.dsp.mp.microsoft.com:443
+[2022-12-09 16:52:33] [INFO] 127.0.0.1:65110 disconnected, 37599 bytes received, 1130 bytes sent, lasted for 301 seconds
+[2022-12-09 16:52:34] [INFO] 127.0.0.1:65193 disconnected, 8461 bytes received, 1034 bytes sent, lasted for 241 seconds
+[2022-12-09 16:52:38] [INFO] 127.0.0.1:65205 disconnected, 54645 bytes received, 1480 bytes sent, lasted for 240 seconds
+[2022-12-09 16:52:38] [INFO] 127.0.0.1:65098 disconnected, 6860 bytes received, 1616 bytes sent, lasted for 306 seconds
+[2022-12-09 16:52:38] [INFO] 127.0.0.1:64979 disconnected, 8935 bytes received, 2283 bytes sent, lasted for 461 seconds
+[2022-12-09 16:52:41] [INFO] 127.0.0.1:65165 disconnected, 6571 bytes received, 1771 bytes sent, lasted for 296 seconds
+[2022-12-09 16:52:42] [INFO] 127.0.0.1:64871 disconnected, 8452 bytes received, 4206 bytes sent, lasted for 516 seconds
+[2022-12-09 16:52:42] [INFO] 127.0.0.1:65168 disconnected, 34723 bytes received, 6996 bytes sent, lasted for 297 seconds
+[2022-12-09 16:52:42] [INFO] 127.0.0.1:64883 disconnected, 160551 bytes received, 3146 bytes sent, lasted for 511 seconds
+[2022-12-09 16:52:43] [INFO] 127.0.0.1:65074 disconnected, 169278 bytes received, 2652 bytes sent, lasted for 329 seconds
+[2022-12-09 16:52:44] [INFO] 127.0.0.1:64877 disconnected, 1515938 bytes received, 55962 bytes sent, lasted for 514 seconds
+[2022-12-09 16:52:44] [INFO] 127.0.0.1:65234 disconnected, 6159 bytes received, 1786 bytes sent, lasted for 240 seconds
+[2022-12-09 16:52:47] [INFO] 127.0.0.1:64964 disconnected, 11921 bytes received, 2193 bytes sent, lasted for 471 seconds
+[2022-12-09 16:52:47] [INFO] 127.0.0.1:65239 disconnected, 9029 bytes received, 1470 bytes sent, lasted for 240 seconds
+[2022-12-09 16:53:06] [INFO] 127.0.0.1:65401 requested connection to x1.c.lencr.org:80
+[2022-12-09 16:53:07] [INFO] 127.0.0.1:65401 disconnected, 266 bytes received, 222 bytes sent, lasted for 1 seconds
+[2022-12-09 16:53:07] [INFO] 127.0.0.1:65404 requested connection to crl.verisign.com:80
+[2022-12-09 16:53:07] [INFO] 127.0.0.1:65404 disconnected, 1215 bytes received, 204 bytes sent, lasted for 0 seconds
+[2022-12-09 16:53:12] [INFO] 127.0.0.1:64973 disconnected, 8367 bytes received, 1626 bytes sent, lasted for 496 seconds
+[2022-12-09 16:53:12] [INFO] 127.0.0.1:64976 disconnected, 13121 bytes received, 8993 bytes sent, lasted for 496 seconds
+[2022-12-09 16:53:30] [INFO] 127.0.0.1:65410 requested connection to www.google.com:443
+[2022-12-09 16:53:32] [INFO] 127.0.0.1:65413 requested connection to android.clients.google.com:443
+[2022-12-09 16:53:37] [INFO] 127.0.0.1:65417 requested connection to az764295.vo.msecnd.net:443
+[2022-12-09 16:53:39] [INFO] 127.0.0.1:65223 disconnected, 4081 bytes received, 2140 bytes sent, lasted for 300 seconds
+[2022-12-09 16:53:41] [INFO] 127.0.0.1:65410 disconnected, 375 bytes received, 839 bytes sent, lasted for 11 seconds
+[2022-12-09 16:53:47] [INFO] 127.0.0.1:65375 disconnected, 3101 bytes received, 1318 bytes sent, lasted for 86 seconds
+[2022-12-09 16:53:56] [INFO] 127.0.0.1:65351 disconnected, 6761 bytes received, 1392 bytes sent, lasted for 110 seconds
+[2022-12-09 16:54:24] [INFO] 127.0.0.1:65354 disconnected, 9648 bytes received, 4871 bytes sent, lasted for 138 seconds
+[2022-12-09 16:54:24] [INFO] 127.0.0.1:65358 disconnected, 9880 bytes received, 4879 bytes sent, lasted for 138 seconds
+[2022-12-09 16:54:38] [INFO] 127.0.0.1:65435 requested connection to cdp.cloud.unity3d.com:443
+[2022-12-09 16:55:28] [INFO] 127.0.0.1:65473 requested connection to rr3---sn-ipoxu-umbk.googlevideo.com:443
+[2022-12-09 16:55:28] [INFO] 127.0.0.1:65476 requested connection to rr2---sn-un57sne7.googlevideo.com:443
+[2022-12-09 16:55:43] [INFO] 127.0.0.1:64954 disconnected, 44053 bytes received, 2346 bytes sent, lasted for 647 seconds
+[2022-12-09 16:55:43] [INFO] 127.0.0.1:64965 disconnected, 3481 bytes received, 1879 bytes sent, lasted for 647 seconds
+[2022-12-09 16:56:06] [INFO] 127.0.0.1:65095 disconnected, 7655 bytes received, 6745 bytes sent, lasted for 514 seconds
+[2022-12-09 16:56:06] [INFO] 127.0.0.1:65227 disconnected, 23366 bytes received, 2121 bytes sent, lasted for 444 seconds
+[2022-12-09 16:56:38] [INFO] 127.0.0.1:65417 disconnected, 8555 bytes received, 1487 bytes sent, lasted for 181 seconds
+[2022-12-09 16:56:43] [INFO] 127.0.0.1:65362 disconnected, 24738612 bytes received, 67561 bytes sent, lasted for 276 seconds
+[2022-12-09 16:56:44] [INFO] 127.0.0.1:65006 disconnected, 178458 bytes received, 4796 bytes sent, lasted for 671 seconds
+[2022-12-09 16:57:03] [INFO] 127.0.0.1:65499 requested connection to www.gstatic.com:443
+[2022-12-09 16:57:08] [INFO] 127.0.0.1:65503 requested connection to www.google.com:443
+[2022-12-09 16:57:09] [INFO] 127.0.0.1:65507 requested connection to www.opsive.com:80
+[2022-12-09 16:57:10] [INFO] 127.0.0.1:65507 disconnected, 626 bytes received, 614 bytes sent, lasted for 1 seconds
+[2022-12-09 16:57:10] [INFO] 127.0.0.1:65510 requested connection to www.opsive.com:443
+[2022-12-09 16:57:11] [INFO] 127.0.0.1:65513 requested connection to www.opsive.com:443
+[2022-12-09 16:57:11] [INFO] 127.0.0.1:65516 requested connection to www.opsive.com:443
+[2022-12-09 16:57:11] [INFO] 127.0.0.1:65518 requested connection to www.opsive.com:443
+[2022-12-09 16:57:11] [INFO] 127.0.0.1:65523 requested connection to www.opsive.com:443
+[2022-12-09 16:57:11] [INFO] 127.0.0.1:65524 requested connection to www.opsive.com:443
+[2022-12-09 16:57:11] [INFO] 127.0.0.1:65526 requested connection to fonts.googleapis.com:443
+[2022-12-09 16:57:11] [INFO] 127.0.0.1:65531 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:57:12] [INFO] 127.0.0.1:49152 requested connection to www.googletagmanager.com:443
+[2022-12-09 16:57:12] [INFO] 127.0.0.1:49153 requested connection to opsive.com:443
+[2022-12-09 16:57:12] [INFO] 127.0.0.1:49156 requested connection to opsive.com:443
+[2022-12-09 16:57:13] [INFO] 127.0.0.1:49160 requested connection to www.google-analytics.com:443
+[2022-12-09 16:57:13] [INFO] 127.0.0.1:49163 requested connection to content-autofill.googleapis.com:443
+[2022-12-09 16:57:13] [INFO] 127.0.0.1:49166 requested connection to googleads.g.doubleclick.net:443
+[2022-12-09 16:57:13] [INFO] 127.0.0.1:49169 requested connection to static.doubleclick.net:443
+[2022-12-09 16:57:13] [INFO] 127.0.0.1:49172 requested connection to jnn-pa.googleapis.com:443
+[2022-12-09 16:57:13] [INFO] 127.0.0.1:49175 requested connection to yt3.ggpht.com:443
+[2022-12-09 16:57:13] [INFO] 127.0.0.1:49177 requested connection to i.ytimg.com:443
+[2022-12-09 16:57:15] [INFO] 127.0.0.1:65524 disconnected, 170055 bytes received, 1413 bytes sent, lasted for 4 seconds
+[2022-12-09 16:57:15] [INFO] 127.0.0.1:65510 disconnected, 181170 bytes received, 4074 bytes sent, lasted for 5 seconds
+[2022-12-09 16:57:15] [INFO] 127.0.0.1:65523 disconnected, 98726 bytes received, 2258 bytes sent, lasted for 4 seconds
+[2022-12-09 16:57:15] [INFO] 127.0.0.1:65518 disconnected, 143221 bytes received, 2284 bytes sent, lasted for 4 seconds
+[2022-12-09 16:57:15] [INFO] 127.0.0.1:49153 disconnected, 7408 bytes received, 1358 bytes sent, lasted for 3 seconds
+[2022-12-09 16:57:15] [INFO] 127.0.0.1:49156 disconnected, 43833 bytes received, 1375 bytes sent, lasted for 3 seconds
+[2022-12-09 16:57:15] [INFO] 127.0.0.1:65513 disconnected, 37800 bytes received, 3932 bytes sent, lasted for 4 seconds
+[2022-12-09 16:57:16] [INFO] 127.0.0.1:65516 disconnected, 55047 bytes received, 5174 bytes sent, lasted for 5 seconds
+[2022-12-09 16:57:17] [INFO] 127.0.0.1:49182 requested connection to www.opsive.com:443
+[2022-12-09 16:57:20] [INFO] 127.0.0.1:49182 disconnected, 3760 bytes received, 1496 bytes sent, lasted for 3 seconds
+[2022-12-09 16:57:28] [INFO] 127.0.0.1:65473 disconnected, 7308 bytes received, 2733 bytes sent, lasted for 120 seconds
+[2022-12-09 16:57:29] [INFO] 127.0.0.1:65476 disconnected, 7534 bytes received, 2730 bytes sent, lasted for 121 seconds
+[2022-12-09 16:57:29] [INFO] 127.0.0.1:49194 requested connection to www.opsive.com:443
+[2022-12-09 16:57:32] [INFO] 127.0.0.1:65413 disconnected, 9332 bytes received, 1138 bytes sent, lasted for 240 seconds
+[2022-12-09 16:57:33] [INFO] 127.0.0.1:49194 disconnected, 14016 bytes received, 1521 bytes sent, lasted for 4 seconds
+[2022-12-09 16:57:44] [INFO] 127.0.0.1:49200 requested connection to play.google.com:443
+[2022-12-09 16:57:44] [INFO] 127.0.0.1:65009 disconnected, 5600331 bytes received, 243784 bytes sent, lasted for 730 seconds
+[2022-12-09 16:57:44] [INFO] 127.0.0.1:49203 requested connection to www.youtube.com:443
+[2022-12-09 16:57:45] [INFO] 127.0.0.1:49206 requested connection to rr3---sn-ipoxu-umbk.googlevideo.com:443
+[2022-12-09 16:57:45] [INFO] 127.0.0.1:49208 requested connection to rr3---sn-ipoxu-umbk.googlevideo.com:443
+[2022-12-09 16:58:02] [INFO] 127.0.0.1:65372 disconnected, 19730413 bytes received, 46015 bytes sent, lasted for 341 seconds
+[2022-12-09 16:58:05] [INFO] 127.0.0.1:49222 requested connection to encrypted-vtbn0.gstatic.com:443
+[2022-12-09 16:58:15] [INFO] 127.0.0.1:65531 disconnected, 1340 bytes received, 845 bytes sent, lasted for 64 seconds
+[2022-12-09 16:58:15] [INFO] 127.0.0.1:49234 requested connection to www.baidu.com:443
+[2022-12-09 16:58:18] [INFO] 127.0.0.1:49237 requested connection to array602.prod.do.dsp.mp.microsoft.com:443
+[2022-12-09 16:58:18] [INFO] 127.0.0.1:49241 requested connection to fanyi.baidu.com:443
+[2022-12-09 16:58:18] [INFO] 127.0.0.1:49242 requested connection to fanyi.baidu.com:443
+[2022-12-09 16:58:19] [INFO] 127.0.0.1:49247 requested connection to hm.baidu.com:443
+[2022-12-09 16:58:19] [INFO] 127.0.0.1:49250 requested connection to dlswbr.baidu.com:443
+[2022-12-09 16:58:19] [INFO] 127.0.0.1:49253 requested connection to fanyi.baidu.com:443
+[2022-12-09 16:58:19] [INFO] 127.0.0.1:49256 requested connection to fanyi-app.baidu.com:443
+[2022-12-09 16:58:20] [INFO] 127.0.0.1:49259 requested connection to dlswbr.baidu.com:443
+[2022-12-09 16:58:20] [INFO] 127.0.0.1:49262 requested connection to fanyi.baidu.com:443
+[2022-12-09 16:58:20] [INFO] 127.0.0.1:49265 requested connection to hm.baidu.com:443
+[2022-12-09 16:58:20] [INFO] 127.0.0.1:49269 requested connection to hm.baidu.com:443
+[2022-12-09 16:58:20] [INFO] 127.0.0.1:49271 requested connection to hm.baidu.com:443
+[2022-12-09 16:58:20] [INFO] 127.0.0.1:49272 requested connection to hm.baidu.com:443
+[2022-12-09 16:58:21] [INFO] 127.0.0.1:49250 disconnected, 0 bytes received, 517 bytes sent, lasted for 2 seconds
+[2022-12-09 16:58:21] [INFO] 127.0.0.1:49278 requested connection to miao.baidu.com:443
+[2022-12-09 16:58:21] [INFO] 127.0.0.1:49281 requested connection to correctxt.baidu.com:443
+[2022-12-09 16:58:21] [INFO] 127.0.0.1:49284 requested connection to fanyiapp.cdn.bcebos.com:443
+[2022-12-09 16:58:23] [INFO] 127.0.0.1:49281 disconnected, 5848 bytes received, 2153 bytes sent, lasted for 2 seconds
+[2022-12-09 16:58:23] [INFO] 127.0.0.1:49288 requested connection to hm.baidu.com:443
+[2022-12-09 16:58:32] [INFO] 127.0.0.1:49256 disconnected, 16359 bytes received, 2127 bytes sent, lasted for 13 seconds
+[2022-12-09 16:58:32] [INFO] 127.0.0.1:49293 requested connection to adservice.google.com:443
+[2022-12-09 16:58:33] [INFO] 127.0.0.1:49272 disconnected, 845 bytes received, 4586 bytes sent, lasted for 13 seconds
+[2022-12-09 16:58:34] [INFO] 127.0.0.1:49269 disconnected, 1501 bytes received, 8839 bytes sent, lasted for 14 seconds
+[2022-12-09 16:58:34] [INFO] 127.0.0.1:49247 disconnected, 2066 bytes received, 12202 bytes sent, lasted for 15 seconds
+[2022-12-09 16:58:34] [INFO] 127.0.0.1:49265 disconnected, 1829 bytes received, 10650 bytes sent, lasted for 14 seconds
+[2022-12-09 16:58:36] [INFO] 127.0.0.1:49298 requested connection to opsive.com:443
+[2022-12-09 16:58:36] [INFO] 127.0.0.1:49299 requested connection to opsive.com:443
+[2022-12-09 16:58:36] [INFO] 127.0.0.1:49301 requested connection to maxcdn.bootstrapcdn.com:443
+[2022-12-09 16:58:36] [INFO] 127.0.0.1:49306 requested connection to static.mailerlite.com:443
+[2022-12-09 16:58:36] [INFO] 127.0.0.1:49241 disconnected, 48202 bytes received, 5760 bytes sent, lasted for 18 seconds
+[2022-12-09 16:58:36] [INFO] 127.0.0.1:49262 disconnected, 158 bytes received, 568 bytes sent, lasted for 16 seconds
+[2022-12-09 16:58:36] [INFO] 127.0.0.1:49309 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:58:36] [INFO] 127.0.0.1:49311 requested connection to code.jquery.com:443
+[2022-12-09 16:58:37] [INFO] 127.0.0.1:49271 disconnected, 1501 bytes received, 9110 bytes sent, lasted for 17 seconds
+[2022-12-09 16:58:38] [INFO] 127.0.0.1:49315 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:58:38] [INFO] 127.0.0.1:49311 disconnected, 11821 bytes received, 581 bytes sent, lasted for 2 seconds
+[2022-12-09 16:58:38] [INFO] 127.0.0.1:49318 requested connection to track.mailerlite.com:443
+[2022-12-09 16:58:41] [INFO] 127.0.0.1:49299 disconnected, 16188 bytes received, 2486 bytes sent, lasted for 5 seconds
+[2022-12-09 16:58:43] [INFO] 127.0.0.1:49298 disconnected, 800 bytes received, 1609 bytes sent, lasted for 7 seconds
+[2022-12-09 16:58:46] [INFO] 127.0.0.1:49322 requested connection to v10.events.data.microsoft.com:443
+[2022-12-09 16:58:48] [INFO] 127.0.0.1:49322 disconnected, 5814 bytes received, 8413 bytes sent, lasted for 2 seconds
+[2022-12-09 16:58:55] [INFO] 127.0.0.1:49253 disconnected, 15210 bytes received, 13198 bytes sent, lasted for 36 seconds
+[2022-12-09 16:58:55] [INFO] 127.0.0.1:49278 disconnected, 8250 bytes received, 11632 bytes sent, lasted for 34 seconds
+[2022-12-09 16:58:56] [INFO] 127.0.0.1:49242 disconnected, 8058 bytes received, 10412 bytes sent, lasted for 38 seconds
+[2022-12-09 16:59:07] [INFO] 127.0.0.1:49341 requested connection to opsive.com:443
+[2022-12-09 16:59:07] [INFO] 127.0.0.1:49342 requested connection to opsive.com:443
+[2022-12-09 16:59:08] [INFO] 127.0.0.1:49347 requested connection to opsive.com:443
+[2022-12-09 16:59:08] [INFO] 127.0.0.1:49348 requested connection to opsive.com:443
+[2022-12-09 16:59:08] [INFO] 127.0.0.1:49352 requested connection to opsive.com:443
+[2022-12-09 16:59:11] [INFO] 127.0.0.1:49341 disconnected, 19094 bytes received, 2259 bytes sent, lasted for 4 seconds
+[2022-12-09 16:59:11] [INFO] 127.0.0.1:49348 disconnected, 10112 bytes received, 1415 bytes sent, lasted for 3 seconds
+[2022-12-09 16:59:14] [INFO] 127.0.0.1:49342 disconnected, 35609 bytes received, 4263 bytes sent, lasted for 7 seconds
+[2022-12-09 16:59:20] [INFO] 127.0.0.1:49237 disconnected, 3102 bytes received, 1307 bytes sent, lasted for 62 seconds
+[2022-12-09 16:59:24] [INFO] 127.0.0.1:49288 disconnected, 189 bytes received, 568 bytes sent, lasted for 61 seconds
+[2022-12-09 16:59:37] [INFO] 127.0.0.1:49352 disconnected, 15619 bytes received, 2646 bytes sent, lasted for 29 seconds
+[2022-12-09 16:59:39] [INFO] 127.0.0.1:65435 disconnected, 4081 bytes received, 1885 bytes sent, lasted for 301 seconds
+[2022-12-09 16:59:48] [INFO] 127.0.0.1:49208 disconnected, 1411935 bytes received, 6291 bytes sent, lasted for 123 seconds
+[2022-12-09 16:59:51] [INFO] 127.0.0.1:49309 disconnected, 1340 bytes received, 845 bytes sent, lasted for 75 seconds
+[2022-12-09 16:59:51] [INFO] 127.0.0.1:49315 disconnected, 1340 bytes received, 845 bytes sent, lasted for 73 seconds
+[2022-12-09 16:59:51] [INFO] 127.0.0.1:49301 disconnected, 740 bytes received, 624 bytes sent, lasted for 75 seconds
+[2022-12-09 16:59:51] [INFO] 127.0.0.1:49360 requested connection to opsive.com:443
+[2022-12-09 16:59:51] [INFO] 127.0.0.1:49364 requested connection to maxcdn.bootstrapcdn.com:443
+[2022-12-09 16:59:51] [INFO] 127.0.0.1:49365 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:59:51] [INFO] 127.0.0.1:49368 requested connection to code.jquery.com:443
+[2022-12-09 16:59:52] [INFO] 127.0.0.1:49373 requested connection to fonts.gstatic.com:443
+[2022-12-09 16:59:53] [INFO] 127.0.0.1:49376 requested connection to opsive.com:443
+[2022-12-09 16:59:55] [INFO] 127.0.0.1:49360 disconnected, 3268 bytes received, 1425 bytes sent, lasted for 4 seconds
+[2022-12-09 16:59:56] [INFO] 127.0.0.1:49347 disconnected, 19490 bytes received, 3496 bytes sent, lasted for 48 seconds
+[2022-12-09 17:00:16] [INFO] 127.0.0.1:49234 disconnected, 5783 bytes received, 2946 bytes sent, lasted for 121 seconds
+[2022-12-09 17:00:22] [INFO] 127.0.0.1:49284 disconnected, 5095 bytes received, 1348 bytes sent, lasted for 121 seconds
+[2022-12-09 17:00:52] [INFO] 127.0.0.1:49368 disconnected, 383 bytes received, 616 bytes sent, lasted for 61 seconds
+[2022-12-09 17:00:54] [INFO] 127.0.0.1:49376 disconnected, 187 bytes received, 583 bytes sent, lasted for 61 seconds
+[2022-12-09 17:00:56] [INFO] 127.0.0.1:49206 disconnected, 5483263 bytes received, 15678 bytes sent, lasted for 191 seconds
+[2022-12-09 17:01:12] [INFO] 127.0.0.1:65526 disconnected, 3127 bytes received, 1504 bytes sent, lasted for 241 seconds
+[2022-12-09 17:01:12] [INFO] 127.0.0.1:49152 disconnected, 46383 bytes received, 1406 bytes sent, lasted for 240 seconds
+[2022-12-09 17:01:13] [INFO] 127.0.0.1:65499 disconnected, 20780 bytes received, 2075 bytes sent, lasted for 250 seconds
+[2022-12-09 17:01:14] [INFO] 127.0.0.1:49169 disconnected, 2130 bytes received, 1577 bytes sent, lasted for 241 seconds
+[2022-12-09 17:01:39] [INFO] 127.0.0.1:49409 requested connection to cdp.cloud.unity3d.com:443
+[2022-12-09 17:01:45] [INFO] 127.0.0.1:49175 disconnected, 9010 bytes received, 1753 bytes sent, lasted for 272 seconds
+[2022-12-09 17:02:05] [INFO] 127.0.0.1:49222 disconnected, 35884 bytes received, 1268 bytes sent, lasted for 240 seconds
+[2022-12-09 17:02:20] [INFO] 127.0.0.1:49163 disconnected, 2436 bytes received, 1975 bytes sent, lasted for 307 seconds
+[2022-12-09 17:02:20] [INFO] 127.0.0.1:49423 requested connection to cube.weixinbridge.com:443
+[2022-12-09 17:02:32] [INFO] 127.0.0.1:49200 disconnected, 2403 bytes received, 3418 bytes sent, lasted for 288 seconds
+[2022-12-09 17:02:32] [INFO] 127.0.0.1:49293 disconnected, 1932 bytes received, 1842 bytes sent, lasted for 240 seconds
+[2022-12-09 17:02:38] [INFO] 127.0.0.1:65503 disconnected, 255035 bytes received, 14266 bytes sent, lasted for 330 seconds
+[2022-12-09 17:03:09] [INFO] 127.0.0.1:49166 disconnected, 3300 bytes received, 1781 bytes sent, lasted for 356 seconds
+[2022-12-09 17:03:09] [INFO] 127.0.0.1:49172 disconnected, 20089 bytes received, 4573 bytes sent, lasted for 356 seconds
+[2022-12-09 17:03:09] [INFO] 127.0.0.1:49177 disconnected, 435312 bytes received, 3838 bytes sent, lasted for 356 seconds
+[2022-12-09 17:03:21] [INFO] 127.0.0.1:49259 disconnected, 17234 bytes received, 1942 bytes sent, lasted for 301 seconds
+[2022-12-09 17:03:33] [INFO] 127.0.0.1:64987 disconnected, 9272 bytes received, 26654 bytes sent, lasted for 1103 seconds
+[2022-12-09 17:03:34] [INFO] 127.0.0.1:49203 disconnected, 98412 bytes received, 54986 bytes sent, lasted for 350 seconds
+[2022-12-09 17:03:36] [INFO] 127.0.0.1:49423 disconnected, 4556 bytes received, 1723 bytes sent, lasted for 76 seconds
+[2022-12-09 17:03:57] [INFO] 127.0.0.1:49365 disconnected, 1469 bytes received, 845 bytes sent, lasted for 246 seconds
+[2022-12-09 17:03:57] [INFO] 127.0.0.1:49160 disconnected, 23733 bytes received, 5726 bytes sent, lasted for 404 seconds
+[2022-12-09 17:03:58] [INFO] 127.0.0.1:49373 disconnected, 1469 bytes received, 845 bytes sent, lasted for 246 seconds
+[2022-12-09 17:04:08] [INFO] 127.0.0.1:49364 disconnected, 740 bytes received, 624 bytes sent, lasted for 257 seconds
+[2022-12-09 17:04:08] [INFO] 127.0.0.1:49457 requested connection to beacons.gcp.gvt2.com:443
+[2022-12-09 17:04:19] [INFO] 127.0.0.1:49461 requested connection to clientservices.googleapis.com:443
+[2022-12-09 17:04:53] [INFO] 127.0.0.1:49306 disconnected, 14575 bytes received, 1741 bytes sent, lasted for 377 seconds
+[2022-12-09 17:04:53] [INFO] 127.0.0.1:49318 disconnected, 1563 bytes received, 1699 bytes sent, lasted for 375 seconds
+[2022-12-09 17:08:08] [INFO] 127.0.0.1:49457 disconnected, 6841 bytes received, 3314 bytes sent, lasted for 240 seconds
+[2022-12-09 17:08:20] [INFO] 127.0.0.1:49461 disconnected, 6281 bytes received, 1366 bytes sent, lasted for 241 seconds
+[2022-12-09 17:09:08] [INFO] 127.0.0.1:49580 requested connection to beacons.gcp.gvt2.com:443
+[2022-12-09 17:10:08] [INFO] 127.0.0.1:49614 requested connection to pagead2.googlesyndication.com:443
+[2022-12-09 17:11:12] [INFO] 127.0.0.1:49409 disconnected, 5185 bytes received, 12485 bytes sent, lasted for 573 seconds
+[2022-12-09 17:11:12] [INFO] 127.0.0.1:49642 requested connection to config.uca.cloud.unity3d.com:443
+[2022-12-09 17:11:14] [INFO] 127.0.0.1:49646 requested connection to cdp.cloud.unity3d.com:443
+[2022-12-09 17:11:26] [INFO] 127.0.0.1:49658 requested connection to apitest.metaspace.cloud:80
+[2022-12-09 17:11:26] [INFO] 127.0.0.1:49670 requested connection to www.google.com:443
+[2022-12-09 17:11:27] [INFO] 127.0.0.1:49658 disconnected, 429 bytes received, 233 bytes sent, lasted for 1 seconds
+[2022-12-09 17:11:27] [INFO] 127.0.0.1:49674 requested connection to gameupdateress3.s3.ap-southeast-1.amazonaws.com:443
+[2022-12-09 17:11:27] [INFO] 127.0.0.1:49674 disconnected, 7760 bytes received, 787 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:32] [INFO] 127.0.0.1:49678 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-12-09 17:11:32] [INFO] 127.0.0.1:49685 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-12-09 17:11:32] [INFO] 127.0.0.1:49687 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-12-09 17:11:32] [INFO] 127.0.0.1:49685 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:32] [ERROR] 127.0.0.1:49685 cannot establish connection to remote server 183.240.220.54:12007: 由于线程退出或应用程序请求，已中止 I/O 操作。
+[2022-12-09 17:11:32] [INFO] 127.0.0.1:49687 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:32] [INFO] 127.0.0.1:49687 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:47] [INFO] 127.0.0.1:49695 requested connection to www.gstatic.com:443
+[2022-12-09 17:11:48] [INFO] 127.0.0.1:49699 requested connection to play.google.com:443
+[2022-12-09 17:11:49] [INFO] 127.0.0.1:49703 requested connection to adservice.google.com:443
+[2022-12-09 17:11:57] [INFO] 127.0.0.1:49712 requested connection to blog.csdn.net:443
+[2022-12-09 17:11:57] [INFO] 127.0.0.1:49711 requested connection to event.csdn.net:443
+[2022-12-09 17:11:57] [INFO] 127.0.0.1:49716 requested connection to kunyu.csdn.net:443
+[2022-12-09 17:11:57] [INFO] 127.0.0.1:49723 requested connection to dup.baidustatic.com:443
+[2022-12-09 17:11:57] [INFO] 127.0.0.1:49721 requested connection to g.csdnimg.cn:443
+[2022-12-09 17:11:57] [INFO] 127.0.0.1:49722 requested connection to csdnimg.cn:443
+[2022-12-09 17:11:58] [INFO] 127.0.0.1:49729 requested connection to event.csdn.net:443
+[2022-12-09 17:11:58] [INFO] 127.0.0.1:49732 requested connection to g.csdnimg.cn:443
+[2022-12-09 17:11:58] [INFO] 127.0.0.1:49735 requested connection to profile.csdnimg.cn:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49742 requested connection to www.googletagmanager.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49745 requested connection to img-blog.csdnimg.cn:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49747 requested connection to cpro.baidustatic.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49749 requested connection to hm.baidu.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49750 requested connection to img-home.csdnimg.cn:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49754 requested connection to zhanzhang.toutiao.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49756 requested connection to sp0.baidu.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49761 requested connection to profile.csdnimg.cn:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49764 requested connection to statistic.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49767 requested connection to pos.baidu.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49761 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49770 requested connection to silkroad.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49773 requested connection to kunpeng.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49776 requested connection to msg.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49779 requested connection to gsp0.baidu.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49782 requested connection to devpress-api.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49785 requested connection to profile-avatar.csdnimg.cn:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49788 requested connection to redisdatarecall.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49722 disconnected, 3513 bytes received, 610 bytes sent, lasted for 2 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49791 requested connection to blog.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49723 disconnected, 5539 bytes received, 602 bytes sent, lasted for 2 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49794 requested connection to kunyu.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49711 disconnected, 3768 bytes received, 610 bytes sent, lasted for 2 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49797 requested connection to content-autofill.googleapis.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49695 disconnected, 1334 bytes received, 841 bytes sent, lasted for 12 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49800 requested connection to kunpeng.csdn.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49803 requested connection to partner.googleadservices.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49670 disconnected, 118288 bytes received, 19743 bytes sent, lasted for 33 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49580 disconnected, 5968 bytes received, 2791 bytes sent, lasted for 171 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49678 disconnected, 9818 bytes received, 2186 bytes sent, lasted for 27 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49745 disconnected, 3740 bytes received, 1288 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49721 disconnected, 62601 bytes received, 2514 bytes sent, lasted for 2 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49699 disconnected, 1648 bytes received, 2158 bytes sent, lasted for 11 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49614 disconnected, 56817 bytes received, 2924 bytes sent, lasted for 111 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49742 disconnected, 46291 bytes received, 1431 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49735 disconnected, 7451 bytes received, 1473 bytes sent, lasted for 1 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49747 disconnected, 6381 bytes received, 1140 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49732 disconnected, 8886 bytes received, 1225 bytes sent, lasted for 1 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49750 disconnected, 3710 bytes received, 1278 bytes sent, lasted for 0 seconds
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49806 requested connection to googleads.g.doubleclick.net:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49809 requested connection to www.google-analytics.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49812 requested connection to pos.baidu.com:443
+[2022-12-09 17:11:59] [INFO] 127.0.0.1:49800 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49815 requested connection to msg.csdn.net:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49812 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49818 requested connection to fundingchoicesmessages.google.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49821 requested connection to stats.g.doubleclick.net:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49824 requested connection to cpro.baidustatic.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49828 requested connection to fonts.gstatic.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49829 requested connection to fonts.googleapis.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49833 requested connection to cpro.baidustatic.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49837 requested connection to www.google.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49838 requested connection to www.google.com.tw:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49842 requested connection to www.googletagservices.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49712 disconnected, 32278 bytes received, 20382 bytes sent, lasted for 3 seconds
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49845 requested connection to id.rlcdn.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49779 disconnected, 26918 bytes received, 2005 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49847 requested connection to odr.mookie1.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49749 disconnected, 723 bytes received, 3811 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49716 disconnected, 6226 bytes received, 9557 bytes sent, lasted for 3 seconds
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49851 requested connection to us-u.openx.net:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49794 disconnected, 3714 bytes received, 643 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49756 disconnected, 5612 bytes received, 2108 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49855 requested connection to image6.pubmatic.com:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49858 requested connection to cc.adingo.jp:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49859 requested connection to googlecm.hit.gemius.pl:443
+[2022-12-09 17:12:00] [INFO] 127.0.0.1:49860 requested connection to cm.g.doubleclick.net:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49833 disconnected, 0 bytes received, 621 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49821 disconnected, 6260 bytes received, 1430 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49703 disconnected, 2337 bytes received, 2158 bytes sent, lasted for 12 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49818 disconnected, 49993 bytes received, 1479 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49815 disconnected, 5333 bytes received, 4118 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49806 disconnected, 27903 bytes received, 5888 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49803 disconnected, 6585 bytes received, 1455 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49809 disconnected, 26933 bytes received, 1932 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49782 disconnected, 5026 bytes received, 3982 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49767 disconnected, 18700 bytes received, 3682 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49776 disconnected, 4326 bytes received, 1138 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49770 disconnected, 6060 bytes received, 1872 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49764 disconnected, 4251 bytes received, 1190 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49773 disconnected, 4898 bytes received, 7344 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49754 disconnected, 6271 bytes received, 1309 bytes sent, lasted for 2 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49867 requested connection to wn.pos.baidu.com:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49870 requested connection to fundingchoicesmessages.google.com:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49873 requested connection to lupic.cdn.bcebos.com:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49877 requested connection to wn.pos.baidu.com:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49859 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49880 requested connection to googlecm.hit.gemius.pl:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49883 requested connection to googleads.g.doubleclick.net:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49886 requested connection to bk.r-ad.ne.jp:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49894 requested connection to lupic.cdn.bcebos.com:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49895 requested connection to lupic.cdn.bcebos.com:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49896 requested connection to lupic.cdn.bcebos.com:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49880 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49901 requested connection to fundingchoicesmessages.google.com:443
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49895 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49894 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49896 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-12-09 17:12:01] [INFO] 127.0.0.1:49904 requested connection to jp-u.openx.net:443
+[2022-12-09 17:12:02] [INFO] 127.0.0.1:49907 requested connection to pagead2.googlesyndication.com:443
+[2022-12-09 17:12:03] [INFO] 127.0.0.1:49910 requested connection to hm.baidu.com:443
+[2022-12-09 17:12:03] [INFO] 127.0.0.1:49914 requested connection to blog.csdn.net:443
+[2022-12-09 17:12:03] [INFO] 127.0.0.1:49917 requested connection to beacon.tingyun.com:443
+[2022-12-09 17:12:03] [INFO] 127.0.0.1:49920 requested connection to tpc.googlesyndication.com:443
+[2022-12-09 17:12:03] [INFO] 127.0.0.1:49923 requested connection to pagead2.googlesyndication.com:443
+[2022-12-09 17:12:03] [INFO] 127.0.0.1:49926 requested connection to eclick.baidu.com:443
+[2022-12-09 17:12:05] [INFO] 127.0.0.1:49886 disconnected, 6854 bytes received, 1303 bytes sent, lasted for 4 seconds
+[2022-12-09 17:12:05] [INFO] 127.0.0.1:49929 requested connection to beacon.tingyun.com:443
+[2022-12-09 17:12:05] [INFO] 127.0.0.1:49929 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-12-09 17:12:06] [INFO] 127.0.0.1:49858 disconnected, 4126 bytes received, 1366 bytes sent, lasted for 6 seconds
+[2022-12-09 17:12:18] [INFO] 127.0.0.1:49934 requested connection to csi.gstatic.com:443
+[2022-12-09 17:12:18] [INFO] 127.0.0.1:49791 disconnected, 156 bytes received, 570 bytes sent, lasted for 19 seconds
+[2022-12-09 17:12:18] [INFO] 127.0.0.1:49938 requested connection to hm.baidu.com:443
+[2022-12-09 17:12:18] [INFO] 127.0.0.1:49939 requested connection to hm.baidu.com:443
+[2022-12-09 17:12:21] [INFO] 127.0.0.1:49914 disconnected, 5345 bytes received, 5456 bytes sent, lasted for 18 seconds
+[2022-12-09 17:12:21] [INFO] 127.0.0.1:49946 requested connection to www.google-analytics.com:443
+[2022-12-09 17:12:26] [INFO] 127.0.0.1:49950 requested connection to xbvpn.site:443
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49938 disconnected, 486 bytes received, 2220 bytes sent, lasted for 9 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49828 disconnected, 1340 bytes received, 845 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49939 disconnected, 158 bytes received, 568 bytes sent, lasted for 9 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49729 disconnected, 5366 bytes received, 32026 bytes sent, lasted for 29 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49642 disconnected, 5561 bytes received, 1131 bytes sent, lasted for 75 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49851 disconnected, 4570 bytes received, 1613 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49904 disconnected, 4305 bytes received, 1483 bytes sent, lasted for 26 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49845 disconnected, 7330 bytes received, 1401 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49838 disconnected, 1977 bytes received, 1762 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49788 disconnected, 4426 bytes received, 4018 bytes sent, lasted for 28 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49946 disconnected, 6245 bytes received, 1850 bytes sent, lasted for 6 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49877 disconnected, 5636 bytes received, 2382 bytes sent, lasted for 26 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49870 disconnected, 16534 bytes received, 4118 bytes sent, lasted for 26 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49867 disconnected, 5636 bytes received, 2266 bytes sent, lasted for 26 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49646 disconnected, 4633 bytes received, 5214 bytes sent, lasted for 73 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49907 disconnected, 13833 bytes received, 3271 bytes sent, lasted for 25 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49926 disconnected, 5702 bytes received, 2030 bytes sent, lasted for 24 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49883 disconnected, 2222 bytes received, 3814 bytes sent, lasted for 26 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49934 disconnected, 5902 bytes received, 1294 bytes sent, lasted for 9 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49829 disconnected, 3292 bytes received, 1513 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49855 disconnected, 5033 bytes received, 3300 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49860 disconnected, 7346 bytes received, 2292 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49824 disconnected, 9065 bytes received, 1365 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49785 disconnected, 11782 bytes received, 1193 bytes sent, lasted for 28 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49950 disconnected, 4535 bytes received, 1107 bytes sent, lasted for 1 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49920 disconnected, 5986 bytes received, 1457 bytes sent, lasted for 24 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49797 disconnected, 1966 bytes received, 1580 bytes sent, lasted for 28 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49873 disconnected, 123758 bytes received, 1359 bytes sent, lasted for 26 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49917 disconnected, 4921 bytes received, 64779 bytes sent, lasted for 24 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49837 disconnected, 3515 bytes received, 2473 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49842 disconnected, 6100 bytes received, 1180 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49847 disconnected, 5010 bytes received, 1389 bytes sent, lasted for 27 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49901 disconnected, 11014 bytes received, 3413 bytes sent, lasted for 26 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49910 disconnected, 2126 bytes received, 11038 bytes sent, lasted for 24 seconds
+[2022-12-09 17:12:27] [INFO] 127.0.0.1:49923 disconnected, 47357 bytes received, 2662 bytes sent, lasted for 24 seconds

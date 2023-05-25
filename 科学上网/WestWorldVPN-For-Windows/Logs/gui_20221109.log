@@ -1,0 +1,108 @@
+--------------------------------info[10:57:59]--------------------------------
+System.Exception: 程序运行目录 : C:\Users\zhangwei\Desktop\WestWorldVPN-For-Windows\WestWorldVPN.exe
+
+ 
+--------------------------------info[10:57:59]--------------------------------
+System.Exception: Main exe start up 1.06
+
+ 
+--------------------------------info[10:57:59]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=9c6658718fe1f8be9642ea9e08f1e0a9
+
+ 
+--------------------------------info[10:58:02]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[10:58:02]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=773524a37a893f659d3b993cc1d6f666
+
+ 
+--------------------------------info[10:58:02]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[10:58:13]--------------------------------
+System.Exception: PAC Webserver prefixes http://127.0.0.1:21883/pac/
+
+ 
+--------------------------------info[10:58:13]--------------------------------
+System.Exception: PAC Webserver at 127.0.0.1:21883
+
+ 
+--------------------------------info[10:58:13]--------------------------------
+System.Exception: PAC Webserver running...
+
+ 
+--------------------------------info[11:35:10]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[11:35:11]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=126be70fbb59c9868a11f88627fffd2f
+
+ 
+--------------------------------info[11:35:11]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[11:35:12]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 WestWorldVPN.Component.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[16:25:50]--------------------------------
+System.Exception: 程序运行目录 : C:\Users\zhangwei\Desktop\WestWorldVPN-For-Windows\WestWorldVPN.exe
+
+ 
+--------------------------------info[16:25:50]--------------------------------
+System.Exception: Main exe start up 1.06
+
+ 
+--------------------------------info[16:25:50]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=a9987960eb1bad46c24d6065c9767b47
+
+ 
+--------------------------------info[16:25:55]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[16:25:55]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=a17d0a37c442b499d9e25de1f183ffcf
+
+ 
+--------------------------------info[16:25:55]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[16:25:59]--------------------------------
+System.Exception: PAC Webserver prefixes http://127.0.0.1:21883/pac/
+
+ 
+--------------------------------info[16:25:59]--------------------------------
+System.Exception: PAC Webserver at 127.0.0.1:21883
+
+ 
+--------------------------------info[16:25:59]--------------------------------
+System.Exception: PAC Webserver running...
+
+ 
+--------------------------------info[17:34:19]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[17:34:20]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=bd31f874c426739646b0405bbf932164
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[17:34:21]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 WestWorldVPN.Component.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[17:34:21]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 

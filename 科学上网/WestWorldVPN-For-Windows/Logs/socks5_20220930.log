@@ -1,0 +1,232 @@
+[2022-09-30 18:03:41] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-09-30 18:03:43] [INFO] 127.0.0.1:52871 requested connection to www.google.com:443
+[2022-09-30 18:03:43] [INFO] 127.0.0.1:52874 requested connection to www.google.com:443
+[2022-09-30 18:03:43] [INFO] 127.0.0.1:52874 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:45] [INFO] 127.0.0.1:52879 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:03:48] [INFO] 127.0.0.1:52892 requested connection to id.google.com:443
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52897 requested connection to www.gstatic.com:443
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52900 requested connection to play.google.com:443
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52908 requested connection to www.gstatic.com:443
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52907 requested connection to www.gstatic.com:443
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52909 requested connection to www.gstatic.com:443
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52910 requested connection to www.gstatic.com:443
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52916 requested connection to play.google.com:443
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52910 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52909 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52907 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:49] [INFO] 127.0.0.1:52908 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:50] [INFO] 127.0.0.1:52922 requested connection to apis.google.com:443
+[2022-09-30 18:03:55] [INFO] 127.0.0.1:52940 requested connection to i.ytimg.com:443
+[2022-09-30 18:03:55] [INFO] 127.0.0.1:52943 requested connection to play-lh.googleusercontent.com:443
+[2022-09-30 18:03:55] [INFO] 127.0.0.1:52946 requested connection to play-lh.googleusercontent.com:443
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52953 requested connection to play-lh.googleusercontent.com:443
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52956 requested connection to play-lh.googleusercontent.com:443
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52958 requested connection to play-lh.googleusercontent.com:443
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52961 requested connection to play-lh.googleusercontent.com:443
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52946 disconnected, 4876 bytes received, 591 bytes sent, lasted for 1 seconds
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52958 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52956 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52961 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:56] [INFO] 127.0.0.1:52953 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:03:57] [INFO] 127.0.0.1:52974 requested connection to www.gstatic.com:443
+[2022-09-30 18:03:59] [INFO] 127.0.0.1:52982 requested connection to content-autofill.googleapis.com:443
+[2022-09-30 18:03:59] [INFO] 127.0.0.1:52985 requested connection to payments.google.com:443
+[2022-09-30 18:04:01] [INFO] 127.0.0.1:52993 requested connection to accounts.google.com:443
+[2022-09-30 18:04:05] [INFO] 127.0.0.1:53005 requested connection to accounts.youtube.com:443
+[2022-09-30 18:04:55] [INFO] 127.0.0.1:53126 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-09-30 18:04:56] [INFO] 127.0.0.1:53130 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-09-30 18:05:03] [INFO] 127.0.0.1:53148 requested connection to google.com:443
+[2022-09-30 18:05:03] [INFO] 127.0.0.1:53152 requested connection to beacons5.gvt3.com:443
+[2022-09-30 18:06:09] [INFO] 127.0.0.1:53306 requested connection to www.googleapis.com:443
+[2022-09-30 18:06:09] [INFO] 127.0.0.1:53311 requested connection to accountcapabilities-pa.googleapis.com:443
+[2022-09-30 18:06:10] [INFO] 127.0.0.1:53314 requested connection to lh3.googleusercontent.com:443
+[2022-09-30 18:06:10] [INFO] 127.0.0.1:53317 requested connection to myaccount.google.com:443
+[2022-09-30 18:06:11] [INFO] 127.0.0.1:53326 requested connection to lh3.googleusercontent.com:443
+[2022-09-30 18:06:14] [INFO] 127.0.0.1:53341 requested connection to scone-pa.clients6.google.com:443
+[2022-09-30 18:06:14] [INFO] 127.0.0.1:53345 requested connection to ogs.google.com:443
+[2022-09-30 18:06:15] [INFO] 127.0.0.1:53348 requested connection to ogs.google.com:443
+[2022-09-30 18:06:15] [INFO] 127.0.0.1:53348 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-30 18:06:23] [INFO] 127.0.0.1:53366 requested connection to clients2.google.com:443
+[2022-09-30 18:06:55] [INFO] 127.0.0.1:53449 requested connection to clients2.google.com:443
+[2022-09-30 18:07:07] [INFO] 127.0.0.1:53480 requested connection to support.google.com:443
+[2022-09-30 18:07:07] [INFO] 127.0.0.1:53481 requested connection to support.google.com:443
+[2022-09-30 18:07:08] [INFO] 127.0.0.1:53493 requested connection to aa.google.com:443
+[2022-09-30 18:07:09] [INFO] 127.0.0.1:53500 requested connection to realtimesupport.clients6.google.com:443
+[2022-09-30 18:07:45] [INFO] 127.0.0.1:52879 disconnected, 6443 bytes received, 1035 bytes sent, lasted for 240 seconds
+[2022-09-30 18:07:48] [INFO] 127.0.0.1:52892 disconnected, 8676 bytes received, 1706 bytes sent, lasted for 240 seconds
+[2022-09-30 18:07:56] [INFO] 127.0.0.1:52940 disconnected, 11300 bytes received, 1533 bytes sent, lasted for 241 seconds
+[2022-09-30 18:07:58] [INFO] 127.0.0.1:52974 disconnected, 169580 bytes received, 1537 bytes sent, lasted for 241 seconds
+[2022-09-30 18:08:47] [INFO] 127.0.0.1:53481 disconnected, 7668 bytes received, 591 bytes sent, lasted for 100 seconds
+[2022-09-30 18:08:47] [INFO] 127.0.0.1:53768 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:08:56] [INFO] 127.0.0.1:53126 disconnected, 6980 bytes received, 1366 bytes sent, lasted for 241 seconds
+[2022-09-30 18:08:56] [INFO] 127.0.0.1:53130 disconnected, 275795 bytes received, 1093 bytes sent, lasted for 240 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52871 disconnected, 1029010 bytes received, 106988 bytes sent, lasted for 318 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53768 disconnected, 5559 bytes received, 1552 bytes sent, lasted for 14 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52897 disconnected, 3165973 bytes received, 74789 bytes sent, lasted for 312 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52900 disconnected, 8777 bytes received, 2023 bytes sent, lasted for 312 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52916 disconnected, 339868 bytes received, 183564 bytes sent, lasted for 312 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52943 disconnected, 119236 bytes received, 4545 bytes sent, lasted for 306 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52922 disconnected, 311391 bytes received, 5555 bytes sent, lasted for 311 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52985 disconnected, 10406 bytes received, 2889 bytes sent, lasted for 302 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52982 disconnected, 8801 bytes received, 9457 bytes sent, lasted for 302 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:52993 disconnected, 716137 bytes received, 45647 bytes sent, lasted for 300 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53005 disconnected, 34055 bytes received, 1936 bytes sent, lasted for 296 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53148 disconnected, 9263 bytes received, 6657 bytes sent, lasted for 238 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53152 disconnected, 6393 bytes received, 1842 bytes sent, lasted for 238 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53306 disconnected, 11109 bytes received, 2506 bytes sent, lasted for 172 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53311 disconnected, 6408 bytes received, 1546 bytes sent, lasted for 172 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53314 disconnected, 12488 bytes received, 1025 bytes sent, lasted for 171 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53317 disconnected, 235240 bytes received, 16283 bytes sent, lasted for 171 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53326 disconnected, 16716 bytes received, 2771 bytes sent, lasted for 170 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53341 disconnected, 18645 bytes received, 13044 bytes sent, lasted for 167 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53345 disconnected, 58399 bytes received, 5813 bytes sent, lasted for 167 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53366 disconnected, 9605 bytes received, 1076 bytes sent, lasted for 158 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53449 disconnected, 17131 bytes received, 2459 bytes sent, lasted for 126 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53480 disconnected, 604456 bytes received, 7049 bytes sent, lasted for 114 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53493 disconnected, 40183 bytes received, 2928 bytes sent, lasted for 113 seconds
+[2022-09-30 18:09:01] [INFO] 127.0.0.1:53500 disconnected, 18700 bytes received, 11056 bytes sent, lasted for 112 seconds
+[2022-09-30 18:09:11] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-09-30 18:09:12] [INFO] 127.0.0.1:53861 requested connection to www.google.com:443
+[2022-09-30 18:09:12] [INFO] 127.0.0.1:53864 requested connection to www.google.com:443
+[2022-09-30 18:09:23] [INFO] 127.0.0.1:53864 disconnected, 325 bytes received, 786 bytes sent, lasted for 11 seconds
+[2022-09-30 18:09:31] [INFO] 127.0.0.1:53911 requested connection to lh3.googleusercontent.com:443
+[2022-09-30 18:09:31] [INFO] 127.0.0.1:53914 requested connection to www.gstatic.com:443
+[2022-09-30 18:09:31] [INFO] 127.0.0.1:53917 requested connection to www.gstatic.com:443
+[2022-09-30 18:09:31] [INFO] 127.0.0.1:53917 disconnected, 0 bytes received, 714 bytes sent, lasted for 0 seconds
+[2022-09-30 18:09:33] [INFO] 127.0.0.1:53925 requested connection to id.google.com:443
+[2022-09-30 18:09:41] [INFO] 127.0.0.1:53949 requested connection to www.gstatic.com:80
+[2022-09-30 18:09:41] [INFO] 127.0.0.1:53949 disconnected, 146 bytes received, 305 bytes sent, lasted for 0 seconds
+[2022-09-30 18:09:42] [INFO] 127.0.0.1:53954 requested connection to google.com:443
+[2022-09-30 18:09:42] [INFO] 127.0.0.1:53957 requested connection to play.google.com:443
+[2022-09-30 18:09:42] [INFO] 127.0.0.1:53960 requested connection to play.google.com:443
+[2022-09-30 18:09:45] [INFO] 127.0.0.1:53971 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:09:47] [INFO] 127.0.0.1:53977 requested connection to content-autofill.googleapis.com:443
+[2022-09-30 18:10:08] [INFO] 127.0.0.1:54032 requested connection to www.gstatic.com:80
+[2022-09-30 18:10:09] [INFO] 127.0.0.1:54032 disconnected, 146 bytes received, 305 bytes sent, lasted for 1 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53861 disconnected, 1204058 bytes received, 54074 bytes sent, lasted for 61 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53925 disconnected, 1926 bytes received, 3492 bytes sent, lasted for 40 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53911 disconnected, 2116 bytes received, 1471 bytes sent, lasted for 42 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53914 disconnected, 652497 bytes received, 13449 bytes sent, lasted for 42 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53954 disconnected, 2259 bytes received, 2016 bytes sent, lasted for 31 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53957 disconnected, 1315 bytes received, 1177 bytes sent, lasted for 31 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53960 disconnected, 3236 bytes received, 3835 bytes sent, lasted for 31 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53971 disconnected, 23831 bytes received, 2512 bytes sent, lasted for 28 seconds
+[2022-09-30 18:10:13] [INFO] 127.0.0.1:53977 disconnected, 1751 bytes received, 1487 bytes sent, lasted for 26 seconds
+[2022-09-30 18:10:20] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-09-30 18:10:25] [INFO] 127.0.0.1:54086 requested connection to www.google.com:443
+[2022-09-30 18:10:25] [INFO] 127.0.0.1:54089 requested connection to www.google.com:443
+[2022-09-30 18:10:25] [INFO] 127.0.0.1:54089 disconnected, 0 bytes received, 712 bytes sent, lasted for 0 seconds
+[2022-09-30 18:10:26] [INFO] 127.0.0.1:54097 requested connection to www.google.com.hk:443
+[2022-09-30 18:10:59] [INFO] 127.0.0.1:54175 requested connection to google.com:443
+[2022-09-30 18:11:02] [INFO] 127.0.0.1:54185 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:11:03] [INFO] 127.0.0.1:54193 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:11:03] [INFO] 127.0.0.1:54194 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:11:03] [INFO] 127.0.0.1:54195 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:11:03] [INFO] 127.0.0.1:54196 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:11:03] [INFO] 127.0.0.1:54197 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-09-30 18:11:04] [INFO] 127.0.0.1:54193 disconnected, 0 bytes received, 736 bytes sent, lasted for 1 seconds
+[2022-09-30 18:11:04] [INFO] 127.0.0.1:54194 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-09-30 18:11:04] [INFO] 127.0.0.1:54195 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-09-30 18:11:04] [INFO] 127.0.0.1:54196 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-09-30 18:11:04] [INFO] 127.0.0.1:54197 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-09-30 18:11:23] [INFO] 127.0.0.1:54245 requested connection to clients2.google.com:443
+[2022-09-30 18:11:43] [INFO] 127.0.0.1:54300 requested connection to www.google.com.hk:443
+[2022-09-30 18:11:46] [INFO] 127.0.0.1:54312 requested connection to support.google.com:443
+[2022-09-30 18:11:46] [INFO] 127.0.0.1:54315 requested connection to www.gstatic.com:443
+[2022-09-30 18:11:46] [INFO] 127.0.0.1:54319 requested connection to play.google.com:443
+[2022-09-30 18:11:46] [INFO] 127.0.0.1:54322 requested connection to aa.google.com:443
+[2022-09-30 18:11:46] [INFO] 127.0.0.1:54325 requested connection to scone-pa.clients6.google.com:443
+[2022-09-30 18:11:46] [INFO] 127.0.0.1:54329 requested connection to realtimesupport.clients6.google.com:443
+[2022-09-30 18:11:46] [INFO] 127.0.0.1:54336 requested connection to play.google.com:443
+[2022-09-30 18:11:46] [INFO] 127.0.0.1:54339 requested connection to play.google.com:443
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54097 disconnected, 53662 bytes received, 4315 bytes sent, lasted for 94 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54175 disconnected, 8741 bytes received, 1495 bytes sent, lasted for 61 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54086 disconnected, 16369 bytes received, 15605 bytes sent, lasted for 95 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54185 disconnected, 19248 bytes received, 2086 bytes sent, lasted for 58 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54319 disconnected, 7307 bytes received, 659 bytes sent, lasted for 14 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54312 disconnected, 7667 bytes received, 794 bytes sent, lasted for 14 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54325 disconnected, 10823 bytes received, 814 bytes sent, lasted for 14 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54245 disconnected, 9626 bytes received, 1281 bytes sent, lasted for 37 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54315 disconnected, 57296 bytes received, 1525 bytes sent, lasted for 14 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54322 disconnected, 7654 bytes received, 784 bytes sent, lasted for 14 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54329 disconnected, 10848 bytes received, 830 bytes sent, lasted for 14 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54336 disconnected, 7308 bytes received, 659 bytes sent, lasted for 14 seconds
+[2022-09-30 18:12:00] [INFO] 127.0.0.1:54339 disconnected, 7306 bytes received, 581 bytes sent, lasted for 14 seconds
+[2022-09-30 18:12:05] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-09-30 18:12:07] [INFO] 127.0.0.1:54419 requested connection to www.google.com:443
+[2022-09-30 18:12:09] [INFO] 127.0.0.1:54424 requested connection to www.gstatic.com:80
+[2022-09-30 18:12:09] [INFO] 127.0.0.1:54424 disconnected, 146 bytes received, 305 bytes sent, lasted for 0 seconds
+[2022-09-30 18:12:09] [INFO] 127.0.0.1:54429 requested connection to id.google.com:443
+[2022-09-30 18:12:10] [INFO] 127.0.0.1:54434 requested connection to play.google.com:443
+[2022-09-30 18:13:10] [INFO] 127.0.0.1:54419 disconnected, 237516 bytes received, 21066 bytes sent, lasted for 63 seconds
+[2022-09-30 18:13:10] [INFO] 127.0.0.1:54429 disconnected, 8488 bytes received, 2665 bytes sent, lasted for 61 seconds
+[2022-09-30 18:13:10] [INFO] 127.0.0.1:54434 disconnected, 8820 bytes received, 3042 bytes sent, lasted for 60 seconds
+[2022-09-30 18:13:21] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-09-30 18:13:23] [INFO] 127.0.0.1:54613 requested connection to beacons3.gvt2.com:443
+[2022-09-30 18:13:23] [INFO] 127.0.0.1:54621 requested connection to www.google.com:443
+[2022-09-30 18:13:24] [INFO] 127.0.0.1:54624 requested connection to www.google.com:443
+[2022-09-30 18:13:24] [INFO] 127.0.0.1:54627 requested connection to www.google.com:443
+[2022-09-30 18:13:24] [INFO] 127.0.0.1:54630 requested connection to www.google.com:443
+[2022-09-30 18:13:24] [INFO] 127.0.0.1:54635 requested connection to www.google.com:443
+[2022-09-30 18:13:24] [INFO] 127.0.0.1:54636 requested connection to www.google.com:443
+[2022-09-30 18:13:33] [INFO] 127.0.0.1:54630 disconnected, 4401 bytes received, 591 bytes sent, lasted for 9 seconds
+[2022-09-30 18:13:33] [INFO] 127.0.0.1:54635 disconnected, 4402 bytes received, 591 bytes sent, lasted for 9 seconds
+[2022-09-30 18:13:33] [INFO] 127.0.0.1:54621 disconnected, 4400 bytes received, 786 bytes sent, lasted for 10 seconds
+[2022-09-30 18:13:33] [INFO] 127.0.0.1:54627 disconnected, 4400 bytes received, 591 bytes sent, lasted for 9 seconds
+[2022-09-30 18:13:33] [INFO] 127.0.0.1:54636 disconnected, 4402 bytes received, 591 bytes sent, lasted for 9 seconds
+[2022-09-30 18:13:34] [INFO] 127.0.0.1:54665 requested connection to google.com:443
+[2022-09-30 18:13:34] [INFO] 127.0.0.1:54668 requested connection to id.google.com:443
+[2022-09-30 18:13:34] [INFO] 127.0.0.1:54672 requested connection to play.google.com:443
+[2022-09-30 18:13:34] [INFO] 127.0.0.1:54676 requested connection to www.gstatic.com:443
+[2022-09-30 18:13:35] [INFO] 127.0.0.1:54681 requested connection to adservice.google.com:443
+[2022-09-30 18:13:36] [INFO] 127.0.0.1:54687 requested connection to www.okx.com:443
+[2022-09-30 18:13:36] [INFO] 127.0.0.1:54688 requested connection to www.okx.com:443
+[2022-09-30 18:13:36] [INFO] 127.0.0.1:54688 disconnected, 1940 bytes received, 581 bytes sent, lasted for 0 seconds
+[2022-09-30 18:13:37] [INFO] 127.0.0.1:54692 requested connection to www.googleadservices.com:443
+[2022-09-30 18:13:37] [INFO] 127.0.0.1:54695 requested connection to static.okx.com:443
+[2022-09-30 18:13:37] [INFO] 127.0.0.1:54698 requested connection to static.okx.com:443
+[2022-09-30 18:13:37] [INFO] 127.0.0.1:54700 requested connection to static.okx.com:443
+[2022-09-30 18:13:37] [INFO] 127.0.0.1:54702 requested connection to static.okx.com:443
+[2022-09-30 18:13:37] [INFO] 127.0.0.1:54698 disconnected, 4788 bytes received, 581 bytes sent, lasted for 0 seconds
+[2022-09-30 18:13:37] [INFO] 127.0.0.1:54702 disconnected, 4788 bytes received, 581 bytes sent, lasted for 0 seconds
+[2022-09-30 18:13:38] [INFO] 127.0.0.1:54711 requested connection to www.googletagmanager.com:443
+[2022-09-30 18:13:38] [INFO] 127.0.0.1:54738 requested connection to content-autofill.googleapis.com:443
+[2022-09-30 18:13:38] [INFO] 127.0.0.1:54742 requested connection to wspri.okx.com:8443
+[2022-09-30 18:13:38] [INFO] 127.0.0.1:54745 requested connection to www.google-analytics.com:443
+[2022-09-30 18:13:39] [INFO] 127.0.0.1:54748 requested connection to stats.g.doubleclick.net:443
+[2022-09-30 18:13:39] [INFO] 127.0.0.1:54751 requested connection to ogs.google.com:443
+[2022-09-30 18:13:39] [INFO] 127.0.0.1:54755 requested connection to www.google.com.tw:443
+[2022-09-30 18:13:39] [INFO] 127.0.0.1:54758 requested connection to ssl.gstatic.com:443
+[2022-09-30 18:13:40] [INFO] 127.0.0.1:54761 requested connection to fonts.gstatic.com:443
+[2022-09-30 18:13:42] [INFO] 127.0.0.1:54771 requested connection to beacons.gcp.gvt2.com:443
+[2022-09-30 18:13:50] [INFO] 127.0.0.1:54790 requested connection to xbvpn.site:443
+[2022-09-30 18:14:09] [INFO] 127.0.0.1:54835 requested connection to www.gstatic.com:80
+[2022-09-30 18:14:09] [INFO] 127.0.0.1:54838 requested connection to settings-win.data.microsoft.com:443
+[2022-09-30 18:14:10] [INFO] 127.0.0.1:54838 disconnected, 4039 bytes received, 1533 bytes sent, lasted for 1 seconds
+[2022-09-30 18:14:14] [INFO] 127.0.0.1:54835 disconnected, 146 bytes received, 305 bytes sent, lasted for 5 seconds
+[2022-09-30 18:14:29] [INFO] 127.0.0.1:54882 requested connection to cdp.cloud.unity3d.com:443
+[2022-09-30 18:14:34] [INFO] 127.0.0.1:54896 requested connection to xbvpn.site:443
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54613 disconnected, 6598 bytes received, 3497 bytes sent, lasted for 75 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54672 disconnected, 10508 bytes received, 6398 bytes sent, lasted for 64 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54624 disconnected, 212039 bytes received, 24340 bytes sent, lasted for 74 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54676 disconnected, 9054 bytes received, 3440 bytes sent, lasted for 64 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54687 disconnected, 75718 bytes received, 8876 bytes sent, lasted for 62 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54681 disconnected, 8185 bytes received, 2313 bytes sent, lasted for 63 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54665 disconnected, 8740 bytes received, 1544 bytes sent, lasted for 64 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54668 disconnected, 8133 bytes received, 2664 bytes sent, lasted for 64 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54692 disconnected, 6007 bytes received, 1576 bytes sent, lasted for 61 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54695 disconnected, 213749 bytes received, 1730 bytes sent, lasted for 61 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54748 disconnected, 6102 bytes received, 1604 bytes sent, lasted for 59 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54700 disconnected, 1073211 bytes received, 4692 bytes sent, lasted for 61 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54711 disconnected, 129667 bytes received, 1254 bytes sent, lasted for 60 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54738 disconnected, 1940 bytes received, 1645 bytes sent, lasted for 60 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54742 disconnected, 28472 bytes received, 1519 bytes sent, lasted for 60 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54745 disconnected, 26665 bytes received, 2409 bytes sent, lasted for 60 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54751 disconnected, 17923 bytes received, 2650 bytes sent, lasted for 59 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54755 disconnected, 5940 bytes received, 1476 bytes sent, lasted for 59 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54758 disconnected, 5302 bytes received, 788 bytes sent, lasted for 59 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54761 disconnected, 21612 bytes received, 1294 bytes sent, lasted for 58 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54771 disconnected, 6402 bytes received, 2349 bytes sent, lasted for 56 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54790 disconnected, 602905 bytes received, 1455 bytes sent, lasted for 48 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54882 disconnected, 4081 bytes received, 1885 bytes sent, lasted for 9 seconds
+[2022-09-30 18:14:38] [INFO] 127.0.0.1:54896 disconnected, 12615 bytes received, 751 bytes sent, lasted for 4 seconds

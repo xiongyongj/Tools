@@ -1,0 +1,82 @@
+[2023-05-05 09:59:11] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2023-05-05 10:00:24] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2023-05-05 10:00:27] [INFO] 127.0.0.1:58179 requested connection to 182.254.116.117:80
+[2023-05-05 10:00:42] [INFO] 127.0.0.1:58202 requested connection to default.exp-tas.com:443
+[2023-05-05 10:00:43] [INFO] 127.0.0.1:58207 requested connection to marketplace.visualstudio.com:443
+[2023-05-05 10:00:43] [INFO] 127.0.0.1:58211 requested connection to dc.services.visualstudio.com:443
+[2023-05-05 10:00:43] [INFO] 127.0.0.1:58214 requested connection to dc.services.visualstudio.com:443
+[2023-05-05 10:00:43] [INFO] 127.0.0.1:58217 requested connection to roslynomnisharp.blob.core.windows.net:443
+[2023-05-05 10:00:44] [INFO] 127.0.0.1:58220 requested connection to vscodeexperiments.azureedge.net:443
+[2023-05-05 10:00:45] [INFO] 127.0.0.1:58224 requested connection to mobile.events.data.microsoft.com:443
+[2023-05-05 10:00:48] [ERROR] 127.0.0.1:58179 cannot establish connection to remote server 120.82.67.243:28103: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2023-05-05 10:00:48] [INFO] 127.0.0.1:58179 disconnected, 0 bytes received, 153 bytes sent, lasted for 21 seconds
+[2023-05-05 10:00:48] [INFO] 127.0.0.1:58227 requested connection to 182.254.118.119:80
+[2023-05-05 10:00:53] [INFO] 127.0.0.1:58230 requested connection to default.exp-tas.com:443
+[2023-05-05 10:00:55] [INFO] 127.0.0.1:58235 requested connection to mobile.events.data.microsoft.com:443
+[2023-05-05 10:00:58] [INFO] 127.0.0.1:58239 requested connection to dc.services.visualstudio.com:443
+[2023-05-05 10:00:58] [INFO] 127.0.0.1:58242 requested connection to mobile.events.data.microsoft.com:443
+[2023-05-05 10:01:02] [INFO] 127.0.0.1:58245 requested connection to xbvpn.site:443
+[2023-05-05 10:01:03] [ERROR] 127.0.0.1:58202 cannot establish connection to remote server 120.82.67.243:28103: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2023-05-05 10:01:03] [INFO] 127.0.0.1:58202 disconnected, 0 bytes received, 593 bytes sent, lasted for 21 seconds
+[2023-05-05 10:01:03] [INFO] 127.0.0.1:58249 requested connection to default.exp-tas.com:443
+[2023-05-05 10:01:04] [ERROR] 127.0.0.1:58207 cannot establish connection to remote server 120.82.67.243:28103: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2023-05-05 10:01:04] [INFO] 127.0.0.1:58207 disconnected, 0 bytes received, 602 bytes sent, lasted for 21 seconds
+[2023-05-05 10:01:04] [INFO] 127.0.0.1:58252 requested connection to marketplace.visualstudio.com:443
+[2023-05-05 10:01:04] [ERROR] 127.0.0.1:58211 cannot establish connection to remote server 120.82.67.243:28103: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2023-05-05 10:01:04] [INFO] 127.0.0.1:58211 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2023-05-05 10:01:04] [ERROR] 127.0.0.1:58214 cannot establish connection to remote server 120.82.67.243:28103: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2023-05-05 10:01:04] [INFO] 127.0.0.1:58214 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2023-05-05 10:01:04] [ERROR] 127.0.0.1:58217 cannot establish connection to remote server 120.82.67.243:28103: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2023-05-05 10:01:04] [INFO] 127.0.0.1:58217 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2023-05-05 10:01:04] [INFO] 127.0.0.1:58256 requested connection to dynsrv.wps.cn:80
+[2023-05-05 10:01:05] [ERROR] 127.0.0.1:58220 cannot establish connection to remote server 120.82.67.243:28103: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2023-05-05 10:01:05] [INFO] 127.0.0.1:58220 disconnected, 0 bytes received, 600 bytes sent, lasted for 21 seconds
+[2023-05-05 10:01:05] [INFO] 127.0.0.1:58262 requested connection to vscodeexperiments.azureedge.net:443
+[2023-05-05 10:01:05] [INFO] 127.0.0.1:58265 requested connection to otel.gitkraken.com:4318
+[2023-05-05 10:01:25] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2023-05-05 10:01:42] [INFO] 127.0.0.1:58284 requested connection to default.exp-tas.com:443
+[2023-05-05 10:01:43] [INFO] 127.0.0.1:58290 requested connection to marketplace.visualstudio.com:443
+[2023-05-05 10:01:43] [INFO] 127.0.0.1:58294 requested connection to dc.services.visualstudio.com:443
+[2023-05-05 10:01:43] [INFO] 127.0.0.1:58295 requested connection to dc.services.visualstudio.com:443
+[2023-05-05 10:01:43] [INFO] 127.0.0.1:58299 requested connection to roslynomnisharp.blob.core.windows.net:443
+[2023-05-05 10:01:44] [INFO] 127.0.0.1:58302 requested connection to fabianlauer.gallerycdn.vsassets.io:443
+[2023-05-05 10:01:45] [INFO] 127.0.0.1:58305 requested connection to vscodeexperiments.azureedge.net:443
+[2023-05-05 10:01:45] [INFO] 127.0.0.1:58295 disconnected, 4848 bytes received, 836 bytes sent, lasted for 2 seconds
+[2023-05-05 10:01:45] [INFO] 127.0.0.1:58308 requested connection to g.live.com:443
+[2023-05-05 10:01:45] [INFO] 127.0.0.1:58294 disconnected, 4860 bytes received, 832 bytes sent, lasted for 2 seconds
+[2023-05-05 10:01:46] [INFO] 127.0.0.1:58312 requested connection to mobile.events.data.microsoft.com:443
+[2023-05-05 10:01:46] [INFO] 127.0.0.1:58315 requested connection to oneclient.sfx.ms:443
+[2023-05-05 10:01:47] [INFO] 127.0.0.1:58299 disconnected, 30018383 bytes received, 830 bytes sent, lasted for 4 seconds
+[2023-05-05 10:01:47] [INFO] 127.0.0.1:58312 disconnected, 5027 bytes received, 12222 bytes sent, lasted for 1 seconds
+[2023-05-05 10:01:48] [INFO] 127.0.0.1:58318 requested connection to vsdebugger.azureedge.net:443
+[2023-05-05 10:01:52] [INFO] 127.0.0.1:58318 disconnected, 51077416 bytes received, 1031 bytes sent, lasted for 4 seconds
+[2023-05-05 10:01:53] [INFO] 127.0.0.1:58324 requested connection to default.exp-tas.com:443
+[2023-05-05 10:01:55] [INFO] 127.0.0.1:58324 disconnected, 6242 bytes received, 933 bytes sent, lasted for 2 seconds
+[2023-05-05 10:01:55] [INFO] 127.0.0.1:58328 requested connection to mobile.events.data.microsoft.com:443
+[2023-05-05 10:01:56] [INFO] 127.0.0.1:58328 disconnected, 5029 bytes received, 3419 bytes sent, lasted for 1 seconds
+[2023-05-05 10:01:58] [INFO] 127.0.0.1:58331 requested connection to dc.services.visualstudio.com:443
+[2023-05-05 10:01:58] [INFO] 127.0.0.1:58334 requested connection to mobile.events.data.microsoft.com:443
+[2023-05-05 10:02:00] [INFO] 127.0.0.1:58331 disconnected, 4895 bytes received, 1420 bytes sent, lasted for 2 seconds
+[2023-05-05 10:02:02] [INFO] 127.0.0.1:58334 disconnected, 4988 bytes received, 1656 bytes sent, lasted for 4 seconds
+[2023-05-05 10:02:06] [INFO] 127.0.0.1:58342 requested connection to dc.services.visualstudio.com:443
+[2023-05-05 10:02:06] [INFO] 127.0.0.1:58345 requested connection to dc.services.visualstudio.com:443
+[2023-05-05 10:02:07] [INFO] 127.0.0.1:58348 requested connection to default.exp-tas.com:443
+[2023-05-05 10:02:07] [INFO] 127.0.0.1:58351 requested connection to cdp.cloud.unity3d.com:443
+[2023-05-05 10:02:07] [INFO] 127.0.0.1:58345 disconnected, 4850 bytes received, 836 bytes sent, lasted for 1 seconds
+[2023-05-05 10:02:07] [INFO] 127.0.0.1:58342 disconnected, 4862 bytes received, 832 bytes sent, lasted for 1 seconds
+[2023-05-05 10:02:08] [INFO] 127.0.0.1:58348 disconnected, 6241 bytes received, 933 bytes sent, lasted for 1 seconds
+[2023-05-05 10:02:08] [INFO] 127.0.0.1:58356 requested connection to mobile.events.data.microsoft.com:443
+[2023-05-05 10:02:08] [INFO] 127.0.0.1:58357 requested connection to mobile.events.data.microsoft.com:443
+[2023-05-05 10:02:10] [INFO] 127.0.0.1:58357 disconnected, 5031 bytes received, 12224 bytes sent, lasted for 2 seconds
+[2023-05-05 10:02:10] [INFO] 127.0.0.1:58356 disconnected, 5029 bytes received, 3419 bytes sent, lasted for 2 seconds
+[2023-05-05 10:02:12] [INFO] 127.0.0.1:58363 requested connection to xbvpn.site:443
+[2023-05-05 10:02:14] [INFO] 127.0.0.1:58368 requested connection to xbvpn.site:443
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58284 disconnected, 15543 bytes received, 1712 bytes sent, lasted for 33 seconds
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58290 disconnected, 305128 bytes received, 4842 bytes sent, lasted for 32 seconds
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58308 disconnected, 6912 bytes received, 653 bytes sent, lasted for 30 seconds
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58302 disconnected, 9321 bytes received, 1758 bytes sent, lasted for 31 seconds
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58305 disconnected, 8455 bytes received, 1860 bytes sent, lasted for 30 seconds
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58315 disconnected, 81472 bytes received, 944 bytes sent, lasted for 29 seconds
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58363 disconnected, 72133 bytes received, 921 bytes sent, lasted for 3 seconds
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58351 disconnected, 4081 bytes received, 10946 bytes sent, lasted for 8 seconds
+[2023-05-05 10:02:15] [INFO] 127.0.0.1:58368 disconnected, 115 bytes received, 751 bytes sent, lasted for 1 seconds

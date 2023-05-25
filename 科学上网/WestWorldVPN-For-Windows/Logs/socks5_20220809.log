@@ -1,0 +1,935 @@
+[2022-08-09 09:18:47] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-08-09 09:18:48] [INFO] 127.0.0.1:49802 requested connection to www.gstatic.com:80
+[2022-08-09 09:18:49] [INFO] 127.0.0.1:49802 disconnected, 102 bytes received, 305 bytes sent, lasted for 1 seconds
+[2022-08-09 09:18:49] [INFO] 127.0.0.1:49809 requested connection to www.google.com.hk:443
+[2022-08-09 09:18:49] [INFO] 127.0.0.1:49810 requested connection to www.gstatic.com:443
+[2022-08-09 09:18:49] [INFO] 127.0.0.1:49816 requested connection to www.google.com.hk:443
+[2022-08-09 09:18:49] [INFO] 127.0.0.1:49817 requested connection to www.google.com.hk:443
+[2022-08-09 09:18:49] [INFO] 127.0.0.1:49818 requested connection to www.google.com.hk:443
+[2022-08-09 09:18:50] [INFO] 127.0.0.1:49816 disconnected, 0 bytes received, 597 bytes sent, lasted for 1 seconds
+[2022-08-09 09:18:50] [INFO] 127.0.0.1:49817 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 09:18:50] [INFO] 127.0.0.1:49818 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 09:18:51] [INFO] 127.0.0.1:49823 requested connection to id.google.com.hk:443
+[2022-08-09 09:18:52] [INFO] 127.0.0.1:49826 requested connection to play.google.com:443
+[2022-08-09 09:18:53] [INFO] 127.0.0.1:49829 requested connection to play.google.com:443
+[2022-08-09 09:19:20] [INFO] 127.0.0.1:49840 requested connection to www.google.com:443
+[2022-08-09 09:19:30] [INFO] 127.0.0.1:49840 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 09:19:33] [INFO] 127.0.0.1:49867 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 09:19:42] [INFO] 127.0.0.1:49916 requested connection to www.google.com:443
+[2022-08-09 09:19:57] [INFO] 127.0.0.1:49810 disconnected, 4954 bytes received, 659 bytes sent, lasted for 68 seconds
+[2022-08-09 09:19:57] [INFO] 127.0.0.1:49928 requested connection to google.com.hk:443
+[2022-08-09 09:21:13] [INFO] 127.0.0.1:49973 requested connection to www.gstatic.com:443
+[2022-08-09 09:21:14] [INFO] 127.0.0.1:49984 requested connection to www.gstatic.com:443
+[2022-08-09 09:21:14] [INFO] 127.0.0.1:49987 requested connection to www.gstatic.com:443
+[2022-08-09 09:21:14] [INFO] 127.0.0.1:49987 disconnected, 4342 bytes received, 581 bytes sent, lasted for 0 seconds
+[2022-08-09 09:21:15] [INFO] 127.0.0.1:49973 disconnected, 0 bytes received, 595 bytes sent, lasted for 2 seconds
+[2022-08-09 09:21:46] [INFO] 127.0.0.1:50040 requested connection to accounts.google.com:443
+[2022-08-09 09:22:52] [INFO] 127.0.0.1:49823 disconnected, 5941 bytes received, 1761 bytes sent, lasted for 241 seconds
+[2022-08-09 09:22:53] [INFO] 127.0.0.1:49826 disconnected, 1438 bytes received, 1231 bytes sent, lasted for 241 seconds
+[2022-08-09 09:22:54] [INFO] 127.0.0.1:49829 disconnected, 8610 bytes received, 2003 bytes sent, lasted for 241 seconds
+[2022-08-09 09:24:05] [INFO] 127.0.0.1:49916 disconnected, 7822 bytes received, 1814 bytes sent, lasted for 263 seconds
+[2022-08-09 09:25:12] [INFO] 127.0.0.1:49928 disconnected, 2193 bytes received, 2207 bytes sent, lasted for 315 seconds
+[2022-08-09 09:25:13] [INFO] 127.0.0.1:49867 disconnected, 1834 bytes received, 1710 bytes sent, lasted for 340 seconds
+[2022-08-09 09:25:47] [INFO] 127.0.0.1:50040 disconnected, 84851 bytes received, 1691 bytes sent, lasted for 241 seconds
+[2022-08-09 09:25:59] [INFO] 127.0.0.1:49984 disconnected, 42942 bytes received, 1759 bytes sent, lasted for 285 seconds
+[2022-08-09 09:26:02] [INFO] 127.0.0.1:49809 disconnected, 664337 bytes received, 17495 bytes sent, lasted for 433 seconds
+[2022-08-09 09:26:14] [INFO] 127.0.0.1:50163 requested connection to google.com:443
+[2022-08-09 09:27:53] [INFO] 127.0.0.1:50186 requested connection to www.google.com.hk:443
+[2022-08-09 09:27:53] [INFO] 127.0.0.1:50192 requested connection to www.google.com.hk:443
+[2022-08-09 09:27:53] [INFO] 127.0.0.1:50192 disconnected, 0 bytes received, 597 bytes sent, lasted for 0 seconds
+[2022-08-09 09:27:56] [INFO] 127.0.0.1:50200 requested connection to stats.wp.com:443
+[2022-08-09 09:27:57] [INFO] 127.0.0.1:50214 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 09:27:58] [INFO] 127.0.0.1:50220 requested connection to pixel.wp.com:443
+[2022-08-09 09:28:01] [INFO] 127.0.0.1:50238 requested connection to www.google.com:443
+[2022-08-09 09:28:49] [INFO] 127.0.0.1:50249 requested connection to www.gstatic.com:443
+[2022-08-09 09:28:50] [INFO] 127.0.0.1:50252 requested connection to id.google.com.hk:443
+[2022-08-09 09:28:51] [INFO] 127.0.0.1:50256 requested connection to play.google.com:443
+[2022-08-09 09:28:56] [INFO] 127.0.0.1:50262 requested connection to bergstrand-niklas.medium.com:443
+[2022-08-09 09:28:56] [INFO] 127.0.0.1:50264 requested connection to glyph.medium.com:443
+[2022-08-09 09:28:56] [INFO] 127.0.0.1:50265 requested connection to cdn-client.medium.com:443
+[2022-08-09 09:28:57] [INFO] 127.0.0.1:50200 disconnected, 9504 bytes received, 1067 bytes sent, lasted for 61 seconds
+[2022-08-09 09:28:57] [INFO] 127.0.0.1:50271 requested connection to glyph.medium.com:443
+[2022-08-09 09:28:57] [INFO] 127.0.0.1:50274 requested connection to miro.medium.com:443
+[2022-08-09 09:28:58] [INFO] 127.0.0.1:50220 disconnected, 6433 bytes received, 1230 bytes sent, lasted for 60 seconds
+[2022-08-09 09:30:14] [INFO] 127.0.0.1:50271 disconnected, 2611 bytes received, 581 bytes sent, lasted for 77 seconds
+[2022-08-09 09:30:14] [INFO] 127.0.0.1:50249 disconnected, 4955 bytes received, 659 bytes sent, lasted for 85 seconds
+[2022-08-09 09:30:14] [INFO] 127.0.0.1:50297 requested connection to google.com.hk:443
+[2022-08-09 09:31:54] [INFO] 127.0.0.1:50163 disconnected, 2169 bytes received, 1924 bytes sent, lasted for 340 seconds
+[2022-08-09 09:32:00] [INFO] 127.0.0.1:50214 disconnected, 1844 bytes received, 1687 bytes sent, lasted for 243 seconds
+[2022-08-09 09:32:02] [INFO] 127.0.0.1:50238 disconnected, 2596 bytes received, 1550 bytes sent, lasted for 241 seconds
+[2022-08-09 09:32:20] [INFO] 127.0.0.1:50376 requested connection to www.google.com:443
+[2022-08-09 09:32:31] [INFO] 127.0.0.1:50376 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 09:32:51] [INFO] 127.0.0.1:50252 disconnected, 1687 bytes received, 1763 bytes sent, lasted for 241 seconds
+[2022-08-09 09:32:52] [INFO] 127.0.0.1:50256 disconnected, 8177 bytes received, 2005 bytes sent, lasted for 241 seconds
+[2022-08-09 09:33:57] [INFO] 127.0.0.1:50264 disconnected, 4140 bytes received, 1276 bytes sent, lasted for 301 seconds
+[2022-08-09 09:34:02] [INFO] 127.0.0.1:50265 disconnected, 281326 bytes received, 1894 bytes sent, lasted for 306 seconds
+[2022-08-09 09:34:03] [INFO] 127.0.0.1:50274 disconnected, 378073 bytes received, 4290 bytes sent, lasted for 306 seconds
+[2022-08-09 09:34:14] [INFO] 127.0.0.1:50186 disconnected, 193402 bytes received, 14799 bytes sent, lasted for 381 seconds
+[2022-08-09 09:34:15] [INFO] 127.0.0.1:50297 disconnected, 6087 bytes received, 1731 bytes sent, lasted for 241 seconds
+[2022-08-09 09:34:53] [INFO] 127.0.0.1:50401 requested connection to miro.medium.com:443
+[2022-08-09 09:35:21] [INFO] 127.0.0.1:50417 requested connection to www.google.com:443
+[2022-08-09 09:35:31] [INFO] 127.0.0.1:50417 disconnected, 212 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-09 09:36:13] [INFO] 127.0.0.1:50451 requested connection to www.google.com.hk:443
+[2022-08-09 09:39:53] [INFO] 127.0.0.1:50401 disconnected, 2495 bytes received, 1391 bytes sent, lasted for 300 seconds
+[2022-08-09 09:39:59] [INFO] 127.0.0.1:50262 disconnected, 49714 bytes received, 87812 bytes sent, lasted for 663 seconds
+[2022-08-09 09:40:14] [INFO] 127.0.0.1:50451 disconnected, 1829 bytes received, 14382 bytes sent, lasted for 241 seconds
+[2022-08-09 09:42:21] [INFO] 127.0.0.1:50633 requested connection to www.google.com:443
+[2022-08-09 09:42:23] [INFO] 127.0.0.1:50637 requested connection to bergstrand-niklas.medium.com:443
+[2022-08-09 09:42:25] [INFO] 127.0.0.1:50640 requested connection to www.google.com.hk:443
+[2022-08-09 09:42:31] [INFO] 127.0.0.1:50633 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 09:43:21] [INFO] 127.0.0.1:50665 requested connection to www.google.com:443
+[2022-08-09 09:43:32] [INFO] 127.0.0.1:50665 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 09:44:21] [INFO] 127.0.0.1:50700 requested connection to www.google.com:443
+[2022-08-09 09:44:32] [INFO] 127.0.0.1:50700 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 09:47:24] [INFO] 127.0.0.1:50637 disconnected, 1204 bytes received, 1466 bytes sent, lasted for 301 seconds
+[2022-08-09 09:50:14] [INFO] 127.0.0.1:50640 disconnected, 8230 bytes received, 2378 bytes sent, lasted for 469 seconds
+[2022-08-09 09:54:13] [INFO] 127.0.0.1:50909 requested connection to www.google.com.hk:443
+[2022-08-09 10:00:05] [INFO] 127.0.0.1:51014 requested connection to www.gstatic.com:443
+[2022-08-09 10:00:08] [INFO] 127.0.0.1:51018 requested connection to play.google.com:443
+[2022-08-09 10:00:22] [INFO] 127.0.0.1:51028 requested connection to www.google.com:443
+[2022-08-09 10:00:33] [INFO] 127.0.0.1:51028 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:00:44] [INFO] 127.0.0.1:51043 requested connection to avatars.githubusercontent.com:443
+[2022-08-09 10:00:47] [INFO] 127.0.0.1:51048 requested connection to ajax.googleapis.com:443
+[2022-08-09 10:00:48] [INFO] 127.0.0.1:51053 requested connection to i.stack.imgur.com:443
+[2022-08-09 10:00:50] [INFO] 127.0.0.1:51059 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 10:02:22] [INFO] 127.0.0.1:51048 disconnected, 826 bytes received, 663 bytes sent, lasted for 95 seconds
+[2022-08-09 10:02:22] [INFO] 127.0.0.1:51043 disconnected, 437 bytes received, 598 bytes sent, lasted for 98 seconds
+[2022-08-09 10:02:22] [INFO] 127.0.0.1:51014 disconnected, 4954 bytes received, 659 bytes sent, lasted for 137 seconds
+[2022-08-09 10:02:22] [INFO] 127.0.0.1:51109 requested connection to www.google.com:443
+[2022-08-09 10:02:25] [INFO] 127.0.0.1:51112 requested connection to google.com.hk:443
+[2022-08-09 10:02:27] [INFO] 127.0.0.1:51134 requested connection to ajax.googleapis.com:443
+[2022-08-09 10:02:33] [INFO] 127.0.0.1:51109 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:02:38] [INFO] 127.0.0.1:59157 requested connection to www.google.com:443
+[2022-08-09 10:04:08] [INFO] 127.0.0.1:51018 disconnected, 1929 bytes received, 2005 bytes sent, lasted for 240 seconds
+[2022-08-09 10:04:48] [INFO] 127.0.0.1:51134 disconnected, 5297 bytes received, 581 bytes sent, lasted for 141 seconds
+[2022-08-09 10:04:48] [INFO] 127.0.0.1:59359 requested connection to www.gstatic.com:443
+[2022-08-09 10:04:51] [INFO] 127.0.0.1:51059 disconnected, 5958 bytes received, 1374 bytes sent, lasted for 241 seconds
+[2022-08-09 10:05:43] [INFO] 127.0.0.1:59454 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 10:05:49] [INFO] 127.0.0.1:51053 disconnected, 7219 bytes received, 1174 bytes sent, lasted for 301 seconds
+[2022-08-09 10:06:26] [INFO] 127.0.0.1:51112 disconnected, 6088 bytes received, 1732 bytes sent, lasted for 241 seconds
+[2022-08-09 10:06:36] [INFO] 127.0.0.1:59477 requested connection to bergstrand-niklas.medium.com:443
+[2022-08-09 10:06:39] [INFO] 127.0.0.1:59157 disconnected, 6703 bytes received, 1479 bytes sent, lasted for 241 seconds
+[2022-08-09 10:07:22] [INFO] 127.0.0.1:59489 requested connection to www.google.com:443
+[2022-08-09 10:07:33] [INFO] 127.0.0.1:59489 disconnected, 4287 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 10:08:22] [INFO] 127.0.0.1:59508 requested connection to www.google.com:443
+[2022-08-09 10:08:33] [INFO] 127.0.0.1:59508 disconnected, 4288 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 10:08:49] [INFO] 127.0.0.1:59359 disconnected, 18153 bytes received, 1319 bytes sent, lasted for 241 seconds
+[2022-08-09 10:09:22] [INFO] 127.0.0.1:59527 requested connection to www.google.com:443
+[2022-08-09 10:09:33] [INFO] 127.0.0.1:59527 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:09:44] [INFO] 127.0.0.1:59454 disconnected, 6156 bytes received, 1505 bytes sent, lasted for 241 seconds
+[2022-08-09 10:10:25] [INFO] 127.0.0.1:50909 disconnected, 556970 bytes received, 25496 bytes sent, lasted for 972 seconds
+[2022-08-09 10:11:23] [INFO] 127.0.0.1:59562 requested connection to www.google.com:443
+[2022-08-09 10:11:34] [INFO] 127.0.0.1:59562 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:13:13] [INFO] 127.0.0.1:59636 requested connection to www.google.com.hk:443
+[2022-08-09 10:16:08] [INFO] 127.0.0.1:59477 disconnected, 3445 bytes received, 19301 bytes sent, lasted for 572 seconds
+[2022-08-09 10:19:44] [INFO] 127.0.0.1:59636 disconnected, 7496 bytes received, 2550 bytes sent, lasted for 391 seconds
+[2022-08-09 10:19:51] [INFO] 127.0.0.1:59774 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 10:20:23] [INFO] 127.0.0.1:59791 requested connection to www.google.com:443
+[2022-08-09 10:20:34] [INFO] 127.0.0.1:59791 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:21:23] [INFO] 127.0.0.1:59813 requested connection to www.google.com:443
+[2022-08-09 10:21:34] [INFO] 127.0.0.1:59813 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:22:23] [INFO] 127.0.0.1:59847 requested connection to www.google.com:443
+[2022-08-09 10:22:34] [INFO] 127.0.0.1:59847 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:23:52] [INFO] 127.0.0.1:59774 disconnected, 1431 bytes received, 1326 bytes sent, lasted for 241 seconds
+[2022-08-09 10:27:23] [INFO] 127.0.0.1:59924 requested connection to www.google.com:443
+[2022-08-09 10:27:34] [INFO] 127.0.0.1:59924 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:28:23] [INFO] 127.0.0.1:60006 requested connection to www.google.com:443
+[2022-08-09 10:28:34] [INFO] 127.0.0.1:60006 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:29:24] [INFO] 127.0.0.1:60027 requested connection to www.google.com:443
+[2022-08-09 10:29:34] [INFO] 127.0.0.1:60027 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 10:30:24] [INFO] 127.0.0.1:60042 requested connection to www.google.com:443
+[2022-08-09 10:30:34] [INFO] 127.0.0.1:60042 disconnected, 4288 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 10:31:24] [INFO] 127.0.0.1:60064 requested connection to www.google.com:443
+[2022-08-09 10:31:34] [INFO] 127.0.0.1:60064 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 10:32:24] [INFO] 127.0.0.1:60117 requested connection to www.google.com:443
+[2022-08-09 10:32:34] [INFO] 127.0.0.1:60117 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 10:35:13] [INFO] 127.0.0.1:60391 requested connection to www.google.com.hk:443
+[2022-08-09 10:35:24] [INFO] 127.0.0.1:60396 requested connection to www.google.com:443
+[2022-08-09 10:35:34] [INFO] 127.0.0.1:60396 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 10:36:24] [INFO] 127.0.0.1:60423 requested connection to www.google.com:443
+[2022-08-09 10:36:34] [INFO] 127.0.0.1:60423 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 10:37:24] [INFO] 127.0.0.1:60468 requested connection to www.google.com:443
+[2022-08-09 10:37:35] [INFO] 127.0.0.1:60468 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:38:24] [INFO] 127.0.0.1:60478 requested connection to www.google.com:443
+[2022-08-09 10:38:35] [INFO] 127.0.0.1:60478 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 10:41:41] [INFO] 127.0.0.1:60391 disconnected, 4587 bytes received, 2978 bytes sent, lasted for 388 seconds
+[2022-08-09 11:10:23] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-08-09 11:10:24] [INFO] 127.0.0.1:61534 requested connection to www.google.com:443
+[2022-08-09 11:10:25] [INFO] 127.0.0.1:61537 requested connection to www.google.com.hk:443
+[2022-08-09 11:10:27] [INFO] 127.0.0.1:61540 requested connection to www.gstatic.com:443
+[2022-08-09 11:10:27] [INFO] 127.0.0.1:61543 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 11:10:27] [INFO] 127.0.0.1:61546 requested connection to www.gstatic.com:443
+[2022-08-09 11:10:27] [INFO] 127.0.0.1:61546 disconnected, 0 bytes received, 595 bytes sent, lasted for 0 seconds
+[2022-08-09 11:10:28] [INFO] 127.0.0.1:61549 requested connection to play.google.com:443
+[2022-08-09 11:10:33] [INFO] 127.0.0.1:61559 requested connection to www.youtube.com:443
+[2022-08-09 11:10:38] [INFO] 127.0.0.1:61573 requested connection to connect.facebook.net:443
+[2022-08-09 11:10:39] [INFO] 127.0.0.1:61576 requested connection to static.ads-twitter.com:443
+[2022-08-09 11:10:39] [INFO] 127.0.0.1:61582 requested connection to www.redditstatic.com:443
+[2022-08-09 11:10:40] [INFO] 127.0.0.1:61592 requested connection to t.co:443
+[2022-08-09 11:10:40] [INFO] 127.0.0.1:61595 requested connection to analytics.twitter.com:443
+[2022-08-09 11:10:40] [INFO] 127.0.0.1:61598 requested connection to t.co:443
+[2022-08-09 11:10:40] [INFO] 127.0.0.1:61599 requested connection to analytics.twitter.com:443
+[2022-08-09 11:10:40] [INFO] 127.0.0.1:61605 requested connection to www.facebook.com:443
+[2022-08-09 11:10:40] [INFO] 127.0.0.1:61609 requested connection to alb.reddit.com:443
+[2022-08-09 11:10:52] [INFO] 127.0.0.1:61595 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 11:10:52] [INFO] 127.0.0.1:61598 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 11:10:52] [INFO] 127.0.0.1:61592 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 11:10:52] [INFO] 127.0.0.1:61599 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 11:10:52] [INFO] 127.0.0.1:61631 requested connection to t.co:443
+[2022-08-09 11:10:52] [INFO] 127.0.0.1:61630 requested connection to analytics.twitter.com:443
+[2022-08-09 11:10:52] [INFO] 127.0.0.1:61632 requested connection to t.co:443
+[2022-08-09 11:10:52] [INFO] 127.0.0.1:61633 requested connection to analytics.twitter.com:443
+[2022-08-09 11:10:54] [INFO] 127.0.0.1:61639 requested connection to bergstrand-niklas.medium.com:443
+[2022-08-09 11:11:05] [INFO] 127.0.0.1:61630 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 11:11:05] [INFO] 127.0.0.1:61631 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 11:11:05] [INFO] 127.0.0.1:61633 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 11:11:05] [INFO] 127.0.0.1:61632 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 11:11:19] [INFO] 127.0.0.1:61651 requested connection to t.co:443
+[2022-08-09 11:11:19] [INFO] 127.0.0.1:61654 requested connection to analytics.twitter.com:443
+[2022-08-09 11:11:19] [INFO] 127.0.0.1:61656 requested connection to t.co:443
+[2022-08-09 11:11:19] [INFO] 127.0.0.1:61660 requested connection to analytics.twitter.com:443
+[2022-08-09 11:11:31] [INFO] 127.0.0.1:61651 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 11:11:31] [INFO] 127.0.0.1:61667 requested connection to t.co:443
+[2022-08-09 11:11:31] [INFO] 127.0.0.1:61656 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 11:11:31] [INFO] 127.0.0.1:61654 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 11:11:31] [INFO] 127.0.0.1:61671 requested connection to t.co:443
+[2022-08-09 11:11:31] [INFO] 127.0.0.1:61672 requested connection to analytics.twitter.com:443
+[2022-08-09 11:11:31] [INFO] 127.0.0.1:61660 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 11:11:31] [INFO] 127.0.0.1:61676 requested connection to analytics.twitter.com:443
+[2022-08-09 11:11:44] [INFO] 127.0.0.1:61672 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 11:11:44] [INFO] 127.0.0.1:61667 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 11:11:44] [INFO] 127.0.0.1:61676 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 11:11:44] [INFO] 127.0.0.1:61671 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 11:11:45] [INFO] 127.0.0.1:61573 disconnected, 135666 bytes received, 1240 bytes sent, lasted for 67 seconds
+[2022-08-09 11:11:52] [INFO] 127.0.0.1:61713 requested connection to google.com.hk:443
+[2022-08-09 11:12:25] [INFO] 127.0.0.1:61605 disconnected, 1622 bytes received, 5570 bytes sent, lasted for 105 seconds
+[2022-08-09 11:14:31] [INFO] 127.0.0.1:61540 disconnected, 529215 bytes received, 13642 bytes sent, lasted for 244 seconds
+[2022-08-09 11:14:38] [INFO] 127.0.0.1:61559 disconnected, 176975 bytes received, 1432 bytes sent, lasted for 245 seconds
+[2022-08-09 11:15:20] [INFO] 127.0.0.1:61534 disconnected, 7282 bytes received, 2202 bytes sent, lasted for 296 seconds
+[2022-08-09 11:15:26] [INFO] 127.0.0.1:61829 requested connection to www.google.com:443
+[2022-08-09 11:15:30] [INFO] 127.0.0.1:61549 disconnected, 2497 bytes received, 2647 bytes sent, lasted for 302 seconds
+[2022-08-09 11:15:37] [INFO] 127.0.0.1:61829 disconnected, 4286 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 11:15:40] [INFO] 127.0.0.1:61576 disconnected, 4487 bytes received, 1175 bytes sent, lasted for 301 seconds
+[2022-08-09 11:15:40] [INFO] 127.0.0.1:61582 disconnected, 999 bytes received, 1128 bytes sent, lasted for 301 seconds
+[2022-08-09 11:15:54] [INFO] 127.0.0.1:61543 disconnected, 2224 bytes received, 2118 bytes sent, lasted for 327 seconds
+[2022-08-09 11:15:55] [INFO] 127.0.0.1:61639 disconnected, 1204 bytes received, 1446 bytes sent, lasted for 301 seconds
+[2022-08-09 11:16:19] [INFO] 127.0.0.1:61609 disconnected, 4560 bytes received, 1634 bytes sent, lasted for 339 seconds
+[2022-08-09 11:16:26] [INFO] 127.0.0.1:61855 requested connection to www.google.com:443
+[2022-08-09 11:16:37] [INFO] 127.0.0.1:61855 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 11:16:59] [INFO] 127.0.0.1:61713 disconnected, 6261 bytes received, 2275 bytes sent, lasted for 307 seconds
+[2022-08-09 11:17:26] [INFO] 127.0.0.1:61886 requested connection to www.google.com:443
+[2022-08-09 11:17:37] [INFO] 127.0.0.1:61886 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 11:18:26] [INFO] 127.0.0.1:61901 requested connection to www.google.com:443
+[2022-08-09 11:18:37] [INFO] 127.0.0.1:61901 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 11:19:26] [INFO] 127.0.0.1:61962 requested connection to www.google.com:443
+[2022-08-09 11:19:37] [INFO] 127.0.0.1:61962 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 11:21:14] [INFO] 127.0.0.1:61537 disconnected, 599718 bytes received, 37666 bytes sent, lasted for 649 seconds
+[2022-08-09 11:21:20] [INFO] 127.0.0.1:62026 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 11:21:21] [INFO] 127.0.0.1:62051 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 11:21:22] [INFO] 127.0.0.1:62055 requested connection to www.google.com:443
+[2022-08-09 11:21:23] [INFO] 127.0.0.1:62058 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 11:21:23] [INFO] 127.0.0.1:62051 disconnected, 0 bytes received, 613 bytes sent, lasted for 2 seconds
+[2022-08-09 11:24:14] [INFO] 127.0.0.1:62168 requested connection to www.google.com.hk:443
+[2022-08-09 11:25:23] [INFO] 127.0.0.1:62055 disconnected, 6551 bytes received, 1497 bytes sent, lasted for 241 seconds
+[2022-08-09 11:25:23] [INFO] 127.0.0.1:62026 disconnected, 63607 bytes received, 3858 bytes sent, lasted for 243 seconds
+[2022-08-09 11:25:24] [INFO] 127.0.0.1:62058 disconnected, 4807 bytes received, 3395 bytes sent, lasted for 241 seconds
+[2022-08-09 11:30:27] [INFO] 127.0.0.1:62316 requested connection to www.google.com:443
+[2022-08-09 11:30:38] [INFO] 127.0.0.1:62316 disconnected, 4286 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 11:34:27] [INFO] 127.0.0.1:62409 requested connection to www.google.com:443
+[2022-08-09 11:34:33] [INFO] 127.0.0.1:62440 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 11:34:33] [INFO] 127.0.0.1:62449 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 11:34:33] [INFO] 127.0.0.1:62452 requested connection to www.gstatic.com:443
+[2022-08-09 11:34:34] [INFO] 127.0.0.1:62467 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 11:35:14] [INFO] 127.0.0.1:62168 disconnected, 9679 bytes received, 2465 bytes sent, lasted for 660 seconds
+[2022-08-09 11:38:13] [INFO] 127.0.0.1:62540 requested connection to www.google.com.hk:443
+[2022-08-09 11:38:34] [INFO] 127.0.0.1:62440 disconnected, 1507 bytes received, 1385 bytes sent, lasted for 241 seconds
+[2022-08-09 11:38:35] [INFO] 127.0.0.1:62452 disconnected, 19301 bytes received, 1322 bytes sent, lasted for 242 seconds
+[2022-08-09 11:38:36] [INFO] 127.0.0.1:62409 disconnected, 2487 bytes received, 1572 bytes sent, lasted for 249 seconds
+[2022-08-09 11:38:36] [INFO] 127.0.0.1:62449 disconnected, 64239 bytes received, 3855 bytes sent, lasted for 243 seconds
+[2022-08-09 11:38:37] [INFO] 127.0.0.1:62467 disconnected, 11346 bytes received, 3469 bytes sent, lasted for 243 seconds
+[2022-08-09 11:42:15] [INFO] 127.0.0.1:62540 disconnected, 2001 bytes received, 2930 bytes sent, lasted for 242 seconds
+[2022-08-09 11:46:31] [INFO] 127.0.0.1:62732 requested connection to www.google.com.hk:443
+[2022-08-09 11:54:14] [INFO] 127.0.0.1:62732 disconnected, 3756 bytes received, 2750 bytes sent, lasted for 463 seconds
+[2022-08-09 11:54:22] [INFO] 127.0.0.1:62879 requested connection to www.google.com.hk:443
+[2022-08-09 11:54:22] [INFO] 127.0.0.1:62885 requested connection to www.google.com.hk:443
+[2022-08-09 11:54:23] [INFO] 127.0.0.1:62885 disconnected, 0 bytes received, 597 bytes sent, lasted for 1 seconds
+[2022-08-09 11:54:28] [INFO] 127.0.0.1:62889 requested connection to www.google.com:443
+[2022-08-09 11:54:29] [INFO] 127.0.0.1:62892 requested connection to bergstrand-niklas.medium.com:443
+[2022-08-09 11:54:39] [INFO] 127.0.0.1:62889 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 11:57:29] [INFO] 127.0.0.1:62966 requested connection to www.google.com:443
+[2022-08-09 11:57:29] [INFO] 127.0.0.1:62972 requested connection to avatars.githubusercontent.com:443
+[2022-08-09 11:57:39] [INFO] 127.0.0.1:62966 disconnected, 4287 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-09 11:58:29] [INFO] 127.0.0.1:63003 requested connection to www.google.com:443
+[2022-08-09 11:58:39] [INFO] 127.0.0.1:63003 disconnected, 4288 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 11:59:29] [INFO] 127.0.0.1:62972 disconnected, 437 bytes received, 598 bytes sent, lasted for 120 seconds
+[2022-08-09 11:59:29] [INFO] 127.0.0.1:63015 requested connection to www.google.com:443
+[2022-08-09 11:59:39] [INFO] 127.0.0.1:63015 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 11:59:50] [INFO] 127.0.0.1:62892 disconnected, 1642 bytes received, 7651 bytes sent, lasted for 321 seconds
+[2022-08-09 12:02:05] [INFO] 127.0.0.1:62879 disconnected, 7165 bytes received, 4243 bytes sent, lasted for 463 seconds
+[2022-08-09 12:07:13] [INFO] 127.0.0.1:63213 requested connection to www.google.com.hk:443
+[2022-08-09 12:12:14] [INFO] 127.0.0.1:63213 disconnected, 8759 bytes received, 2940 bytes sent, lasted for 301 seconds
+[2022-08-09 12:16:32] [INFO] 127.0.0.1:63458 requested connection to www.google.com.hk:443
+[2022-08-09 12:20:33] [INFO] 127.0.0.1:63458 disconnected, 1752 bytes received, 2492 bytes sent, lasted for 241 seconds
+[2022-08-09 12:22:13] [INFO] 127.0.0.1:63521 requested connection to www.google.com.hk:443
+[2022-08-09 12:28:14] [INFO] 127.0.0.1:63521 disconnected, 3926 bytes received, 2078 bytes sent, lasted for 361 seconds
+[2022-08-09 12:30:13] [INFO] 127.0.0.1:63638 requested connection to www.google.com.hk:443
+[2022-08-09 12:40:31] [INFO] 127.0.0.1:63828 requested connection to www.google.com:443
+[2022-08-09 12:40:42] [INFO] 127.0.0.1:63828 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 12:41:16] [INFO] 127.0.0.1:63891 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 12:41:17] [INFO] 127.0.0.1:63908 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 12:41:19] [INFO] 127.0.0.1:63912 requested connection to www.google.com:443
+[2022-08-09 12:42:14] [INFO] 127.0.0.1:63638 disconnected, 6141 bytes received, 3289 bytes sent, lasted for 721 seconds
+[2022-08-09 12:42:32] [INFO] 127.0.0.1:63972 requested connection to www.google.com.hk:443
+[2022-08-09 12:42:33] [INFO] 127.0.0.1:63975 requested connection to www.google.com.hk:443
+[2022-08-09 12:42:33] [INFO] 127.0.0.1:63979 requested connection to www.google.com.hk:443
+[2022-08-09 12:42:33] [INFO] 127.0.0.1:63980 requested connection to www.google.com.hk:443
+[2022-08-09 12:42:33] [INFO] 127.0.0.1:63975 disconnected, 0 bytes received, 597 bytes sent, lasted for 0 seconds
+[2022-08-09 12:42:33] [INFO] 127.0.0.1:63979 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 12:42:33] [INFO] 127.0.0.1:63980 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 12:42:33] [INFO] 127.0.0.1:63984 requested connection to www.gstatic.com:443
+[2022-08-09 12:42:35] [INFO] 127.0.0.1:63989 requested connection to play.google.com:443
+[2022-08-09 12:42:36] [INFO] 127.0.0.1:63993 requested connection to play.google.com:443
+[2022-08-09 12:42:55] [INFO] 127.0.0.1:64014 requested connection to google.com:443
+[2022-08-09 12:43:29] [INFO] 127.0.0.1:64046 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 12:44:09] [INFO] 127.0.0.1:63984 disconnected, 4954 bytes received, 659 bytes sent, lasted for 96 seconds
+[2022-08-09 12:44:09] [INFO] 127.0.0.1:64053 requested connection to google.com.hk:443
+[2022-08-09 12:45:57] [INFO] 127.0.0.1:63891 disconnected, 112399 bytes received, 6440 bytes sent, lasted for 281 seconds
+[2022-08-09 12:45:57] [INFO] 127.0.0.1:63908 disconnected, 14438 bytes received, 5806 bytes sent, lasted for 280 seconds
+[2022-08-09 12:46:36] [INFO] 127.0.0.1:63989 disconnected, 1438 bytes received, 1231 bytes sent, lasted for 241 seconds
+[2022-08-09 12:46:37] [INFO] 127.0.0.1:63993 disconnected, 1999 bytes received, 2005 bytes sent, lasted for 241 seconds
+[2022-08-09 12:47:26] [INFO] 127.0.0.1:63912 disconnected, 7774 bytes received, 1943 bytes sent, lasted for 367 seconds
+[2022-08-09 12:47:30] [INFO] 127.0.0.1:64046 disconnected, 5781 bytes received, 1590 bytes sent, lasted for 241 seconds
+[2022-08-09 12:48:09] [INFO] 127.0.0.1:64014 disconnected, 2169 bytes received, 1913 bytes sent, lasted for 314 seconds
+[2022-08-09 12:49:10] [INFO] 127.0.0.1:64053 disconnected, 6286 bytes received, 1973 bytes sent, lasted for 301 seconds
+[2022-08-09 12:50:32] [INFO] 127.0.0.1:64199 requested connection to www.google.com:443
+[2022-08-09 12:50:42] [INFO] 127.0.0.1:64199 disconnected, 212 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-09 12:54:14] [INFO] 127.0.0.1:63972 disconnected, 373320 bytes received, 20563 bytes sent, lasted for 702 seconds
+[2022-08-09 12:56:13] [INFO] 127.0.0.1:64328 requested connection to www.google.com.hk:443
+[2022-08-09 13:02:14] [INFO] 127.0.0.1:64328 disconnected, 4758 bytes received, 2272 bytes sent, lasted for 361 seconds
+[2022-08-09 13:05:51] [INFO] 127.0.0.1:64551 requested connection to www.google.com:443
+[2022-08-09 13:05:51] [INFO] 127.0.0.1:64554 requested connection to www.google.com:443
+[2022-08-09 13:05:51] [INFO] 127.0.0.1:64557 requested connection to www.google.com:443
+[2022-08-09 13:05:51] [INFO] 127.0.0.1:64560 requested connection to www.google.com:443
+[2022-08-09 13:05:51] [INFO] 127.0.0.1:64554 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 13:05:51] [INFO] 127.0.0.1:64557 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 13:05:51] [INFO] 127.0.0.1:64560 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 13:05:52] [INFO] 127.0.0.1:64564 requested connection to www.google.com.hk:443
+[2022-08-09 13:05:52] [INFO] 127.0.0.1:64568 requested connection to www.google.com.hk:443
+[2022-08-09 13:05:52] [INFO] 127.0.0.1:64569 requested connection to www.google.com.hk:443
+[2022-08-09 13:05:53] [INFO] 127.0.0.1:64564 disconnected, 0 bytes received, 597 bytes sent, lasted for 1 seconds
+[2022-08-09 13:05:53] [INFO] 127.0.0.1:64568 disconnected, 0 bytes received, 597 bytes sent, lasted for 1 seconds
+[2022-08-09 13:05:53] [INFO] 127.0.0.1:64574 requested connection to www.gstatic.com:443
+[2022-08-09 13:05:54] [INFO] 127.0.0.1:64577 requested connection to www.gstatic.com:443
+[2022-08-09 13:05:54] [INFO] 127.0.0.1:64577 disconnected, 0 bytes received, 595 bytes sent, lasted for 0 seconds
+[2022-08-09 13:06:01] [INFO] 127.0.0.1:64583 requested connection to gameupdateress3.s3.amazonaws.com:443
+[2022-08-09 13:06:01] [INFO] 127.0.0.1:64584 requested connection to gameupdateress3.s3.amazonaws.com:443
+[2022-08-09 13:06:11] [INFO] 127.0.0.1:64584 disconnected, 6687 bytes received, 2000 bytes sent, lasted for 10 seconds
+[2022-08-09 13:06:27] [INFO] 127.0.0.1:64583 disconnected, 5494 bytes received, 643 bytes sent, lasted for 26 seconds
+[2022-08-09 13:08:43] [INFO] 127.0.0.1:64672 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 13:08:44] [INFO] 127.0.0.1:64684 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 13:09:54] [INFO] 127.0.0.1:64574 disconnected, 51546 bytes received, 1633 bytes sent, lasted for 241 seconds
+[2022-08-09 13:10:10] [INFO] 127.0.0.1:64708 requested connection to clients2.google.com:443
+[2022-08-09 13:12:45] [INFO] 127.0.0.1:64551 disconnected, 7652 bytes received, 3166 bytes sent, lasted for 414 seconds
+[2022-08-09 13:12:46] [INFO] 127.0.0.1:64672 disconnected, 57033 bytes received, 3847 bytes sent, lasted for 243 seconds
+[2022-08-09 13:12:47] [INFO] 127.0.0.1:64684 disconnected, 4853 bytes received, 3424 bytes sent, lasted for 243 seconds
+[2022-08-09 13:13:14] [INFO] 127.0.0.1:64569 disconnected, 52474 bytes received, 3573 bytes sent, lasted for 442 seconds
+[2022-08-09 13:14:11] [INFO] 127.0.0.1:64708 disconnected, 2833 bytes received, 1148 bytes sent, lasted for 241 seconds
+[2022-08-09 13:14:13] [INFO] 127.0.0.1:64818 requested connection to www.google.com.hk:443
+[2022-08-09 13:26:13] [INFO] 127.0.0.1:64818 disconnected, 8265 bytes received, 4499 bytes sent, lasted for 720 seconds
+[2022-08-09 13:35:12] [INFO] 127.0.0.1:65161 requested connection to www.google.com.hk:443
+[2022-08-09 13:35:15] [INFO] 127.0.0.1:65161 disconnected, 3022 bytes received, 1884 bytes sent, lasted for 3 seconds
+[2022-08-09 13:45:12] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-08-09 13:45:16] [INFO] 127.0.0.1:49698 requested connection to avatars.githubusercontent.com:443
+[2022-08-09 13:45:33] [INFO] 127.0.0.1:49730 requested connection to www.google.com:443
+[2022-08-09 13:45:44] [INFO] 127.0.0.1:49730 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 13:46:33] [INFO] 127.0.0.1:49698 disconnected, 437 bytes received, 598 bytes sent, lasted for 77 seconds
+[2022-08-09 13:46:33] [INFO] 127.0.0.1:49764 requested connection to www.google.com:443
+[2022-08-09 13:46:44] [INFO] 127.0.0.1:49764 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 13:47:12] [INFO] 127.0.0.1:49774 requested connection to www.google.com.hk:443
+[2022-08-09 13:54:31] [INFO] 127.0.0.1:50010 requested connection to raw.githubusercontent.com:443
+[2022-08-09 13:54:31] [INFO] 127.0.0.1:50013 requested connection to raw.githubusercontent.com:443
+[2022-08-09 13:54:31] [INFO] 127.0.0.1:50014 requested connection to raw.githubusercontent.com:443
+[2022-08-09 13:54:35] [INFO] 127.0.0.1:50014 disconnected, 4269 bytes received, 581 bytes sent, lasted for 4 seconds
+[2022-08-09 13:54:35] [INFO] 127.0.0.1:50010 disconnected, 4269 bytes received, 581 bytes sent, lasted for 4 seconds
+[2022-08-09 13:54:35] [INFO] 127.0.0.1:50013 disconnected, 4269 bytes received, 581 bytes sent, lasted for 4 seconds
+[2022-08-09 13:54:54] [INFO] 127.0.0.1:50056 requested connection to raw.githubusercontent.com:443
+[2022-08-09 13:54:54] [INFO] 127.0.0.1:50057 requested connection to raw.githubusercontent.com:443
+[2022-08-09 13:54:54] [INFO] 127.0.0.1:50059 requested connection to raw.githubusercontent.com:443
+[2022-08-09 13:54:54] [INFO] 127.0.0.1:50056 disconnected, 4269 bytes received, 581 bytes sent, lasted for 0 seconds
+[2022-08-09 13:54:54] [INFO] 127.0.0.1:50057 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 13:55:14] [INFO] 127.0.0.1:50059 disconnected, 258086 bytes received, 1361 bytes sent, lasted for 20 seconds
+[2022-08-09 13:58:12] [INFO] 127.0.0.1:49774 disconnected, 7058 bytes received, 4332 bytes sent, lasted for 660 seconds
+[2022-08-09 14:00:12] [INFO] 127.0.0.1:50401 requested connection to www.google.com.hk:443
+[2022-08-09 14:04:13] [INFO] 127.0.0.1:50401 disconnected, 3095 bytes received, 1884 bytes sent, lasted for 241 seconds
+[2022-08-09 14:06:12] [INFO] 127.0.0.1:50600 requested connection to www.google.com.hk:443
+[2022-08-09 14:14:12] [INFO] 127.0.0.1:50600 disconnected, 6244 bytes received, 3808 bytes sent, lasted for 480 seconds
+[2022-08-09 14:17:12] [INFO] 127.0.0.1:50847 requested connection to www.google.com.hk:443
+[2022-08-09 14:24:12] [INFO] 127.0.0.1:50847 disconnected, 5297 bytes received, 3797 bytes sent, lasted for 420 seconds
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51087 requested connection to www.google.com.hk:443
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51090 requested connection to medium.com:443
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51095 requested connection to bergstrand-niklas.medium.com:443
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51105 requested connection to www.google.com.hk:443
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51117 requested connection to www.google.com.hk:443
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51120 requested connection to www.google.com.hk:443
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51123 requested connection to www.google.com.hk:443
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51126 requested connection to www.google.com.hk:443
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51105 disconnected, 0 bytes received, 597 bytes sent, lasted for 0 seconds
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51117 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51120 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51126 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:26:29] [INFO] 127.0.0.1:51123 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:26:30] [INFO] 127.0.0.1:51095 disconnected, 212 bytes received, 1445 bytes sent, lasted for 1 seconds
+[2022-08-09 14:26:30] [INFO] 127.0.0.1:51087 disconnected, 1684 bytes received, 3376 bytes sent, lasted for 1 seconds
+[2022-08-09 14:26:30] [INFO] 127.0.0.1:51090 disconnected, 2099 bytes received, 5975 bytes sent, lasted for 1 seconds
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51264 requested connection to www.google.com:443
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51265 requested connection to accounts.google.com:443
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51271 requested connection to www.google.com:443
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51272 requested connection to www.google.com:443
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51273 requested connection to www.google.com:443
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51271 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51272 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51273 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:30:22] [INFO] 127.0.0.1:51278 requested connection to www.google.com.hk:443
+[2022-08-09 14:30:23] [INFO] 127.0.0.1:51284 requested connection to www.google.com.hk:443
+[2022-08-09 14:30:23] [INFO] 127.0.0.1:51285 requested connection to www.google.com.hk:443
+[2022-08-09 14:30:23] [INFO] 127.0.0.1:51284 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:30:23] [INFO] 127.0.0.1:51285 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:30:34] [INFO] 127.0.0.1:51295 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-08-09 14:32:26] [INFO] 127.0.0.1:51394 requested connection to www.google.com.hk:443
+[2022-08-09 14:34:23] [INFO] 127.0.0.1:51265 disconnected, 7024 bytes received, 1319 bytes sent, lasted for 241 seconds
+[2022-08-09 14:34:35] [INFO] 127.0.0.1:51295 disconnected, 6185 bytes received, 1320 bytes sent, lasted for 241 seconds
+[2022-08-09 14:34:58] [INFO] 127.0.0.1:51436 requested connection to www.gstatic.com:443
+[2022-08-09 14:34:59] [INFO] 127.0.0.1:51439 requested connection to play.google.com:443
+[2022-08-09 14:35:01] [INFO] 127.0.0.1:51445 requested connection to play.google.com:443
+[2022-08-09 14:35:17] [INFO] 127.0.0.1:51468 requested connection to connect.facebook.net:443
+[2022-08-09 14:35:17] [INFO] 127.0.0.1:51469 requested connection to static.ads-twitter.com:443
+[2022-08-09 14:35:17] [INFO] 127.0.0.1:51470 requested connection to www.redditstatic.com:443
+[2022-08-09 14:35:17] [INFO] 127.0.0.1:51476 requested connection to avatars.githubusercontent.com:443
+[2022-08-09 14:35:18] [INFO] 127.0.0.1:51484 requested connection to alb.reddit.com:443
+[2022-08-09 14:35:18] [INFO] 127.0.0.1:51489 requested connection to t.co:443
+[2022-08-09 14:35:18] [INFO] 127.0.0.1:51491 requested connection to analytics.twitter.com:443
+[2022-08-09 14:35:18] [INFO] 127.0.0.1:51492 requested connection to t.co:443
+[2022-08-09 14:35:18] [INFO] 127.0.0.1:51495 requested connection to analytics.twitter.com:443
+[2022-08-09 14:35:18] [INFO] 127.0.0.1:51503 requested connection to camo.githubusercontent.com:443
+[2022-08-09 14:35:18] [INFO] 127.0.0.1:51506 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 14:35:19] [INFO] 127.0.0.1:51510 requested connection to www.facebook.com:443
+[2022-08-09 14:35:30] [INFO] 127.0.0.1:51491 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 14:35:30] [INFO] 127.0.0.1:51521 requested connection to analytics.twitter.com:443
+[2022-08-09 14:35:30] [INFO] 127.0.0.1:51489 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 14:35:30] [INFO] 127.0.0.1:51492 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 14:35:30] [INFO] 127.0.0.1:51495 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 14:35:30] [INFO] 127.0.0.1:51526 requested connection to t.co:443
+[2022-08-09 14:35:30] [INFO] 127.0.0.1:51527 requested connection to t.co:443
+[2022-08-09 14:35:30] [INFO] 127.0.0.1:51528 requested connection to analytics.twitter.com:443
+[2022-08-09 14:35:43] [INFO] 127.0.0.1:51521 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:35:43] [INFO] 127.0.0.1:51526 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:35:43] [INFO] 127.0.0.1:51527 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:35:44] [INFO] 127.0.0.1:51528 disconnected, 0 bytes received, 517 bytes sent, lasted for 14 seconds
+[2022-08-09 14:36:23] [INFO] 127.0.0.1:51468 disconnected, 137830 bytes received, 1245 bytes sent, lasted for 66 seconds
+[2022-08-09 14:36:24] [INFO] 127.0.0.1:51510 disconnected, 3189 bytes received, 15923 bytes sent, lasted for 65 seconds
+[2022-08-09 14:36:43] [INFO] 127.0.0.1:51436 disconnected, 4954 bytes received, 581 bytes sent, lasted for 105 seconds
+[2022-08-09 14:36:43] [INFO] 127.0.0.1:51581 requested connection to google.com.hk:443
+[2022-08-09 14:36:46] [INFO] 127.0.0.1:51584 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-08-09 14:36:46] [INFO] 127.0.0.1:51587 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-08-09 14:36:46] [INFO] 127.0.0.1:51592 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-08-09 14:36:46] [INFO] 127.0.0.1:51593 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-08-09 14:36:46] [INFO] 127.0.0.1:51594 requested connection to encrypted-tbn0.gstatic.com:443
+[2022-08-09 14:36:46] [INFO] 127.0.0.1:51587 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:36:47] [INFO] 127.0.0.1:51592 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 14:36:47] [INFO] 127.0.0.1:51593 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 14:36:47] [INFO] 127.0.0.1:51594 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 14:36:53] [INFO] 127.0.0.1:51600 requested connection to www.gstatic.com:443
+[2022-08-09 14:37:00] [INFO] 127.0.0.1:51632 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 14:37:02] [INFO] 127.0.0.1:51645 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 14:37:55] [INFO] 127.0.0.1:51600 disconnected, 826 bytes received, 659 bytes sent, lasted for 62 seconds
+[2022-08-09 14:37:55] [INFO] 127.0.0.1:51664 requested connection to ajax.googleapis.com:443
+[2022-08-09 14:37:56] [INFO] 127.0.0.1:51669 requested connection to graph.facebook.com:443
+[2022-08-09 14:37:56] [INFO] 127.0.0.1:51672 requested connection to i.stack.imgur.com:443
+[2022-08-09 14:37:56] [INFO] 127.0.0.1:51675 requested connection to platform-lookaside.fbsbx.com:443
+[2022-08-09 14:38:13] [INFO] 127.0.0.1:51681 requested connection to google.com:443
+[2022-08-09 14:39:01] [INFO] 127.0.0.1:51669 disconnected, 3256 bytes received, 1171 bytes sent, lasted for 65 seconds
+[2022-08-09 14:39:02] [INFO] 127.0.0.1:51439 disconnected, 7842 bytes received, 1118 bytes sent, lasted for 243 seconds
+[2022-08-09 14:39:03] [INFO] 127.0.0.1:51675 disconnected, 10431 bytes received, 1192 bytes sent, lasted for 67 seconds
+[2022-08-09 14:39:19] [INFO] 127.0.0.1:51506 disconnected, 5916 bytes received, 1248 bytes sent, lasted for 241 seconds
+[2022-08-09 14:39:28] [INFO] 127.0.0.1:51664 disconnected, 5296 bytes received, 581 bytes sent, lasted for 93 seconds
+[2022-08-09 14:39:28] [INFO] 127.0.0.1:51707 requested connection to qiita-image-store.s3.amazonaws.com:443
+[2022-08-09 14:39:28] [INFO] 127.0.0.1:51710 requested connection to connect.facebook.net:443
+[2022-08-09 14:39:30] [INFO] 127.0.0.1:51719 requested connection to www.facebook.com:443
+[2022-08-09 14:39:31] [INFO] 127.0.0.1:51723 requested connection to imasdk.googleapis.com:443
+[2022-08-09 14:39:32] [INFO] 127.0.0.1:51727 requested connection to imasdk.googleapis.com:443
+[2022-08-09 14:39:32] [INFO] 127.0.0.1:51727 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 14:39:37] [INFO] 127.0.0.1:51707 disconnected, 12732 bytes received, 1295 bytes sent, lasted for 9 seconds
+[2022-08-09 14:40:18] [INFO] 127.0.0.1:51470 disconnected, 4745 bytes received, 1125 bytes sent, lasted for 301 seconds
+[2022-08-09 14:40:18] [INFO] 127.0.0.1:51469 disconnected, 4487 bytes received, 1180 bytes sent, lasted for 301 seconds
+[2022-08-09 14:40:18] [INFO] 127.0.0.1:51484 disconnected, 4403 bytes received, 1309 bytes sent, lasted for 300 seconds
+[2022-08-09 14:40:19] [INFO] 127.0.0.1:51476 disconnected, 40543 bytes received, 1546 bytes sent, lasted for 302 seconds
+[2022-08-09 14:40:19] [INFO] 127.0.0.1:51503 disconnected, 17108 bytes received, 1220 bytes sent, lasted for 301 seconds
+[2022-08-09 14:40:35] [INFO] 127.0.0.1:51710 disconnected, 114422 bytes received, 1160 bytes sent, lasted for 67 seconds
+[2022-08-09 14:40:36] [INFO] 127.0.0.1:51719 disconnected, 995 bytes received, 6851 bytes sent, lasted for 66 seconds
+[2022-08-09 14:40:47] [INFO] 127.0.0.1:51584 disconnected, 19529 bytes received, 2420 bytes sent, lasted for 241 seconds
+[2022-08-09 14:41:04] [INFO] 127.0.0.1:51632 disconnected, 63245 bytes received, 3752 bytes sent, lasted for 244 seconds
+[2022-08-09 14:41:04] [INFO] 127.0.0.1:51645 disconnected, 11340 bytes received, 3357 bytes sent, lasted for 242 seconds
+[2022-08-09 14:41:51] [INFO] 127.0.0.1:51445 disconnected, 9548 bytes received, 3211 bytes sent, lasted for 410 seconds
+[2022-08-09 14:41:59] [INFO] 127.0.0.1:51825 requested connection to clients2.google.com:443
+[2022-08-09 14:42:54] [INFO] 127.0.0.1:51930 requested connection to www.gstatic.com:443
+[2022-08-09 14:42:56] [INFO] 127.0.0.1:51934 requested connection to play.google.com:443
+[2022-08-09 14:42:57] [INFO] 127.0.0.1:51672 disconnected, 10721 bytes received, 1174 bytes sent, lasted for 301 seconds
+[2022-08-09 14:43:03] [INFO] 127.0.0.1:51963 requested connection to ajax.googleapis.com:443
+[2022-08-09 14:43:04] [INFO] 127.0.0.1:51967 requested connection to lh4.googleusercontent.com:443
+[2022-08-09 14:43:04] [INFO] 127.0.0.1:51970 requested connection to i.stack.imgur.com:443
+[2022-08-09 14:43:06] [INFO] 127.0.0.1:51977 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 14:43:24] [INFO] 127.0.0.1:51581 disconnected, 6436 bytes received, 3046 bytes sent, lasted for 401 seconds
+[2022-08-09 14:43:24] [INFO] 127.0.0.1:51681 disconnected, 8628 bytes received, 2100 bytes sent, lasted for 311 seconds
+[2022-08-09 14:43:32] [INFO] 127.0.0.1:51264 disconnected, 18894 bytes received, 5045 bytes sent, lasted for 790 seconds
+[2022-08-09 14:43:32] [INFO] 127.0.0.1:51723 disconnected, 137101 bytes received, 1404 bytes sent, lasted for 241 seconds
+[2022-08-09 14:44:27] [INFO] 127.0.0.1:51963 disconnected, 826 bytes received, 663 bytes sent, lasted for 84 seconds
+[2022-08-09 14:44:27] [INFO] 127.0.0.1:51930 disconnected, 4955 bytes received, 659 bytes sent, lasted for 93 seconds
+[2022-08-09 14:44:27] [INFO] 127.0.0.1:52013 requested connection to www.google.com:443
+[2022-08-09 14:44:38] [INFO] 127.0.0.1:52013 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 14:44:58] [INFO] 127.0.0.1:52037 requested connection to google.com.hk:443
+[2022-08-09 14:45:23] [INFO] 127.0.0.1:52055 requested connection to www.gstatic.com:443
+[2022-08-09 14:45:27] [INFO] 127.0.0.1:52061 requested connection to www.google.com:443
+[2022-08-09 14:45:36] [INFO] 127.0.0.1:52078 requested connection to static.ads-twitter.com:443
+[2022-08-09 14:45:36] [INFO] 127.0.0.1:52079 requested connection to www.redditstatic.com:443
+[2022-08-09 14:45:38] [INFO] 127.0.0.1:52061 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 14:45:38] [INFO] 127.0.0.1:52094 requested connection to www.facebook.com:443
+[2022-08-09 14:45:38] [INFO] 127.0.0.1:52100 requested connection to alb.reddit.com:443
+[2022-08-09 14:45:38] [INFO] 127.0.0.1:52101 requested connection to t.co:443
+[2022-08-09 14:45:38] [INFO] 127.0.0.1:52106 requested connection to analytics.twitter.com:443
+[2022-08-09 14:45:38] [INFO] 127.0.0.1:52109 requested connection to t.co:443
+[2022-08-09 14:45:38] [INFO] 127.0.0.1:52112 requested connection to analytics.twitter.com:443
+[2022-08-09 14:45:51] [INFO] 127.0.0.1:52106 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:45:51] [INFO] 127.0.0.1:52130 requested connection to analytics.twitter.com:443
+[2022-08-09 14:45:51] [INFO] 127.0.0.1:52112 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:45:51] [INFO] 127.0.0.1:52133 requested connection to analytics.twitter.com:443
+[2022-08-09 14:45:51] [INFO] 127.0.0.1:52109 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:45:51] [INFO] 127.0.0.1:52101 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:45:51] [INFO] 127.0.0.1:52137 requested connection to t.co:443
+[2022-08-09 14:45:51] [INFO] 127.0.0.1:52138 requested connection to t.co:443
+[2022-08-09 14:46:04] [INFO] 127.0.0.1:52133 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:46:04] [INFO] 127.0.0.1:52137 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:46:04] [INFO] 127.0.0.1:52138 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 14:46:05] [INFO] 127.0.0.1:52130 disconnected, 0 bytes received, 517 bytes sent, lasted for 14 seconds
+[2022-08-09 14:46:27] [INFO] 127.0.0.1:52055 disconnected, 826 bytes received, 659 bytes sent, lasted for 64 seconds
+[2022-08-09 14:46:27] [INFO] 127.0.0.1:52159 requested connection to www.google.com:443
+[2022-08-09 14:46:38] [INFO] 127.0.0.1:52159 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 14:46:43] [INFO] 127.0.0.1:52094 disconnected, 1022 bytes received, 4252 bytes sent, lasted for 65 seconds
+[2022-08-09 14:47:04] [INFO] 127.0.0.1:51967 disconnected, 11323 bytes received, 1278 bytes sent, lasted for 240 seconds
+[2022-08-09 14:47:08] [INFO] 127.0.0.1:51977 disconnected, 5918 bytes received, 1341 bytes sent, lasted for 242 seconds
+[2022-08-09 14:47:27] [INFO] 127.0.0.1:52180 requested connection to www.google.com:443
+[2022-08-09 14:47:38] [INFO] 127.0.0.1:52180 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 14:47:59] [INFO] 127.0.0.1:51825 disconnected, 11050 bytes received, 1290 bytes sent, lasted for 360 seconds
+[2022-08-09 14:48:04] [INFO] 127.0.0.1:51970 disconnected, 7196 bytes received, 1131 bytes sent, lasted for 300 seconds
+[2022-08-09 14:48:27] [INFO] 127.0.0.1:52196 requested connection to www.google.com:443
+[2022-08-09 14:48:38] [INFO] 127.0.0.1:52196 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 14:49:25] [INFO] 127.0.0.1:51934 disconnected, 2795 bytes received, 2792 bytes sent, lasted for 389 seconds
+[2022-08-09 14:50:04] [INFO] 127.0.0.1:51394 disconnected, 7306 bytes received, 11701 bytes sent, lasted for 1058 seconds
+[2022-08-09 14:50:37] [INFO] 127.0.0.1:52079 disconnected, 999 bytes received, 1133 bytes sent, lasted for 301 seconds
+[2022-08-09 14:50:38] [INFO] 127.0.0.1:52078 disconnected, 472 bytes received, 1138 bytes sent, lasted for 302 seconds
+[2022-08-09 14:50:39] [INFO] 127.0.0.1:52100 disconnected, 659 bytes received, 1309 bytes sent, lasted for 301 seconds
+[2022-08-09 14:50:50] [INFO] 127.0.0.1:52037 disconnected, 2169 bytes received, 2567 bytes sent, lasted for 352 seconds
+[2022-08-09 14:50:54] [INFO] 127.0.0.1:51278 disconnected, 897938 bytes received, 62302 bytes sent, lasted for 1232 seconds
+[2022-08-09 14:51:27] [INFO] 127.0.0.1:52254 requested connection to www.google.com:443
+[2022-08-09 14:51:38] [INFO] 127.0.0.1:52254 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 14:53:27] [INFO] 127.0.0.1:52296 requested connection to www.google.com:443
+[2022-08-09 14:53:38] [INFO] 127.0.0.1:52296 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 14:54:28] [INFO] 127.0.0.1:52322 requested connection to www.google.com:443
+[2022-08-09 14:54:38] [INFO] 127.0.0.1:52322 disconnected, 4288 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 14:55:28] [INFO] 127.0.0.1:52340 requested connection to www.google.com:443
+[2022-08-09 14:55:38] [INFO] 127.0.0.1:52340 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 15:00:56] [INFO] 127.0.0.1:52417 requested connection to www.google.com.hk:443
+[2022-08-09 15:00:56] [INFO] 127.0.0.1:52420 requested connection to www.google.com.hk:443
+[2022-08-09 15:00:56] [INFO] 127.0.0.1:52423 requested connection to www.google.com.hk:443
+[2022-08-09 15:00:57] [INFO] 127.0.0.1:52420 disconnected, 0 bytes received, 597 bytes sent, lasted for 1 seconds
+[2022-08-09 15:00:57] [INFO] 127.0.0.1:52423 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 15:01:13] [INFO] 127.0.0.1:52428 requested connection to ajax.googleapis.com:443
+[2022-08-09 15:01:15] [INFO] 127.0.0.1:52433 requested connection to i.stack.imgur.com:443
+[2022-08-09 15:01:28] [INFO] 127.0.0.1:52441 requested connection to www.google.com:443
+[2022-08-09 15:01:39] [INFO] 127.0.0.1:52441 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 15:02:28] [INFO] 127.0.0.1:52428 disconnected, 5297 bytes received, 663 bytes sent, lasted for 75 seconds
+[2022-08-09 15:02:28] [INFO] 127.0.0.1:52488 requested connection to www.google.com:443
+[2022-08-09 15:02:39] [INFO] 127.0.0.1:52488 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 15:04:28] [INFO] 127.0.0.1:52512 requested connection to www.google.com:443
+[2022-08-09 15:04:39] [INFO] 127.0.0.1:52512 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 15:05:14] [INFO] 127.0.0.1:52417 disconnected, 2846 bytes received, 4478 bytes sent, lasted for 258 seconds
+[2022-08-09 15:06:16] [INFO] 127.0.0.1:52433 disconnected, 7472 bytes received, 1132 bytes sent, lasted for 301 seconds
+[2022-08-09 15:08:39] [INFO] 127.0.0.1:52579 requested connection to www.google.com:443
+[2022-08-09 15:08:39] [INFO] 127.0.0.1:52582 requested connection to www.google.com:443
+[2022-08-09 15:08:39] [INFO] 127.0.0.1:52585 requested connection to www.google.com:443
+[2022-08-09 15:08:39] [INFO] 127.0.0.1:52588 requested connection to www.google.com:443
+[2022-08-09 15:08:39] [INFO] 127.0.0.1:52582 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 15:08:40] [INFO] 127.0.0.1:52591 requested connection to www.google.com.hk:443
+[2022-08-09 15:08:40] [INFO] 127.0.0.1:52588 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 15:08:40] [INFO] 127.0.0.1:52595 requested connection to www.google.com.hk:443
+[2022-08-09 15:08:40] [INFO] 127.0.0.1:52596 requested connection to www.google.com.hk:443
+[2022-08-09 15:08:40] [INFO] 127.0.0.1:52585 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 15:08:40] [INFO] 127.0.0.1:52591 disconnected, 0 bytes received, 597 bytes sent, lasted for 0 seconds
+[2022-08-09 15:08:41] [INFO] 127.0.0.1:52596 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 15:09:08] [INFO] 127.0.0.1:52609 requested connection to www.gstatic.com:443
+[2022-08-09 15:09:11] [INFO] 127.0.0.1:52613 requested connection to play.google.com:443
+[2022-08-09 15:09:24] [INFO] 127.0.0.1:52632 requested connection to connect.facebook.net:443
+[2022-08-09 15:09:24] [INFO] 127.0.0.1:52635 requested connection to static.ads-twitter.com:443
+[2022-08-09 15:09:24] [INFO] 127.0.0.1:52638 requested connection to www.redditstatic.com:443
+[2022-08-09 15:09:25] [INFO] 127.0.0.1:52652 requested connection to alb.reddit.com:443
+[2022-08-09 15:09:25] [INFO] 127.0.0.1:52656 requested connection to t.co:443
+[2022-08-09 15:09:25] [INFO] 127.0.0.1:52657 requested connection to analytics.twitter.com:443
+[2022-08-09 15:09:25] [INFO] 127.0.0.1:52663 requested connection to t.co:443
+[2022-08-09 15:09:26] [INFO] 127.0.0.1:52667 requested connection to analytics.twitter.com:443
+[2022-08-09 15:09:27] [INFO] 127.0.0.1:52672 requested connection to www.facebook.com:443
+[2022-08-09 15:09:38] [INFO] 127.0.0.1:52657 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 15:09:38] [INFO] 127.0.0.1:52656 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 15:09:38] [INFO] 127.0.0.1:52677 requested connection to analytics.twitter.com:443
+[2022-08-09 15:09:38] [INFO] 127.0.0.1:52678 requested connection to t.co:443
+[2022-08-09 15:09:39] [INFO] 127.0.0.1:52667 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 15:09:39] [INFO] 127.0.0.1:52682 requested connection to analytics.twitter.com:443
+[2022-08-09 15:09:39] [INFO] 127.0.0.1:52663 disconnected, 0 bytes received, 517 bytes sent, lasted for 14 seconds
+[2022-08-09 15:09:39] [INFO] 127.0.0.1:52685 requested connection to t.co:443
+[2022-08-09 15:09:50] [INFO] 127.0.0.1:52678 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 15:09:50] [INFO] 127.0.0.1:52693 requested connection to www.google.com.hk:443
+[2022-08-09 15:09:51] [INFO] 127.0.0.1:52677 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 15:09:52] [INFO] 127.0.0.1:52682 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 15:09:52] [INFO] 127.0.0.1:52685 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 15:10:31] [INFO] 127.0.0.1:52632 disconnected, 135665 bytes received, 1245 bytes sent, lasted for 67 seconds
+[2022-08-09 15:10:32] [INFO] 127.0.0.1:52672 disconnected, 956 bytes received, 5170 bytes sent, lasted for 65 seconds
+[2022-08-09 15:13:09] [INFO] 127.0.0.1:52579 disconnected, 34758 bytes received, 11822 bytes sent, lasted for 270 seconds
+[2022-08-09 15:13:12] [INFO] 127.0.0.1:52613 disconnected, 1710 bytes received, 2004 bytes sent, lasted for 241 seconds
+[2022-08-09 15:13:14] [INFO] 127.0.0.1:52609 disconnected, 955 bytes received, 659 bytes sent, lasted for 246 seconds
+[2022-08-09 15:13:21] [INFO] 127.0.0.1:52595 disconnected, 265882 bytes received, 12393 bytes sent, lasted for 281 seconds
+[2022-08-09 15:13:52] [INFO] 127.0.0.1:52693 disconnected, 1995 bytes received, 1847 bytes sent, lasted for 242 seconds
+[2022-08-09 15:14:25] [INFO] 127.0.0.1:52635 disconnected, 472 bytes received, 1138 bytes sent, lasted for 301 seconds
+[2022-08-09 15:14:25] [INFO] 127.0.0.1:52638 disconnected, 999 bytes received, 1133 bytes sent, lasted for 301 seconds
+[2022-08-09 15:14:26] [INFO] 127.0.0.1:52652 disconnected, 659 bytes received, 1309 bytes sent, lasted for 301 seconds
+[2022-08-09 15:14:33] [INFO] 127.0.0.1:52822 requested connection to google.com.hk:443
+[2022-08-09 15:14:34] [INFO] 127.0.0.1:52825 requested connection to www.google.com.hk:443
+[2022-08-09 15:16:29] [INFO] 127.0.0.1:52874 requested connection to www.google.com:443
+[2022-08-09 15:16:40] [INFO] 127.0.0.1:52874 disconnected, 4286 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 15:16:58] [INFO] 127.0.0.1:52884 requested connection to www.google.com.hk:443
+[2022-08-09 15:16:58] [INFO] 127.0.0.1:52887 requested connection to avatars.githubusercontent.com:443
+[2022-08-09 15:17:03] [INFO] 127.0.0.1:52893 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 15:17:29] [INFO] 127.0.0.1:52905 requested connection to www.google.com:443
+[2022-08-09 15:18:34] [INFO] 127.0.0.1:52822 disconnected, 1995 bytes received, 1732 bytes sent, lasted for 241 seconds
+[2022-08-09 15:18:35] [INFO] 127.0.0.1:52825 disconnected, 1995 bytes received, 1757 bytes sent, lasted for 241 seconds
+[2022-08-09 15:21:10] [INFO] 127.0.0.1:53018 requested connection to www.youtube.com:443
+[2022-08-09 15:21:12] [INFO] 127.0.0.1:53022 requested connection to i.ytimg.com:443
+[2022-08-09 15:21:13] [INFO] 127.0.0.1:53025 requested connection to r5---sn-ogul7n76.googlevideo.com:443
+[2022-08-09 15:21:13] [INFO] 127.0.0.1:53028 requested connection to r5---sn-ogul7n76.googlevideo.com:443
+[2022-08-09 15:21:16] [INFO] 127.0.0.1:53032 requested connection to rr2---sn-ogul7n7s.googlevideo.com:443
+[2022-08-09 15:21:16] [INFO] 127.0.0.1:53033 requested connection to rr2---sn-ogul7n7s.googlevideo.com:443
+[2022-08-09 15:21:16] [INFO] 127.0.0.1:53037 requested connection to accounts.google.com:443
+[2022-08-09 15:21:17] [INFO] 127.0.0.1:53042 requested connection to jnn-pa.googleapis.com:443
+[2022-08-09 15:21:17] [INFO] 127.0.0.1:53046 requested connection to yt3.ggpht.com:443
+[2022-08-09 15:21:17] [INFO] 127.0.0.1:53050 requested connection to www.gstatic.com:443
+[2022-08-09 15:21:18] [INFO] 127.0.0.1:53053 requested connection to rr2---sn-npoeener.googlevideo.com:443
+[2022-08-09 15:21:19] [INFO] 127.0.0.1:53056 requested connection to rr2---sn-npoeener.googlevideo.com:443
+[2022-08-09 15:21:33] [INFO] 127.0.0.1:52884 disconnected, 51037 bytes received, 3666 bytes sent, lasted for 275 seconds
+[2022-08-09 15:21:49] [INFO] 127.0.0.1:53092 requested connection to play.google.com:443
+[2022-08-09 15:21:50] [INFO] 127.0.0.1:53095 requested connection to play.google.com:443
+[2022-08-09 15:22:17] [INFO] 127.0.0.1:53033 disconnected, 5178 bytes received, 581 bytes sent, lasted for 61 seconds
+[2022-08-09 15:22:21] [INFO] 127.0.0.1:53126 requested connection to accounts.google.com:443
+[2022-08-09 15:22:21] [INFO] 127.0.0.1:53028 disconnected, 5178 bytes received, 581 bytes sent, lasted for 68 seconds
+[2022-08-09 15:23:18] [INFO] 127.0.0.1:53025 disconnected, 6262 bytes received, 2531 bytes sent, lasted for 125 seconds
+[2022-08-09 15:23:19] [INFO] 127.0.0.1:53032 disconnected, 9542 bytes received, 4584 bytes sent, lasted for 123 seconds
+[2022-08-09 15:24:38] [INFO] 127.0.0.1:53056 disconnected, 10462507 bytes received, 31375 bytes sent, lasted for 199 seconds
+[2022-08-09 15:24:46] [INFO] 127.0.0.1:52887 disconnected, 25745 bytes received, 2326 bytes sent, lasted for 468 seconds
+[2022-08-09 15:25:17] [INFO] 127.0.0.1:52893 disconnected, 2717 bytes received, 2607 bytes sent, lasted for 494 seconds
+[2022-08-09 15:25:19] [INFO] 127.0.0.1:52905 disconnected, 19361 bytes received, 2561 bytes sent, lasted for 470 seconds
+[2022-08-09 15:25:20] [INFO] 127.0.0.1:53037 disconnected, 291616 bytes received, 2245 bytes sent, lasted for 244 seconds
+[2022-08-09 15:25:20] [INFO] 127.0.0.1:53042 disconnected, 38257 bytes received, 3355 bytes sent, lasted for 243 seconds
+[2022-08-09 15:25:24] [INFO] 127.0.0.1:53046 disconnected, 18536 bytes received, 2275 bytes sent, lasted for 247 seconds
+[2022-08-09 15:25:24] [INFO] 127.0.0.1:53050 disconnected, 18298 bytes received, 1888 bytes sent, lasted for 247 seconds
+[2022-08-09 15:25:50] [INFO] 127.0.0.1:53092 disconnected, 7893 bytes received, 1192 bytes sent, lasted for 241 seconds
+[2022-08-09 15:25:52] [INFO] 127.0.0.1:53095 disconnected, 1831 bytes received, 2656 bytes sent, lasted for 242 seconds
+[2022-08-09 15:26:29] [INFO] 127.0.0.1:53188 requested connection to www.google.com:443
+[2022-08-09 15:26:40] [INFO] 127.0.0.1:53188 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 15:27:29] [INFO] 127.0.0.1:53201 requested connection to www.google.com:443
+[2022-08-09 15:27:34] [INFO] 127.0.0.1:53126 disconnected, 6734 bytes received, 2106 bytes sent, lasted for 313 seconds
+[2022-08-09 15:27:41] [INFO] 127.0.0.1:53201 disconnected, 212 bytes received, 658 bytes sent, lasted for 12 seconds
+[2022-08-09 15:29:30] [INFO] 127.0.0.1:53242 requested connection to www.google.com:443
+[2022-08-09 15:29:40] [INFO] 127.0.0.1:53242 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 15:30:30] [INFO] 127.0.0.1:53269 requested connection to www.google.com:443
+[2022-08-09 15:30:41] [INFO] 127.0.0.1:53269 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 15:31:30] [INFO] 127.0.0.1:53053 disconnected, 33637784 bytes received, 86302 bytes sent, lasted for 612 seconds
+[2022-08-09 15:31:56] [INFO] 127.0.0.1:53022 disconnected, 355657 bytes received, 7553 bytes sent, lasted for 644 seconds
+[2022-08-09 15:36:48] [INFO] 127.0.0.1:53499 requested connection to play.google.com:443
+[2022-08-09 15:40:50] [INFO] 127.0.0.1:53499 disconnected, 1827 bytes received, 2237 bytes sent, lasted for 242 seconds
+[2022-08-09 15:40:57] [INFO] 127.0.0.1:53018 disconnected, 992483 bytes received, 176961 bytes sent, lasted for 1187 seconds
+[2022-08-09 15:40:59] [INFO] 127.0.0.1:53553 requested connection to avatars.githubusercontent.com:443
+[2022-08-09 15:42:00] [INFO] 127.0.0.1:53563 requested connection to www.youtube.com:443
+[2022-08-09 15:46:00] [INFO] 127.0.0.1:53553 disconnected, 437 bytes received, 598 bytes sent, lasted for 301 seconds
+[2022-08-09 15:51:48] [INFO] 127.0.0.1:53727 requested connection to play.google.com:443
+[2022-08-09 15:55:52] [INFO] 127.0.0.1:53727 disconnected, 8162 bytes received, 2237 bytes sent, lasted for 244 seconds
+[2022-08-09 16:05:55] [INFO] 127.0.0.1:54005 requested connection to rr2---sn-npoeener.googlevideo.com:443
+[2022-08-09 16:06:02] [INFO] 127.0.0.1:54009 requested connection to i.ytimg.com:443
+[2022-08-09 16:06:32] [INFO] 127.0.0.1:54017 requested connection to www.google.com:443
+[2022-08-09 16:06:42] [INFO] 127.0.0.1:54017 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 16:06:47] [INFO] 127.0.0.1:54022 requested connection to play.google.com:443
+[2022-08-09 16:07:32] [INFO] 127.0.0.1:54032 requested connection to www.google.com:443
+[2022-08-09 16:07:43] [INFO] 127.0.0.1:54032 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 16:07:57] [INFO] 127.0.0.1:54005 disconnected, 392770 bytes received, 2750 bytes sent, lasted for 122 seconds
+[2022-08-09 16:10:09] [INFO] 127.0.0.1:54009 disconnected, 37385 bytes received, 1876 bytes sent, lasted for 247 seconds
+[2022-08-09 16:10:45] [INFO] 127.0.0.1:54057 requested connection to www.google.com.hk:443
+[2022-08-09 16:10:48] [INFO] 127.0.0.1:54022 disconnected, 8362 bytes received, 2251 bytes sent, lasted for 241 seconds
+[2022-08-09 16:11:09] [INFO] 127.0.0.1:54078 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 16:11:20] [INFO] 127.0.0.1:54089 requested connection to www.google.com:443
+[2022-08-09 16:11:24] [INFO] 127.0.0.1:54097 requested connection to cse.google.com:443
+[2022-08-09 16:11:25] [INFO] 127.0.0.1:54101 requested connection to cse.google.com.hk:443
+[2022-08-09 16:11:44] [INFO] 127.0.0.1:54114 requested connection to www.gstatic.com:443
+[2022-08-09 16:11:44] [INFO] 127.0.0.1:54117 requested connection to connect.facebook.net:443
+[2022-08-09 16:11:44] [INFO] 127.0.0.1:54119 requested connection to static.ads-twitter.com:443
+[2022-08-09 16:11:44] [INFO] 127.0.0.1:54123 requested connection to www.redditstatic.com:443
+[2022-08-09 16:11:45] [INFO] 127.0.0.1:54135 requested connection to www.gstatic.com:443
+[2022-08-09 16:11:46] [INFO] 127.0.0.1:54138 requested connection to www.gstatic.com:443
+[2022-08-09 16:11:46] [INFO] 127.0.0.1:54138 disconnected, 0 bytes received, 595 bytes sent, lasted for 0 seconds
+[2022-08-09 16:12:01] [INFO] 127.0.0.1:54153 requested connection to alb.reddit.com:443
+[2022-08-09 16:12:01] [INFO] 127.0.0.1:54154 requested connection to t.co:443
+[2022-08-09 16:12:01] [INFO] 127.0.0.1:54160 requested connection to analytics.twitter.com:443
+[2022-08-09 16:12:01] [INFO] 127.0.0.1:54161 requested connection to t.co:443
+[2022-08-09 16:12:01] [INFO] 127.0.0.1:54162 requested connection to analytics.twitter.com:443
+[2022-08-09 16:12:13] [INFO] 127.0.0.1:54161 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 16:12:13] [INFO] 127.0.0.1:54162 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 16:12:13] [INFO] 127.0.0.1:54154 disconnected, 0 bytes received, 517 bytes sent, lasted for 12 seconds
+[2022-08-09 16:12:13] [INFO] 127.0.0.1:54188 requested connection to t.co:443
+[2022-08-09 16:12:13] [INFO] 127.0.0.1:54189 requested connection to analytics.twitter.com:443
+[2022-08-09 16:12:13] [INFO] 127.0.0.1:54190 requested connection to t.co:443
+[2022-08-09 16:12:14] [INFO] 127.0.0.1:54160 disconnected, 0 bytes received, 517 bytes sent, lasted for 13 seconds
+[2022-08-09 16:12:14] [INFO] 127.0.0.1:54196 requested connection to analytics.twitter.com:443
+[2022-08-09 16:12:18] [INFO] 127.0.0.1:54196 disconnected, 0 bytes received, 517 bytes sent, lasted for 4 seconds
+[2022-08-09 16:12:18] [INFO] 127.0.0.1:54224 requested connection to www.facebook.com:443
+[2022-08-09 16:12:19] [INFO] 127.0.0.1:54229 requested connection to www.facebook.com:443
+[2022-08-09 16:12:19] [INFO] 127.0.0.1:54229 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 16:12:27] [INFO] 127.0.0.1:54189 disconnected, 0 bytes received, 517 bytes sent, lasted for 14 seconds
+[2022-08-09 16:12:27] [INFO] 127.0.0.1:54188 disconnected, 0 bytes received, 517 bytes sent, lasted for 14 seconds
+[2022-08-09 16:12:27] [INFO] 127.0.0.1:54190 disconnected, 0 bytes received, 517 bytes sent, lasted for 14 seconds
+[2022-08-09 16:12:40] [INFO] 127.0.0.1:54243 requested connection to www.google.com.hk:443
+[2022-08-09 16:13:06] [INFO] 127.0.0.1:54117 disconnected, 135684 bytes received, 1320 bytes sent, lasted for 82 seconds
+[2022-08-09 16:13:24] [INFO] 127.0.0.1:54224 disconnected, 995 bytes received, 2074 bytes sent, lasted for 66 seconds
+[2022-08-09 16:15:25] [INFO] 127.0.0.1:54097 disconnected, 8359 bytes received, 1406 bytes sent, lasted for 241 seconds
+[2022-08-09 16:15:26] [INFO] 127.0.0.1:54101 disconnected, 7539 bytes received, 1667 bytes sent, lasted for 241 seconds
+[2022-08-09 16:15:29] [INFO] 127.0.0.1:54057 disconnected, 203335 bytes received, 4179 bytes sent, lasted for 284 seconds
+[2022-08-09 16:15:45] [INFO] 127.0.0.1:54114 disconnected, 167086 bytes received, 1245 bytes sent, lasted for 241 seconds
+[2022-08-09 16:15:46] [INFO] 127.0.0.1:54078 disconnected, 6505 bytes received, 2248 bytes sent, lasted for 277 seconds
+[2022-08-09 16:15:47] [INFO] 127.0.0.1:54135 disconnected, 190174 bytes received, 1643 bytes sent, lasted for 242 seconds
+[2022-08-09 16:15:47] [INFO] 127.0.0.1:54089 disconnected, 36383 bytes received, 2887 bytes sent, lasted for 267 seconds
+[2022-08-09 16:16:03] [INFO] 127.0.0.1:53563 disconnected, 14869 bytes received, 104513 bytes sent, lasted for 2043 seconds
+[2022-08-09 16:16:44] [INFO] 127.0.0.1:54119 disconnected, 4487 bytes received, 1181 bytes sent, lasted for 300 seconds
+[2022-08-09 16:16:44] [INFO] 127.0.0.1:54123 disconnected, 999 bytes received, 1134 bytes sent, lasted for 300 seconds
+[2022-08-09 16:17:01] [INFO] 127.0.0.1:54153 disconnected, 659 bytes received, 1310 bytes sent, lasted for 300 seconds
+[2022-08-09 16:17:46] [INFO] 127.0.0.1:54243 disconnected, 2169 bytes received, 2113 bytes sent, lasted for 306 seconds
+[2022-08-09 16:20:22] [INFO] 127.0.0.1:54427 requested connection to www.google.com:443
+[2022-08-09 16:20:23] [INFO] 127.0.0.1:54430 requested connection to www.google.com:443
+[2022-08-09 16:20:23] [INFO] 127.0.0.1:54433 requested connection to www.google.com:443
+[2022-08-09 16:20:23] [INFO] 127.0.0.1:54436 requested connection to www.google.com:443
+[2022-08-09 16:20:23] [INFO] 127.0.0.1:54430 disconnected, 0 bytes received, 594 bytes sent, lasted for 0 seconds
+[2022-08-09 16:20:23] [INFO] 127.0.0.1:54433 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 16:20:23] [INFO] 127.0.0.1:54439 requested connection to www.google.com.hk:443
+[2022-08-09 16:20:23] [INFO] 127.0.0.1:54436 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 16:20:24] [INFO] 127.0.0.1:54443 requested connection to www.google.com.hk:443
+[2022-08-09 16:20:24] [INFO] 127.0.0.1:54444 requested connection to www.google.com.hk:443
+[2022-08-09 16:20:24] [INFO] 127.0.0.1:54444 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 16:20:24] [INFO] 127.0.0.1:54443 disconnected, 0 bytes received, 597 bytes sent, lasted for 0 seconds
+[2022-08-09 16:22:12] [INFO] 127.0.0.1:54538 requested connection to play.google.com:443
+[2022-08-09 16:24:23] [INFO] 127.0.0.1:54427 disconnected, 4301 bytes received, 1690 bytes sent, lasted for 241 seconds
+[2022-08-09 16:24:25] [INFO] 127.0.0.1:54439 disconnected, 45982 bytes received, 2071 bytes sent, lasted for 242 seconds
+[2022-08-09 16:25:12] [INFO] 127.0.0.1:54693 requested connection to www.youtube.com:443
+[2022-08-09 16:26:13] [INFO] 127.0.0.1:54538 disconnected, 8159 bytes received, 2237 bytes sent, lasted for 241 seconds
+[2022-08-09 16:29:13] [INFO] 127.0.0.1:54693 disconnected, 1400 bytes received, 3422 bytes sent, lasted for 241 seconds
+[2022-08-09 19:11:03] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-08-09 19:11:09] [INFO] 127.0.0.1:59468 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-08-09 19:11:19] [INFO] 127.0.0.1:59475 requested connection to accounts.google.com:443
+[2022-08-09 19:11:30] [INFO] 127.0.0.1:59480 requested connection to www.google.com:443
+[2022-08-09 19:11:30] [INFO] 127.0.0.1:59483 requested connection to www.google.com:443
+[2022-08-09 19:11:30] [INFO] 127.0.0.1:59486 requested connection to www.google.com:443
+[2022-08-09 19:11:31] [INFO] 127.0.0.1:59489 requested connection to www.google.com:443
+[2022-08-09 19:11:31] [INFO] 127.0.0.1:59492 requested connection to www.google.com:443
+[2022-08-09 19:11:41] [INFO] 127.0.0.1:59483 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 19:11:41] [INFO] 127.0.0.1:59486 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 19:11:41] [INFO] 127.0.0.1:59489 disconnected, 4288 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 19:11:41] [INFO] 127.0.0.1:59492 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 19:11:59] [INFO] 127.0.0.1:59502 requested connection to www.google.com.hk:443
+[2022-08-09 19:12:01] [INFO] 127.0.0.1:59506 requested connection to id.google.com.hk:443
+[2022-08-09 19:12:02] [INFO] 127.0.0.1:59511 requested connection to id.google.com:443
+[2022-08-09 19:12:02] [INFO] 127.0.0.1:59514 requested connection to play.google.com:443
+[2022-08-09 19:12:04] [INFO] 127.0.0.1:59521 requested connection to play.google.com:443
+[2022-08-09 19:12:19] [INFO] 127.0.0.1:59536 requested connection to accounts.google.com:443
+[2022-08-09 19:12:20] [INFO] 127.0.0.1:59574 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 19:12:35] [INFO] 127.0.0.1:59601 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 19:12:37] [INFO] 127.0.0.1:59618 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 19:12:38] [INFO] 127.0.0.1:59622 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 19:12:39] [INFO] 127.0.0.1:59626 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 19:12:39] [INFO] 127.0.0.1:59622 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 19:12:39] [INFO] 127.0.0.1:59626 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-08-09 19:13:01] [INFO] 127.0.0.1:59647 requested connection to clients2.google.com:443
+[2022-08-09 19:13:01] [INFO] 127.0.0.1:59652 requested connection to www.google.com.hk:443
+[2022-08-09 19:13:36] [INFO] 127.0.0.1:59671 requested connection to google.com.hk:443
+[2022-08-09 19:15:10] [INFO] 127.0.0.1:59468 disconnected, 6423 bytes received, 1321 bytes sent, lasted for 241 seconds
+[2022-08-09 19:15:20] [INFO] 127.0.0.1:59475 disconnected, 7052 bytes received, 1316 bytes sent, lasted for 241 seconds
+[2022-08-09 19:16:03] [INFO] 127.0.0.1:59506 disconnected, 6929 bytes received, 2178 bytes sent, lasted for 242 seconds
+[2022-08-09 19:16:03] [INFO] 127.0.0.1:59511 disconnected, 8852 bytes received, 1555 bytes sent, lasted for 241 seconds
+[2022-08-09 19:16:04] [INFO] 127.0.0.1:59514 disconnected, 7896 bytes received, 1118 bytes sent, lasted for 242 seconds
+[2022-08-09 19:16:04] [INFO] 127.0.0.1:59521 disconnected, 8374 bytes received, 1927 bytes sent, lasted for 240 seconds
+[2022-08-09 19:16:21] [INFO] 127.0.0.1:59574 disconnected, 5955 bytes received, 1300 bytes sent, lasted for 241 seconds
+[2022-08-09 19:16:34] [INFO] 127.0.0.1:59502 disconnected, 208822 bytes received, 12612 bytes sent, lasted for 275 seconds
+[2022-08-09 19:16:39] [INFO] 127.0.0.1:59480 disconnected, 25402 bytes received, 10793 bytes sent, lasted for 309 seconds
+[2022-08-09 19:16:39] [INFO] 127.0.0.1:59601 disconnected, 63153 bytes received, 3753 bytes sent, lasted for 244 seconds
+[2022-08-09 19:16:39] [INFO] 127.0.0.1:59618 disconnected, 11452 bytes received, 3288 bytes sent, lasted for 242 seconds
+[2022-08-09 19:17:01] [INFO] 127.0.0.1:59647 disconnected, 9290 bytes received, 1066 bytes sent, lasted for 240 seconds
+[2022-08-09 19:17:36] [INFO] 127.0.0.1:59536 disconnected, 6734 bytes received, 1970 bytes sent, lasted for 317 seconds
+[2022-08-09 19:18:13] [INFO] 127.0.0.1:59652 disconnected, 6262 bytes received, 3352 bytes sent, lasted for 312 seconds
+[2022-08-09 19:19:01] [INFO] 127.0.0.1:59671 disconnected, 6262 bytes received, 1896 bytes sent, lasted for 325 seconds
+[2022-08-09 19:21:03] [INFO] 127.0.0.1:59784 requested connection to www.google.com:443
+[2022-08-09 19:21:13] [INFO] 127.0.0.1:59784 disconnected, 212 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-09 19:21:16] [INFO] 127.0.0.1:59790 requested connection to www.google.com.hk:443
+[2022-08-09 19:21:19] [INFO] 127.0.0.1:59806 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 19:21:20] [INFO] 127.0.0.1:59810 requested connection to imasdk.googleapis.com:443
+[2022-08-09 19:21:21] [INFO] 127.0.0.1:59817 requested connection to imasdk.googleapis.com:443
+[2022-08-09 19:21:21] [INFO] 127.0.0.1:59820 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 19:21:21] [INFO] 127.0.0.1:59824 requested connection to ad.atdmt.com:443
+[2022-08-09 19:21:21] [INFO] 127.0.0.1:59845 requested connection to ad.atdmt.com:443
+[2022-08-09 19:21:21] [INFO] 127.0.0.1:59848 requested connection to ad.atdmt.com:443
+[2022-08-09 19:21:21] [INFO] 127.0.0.1:59810 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 19:21:22] [INFO] 127.0.0.1:59845 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 19:21:22] [INFO] 127.0.0.1:59848 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-08-09 19:21:23] [INFO] 127.0.0.1:59862 requested connection to www.google.com:443
+[2022-08-09 19:22:27] [INFO] 127.0.0.1:59824 disconnected, 4411 bytes received, 1599 bytes sent, lasted for 66 seconds
+[2022-08-09 19:25:18] [INFO] 127.0.0.1:59790 disconnected, 2487 bytes received, 3087 bytes sent, lasted for 242 seconds
+[2022-08-09 19:25:22] [INFO] 127.0.0.1:59817 disconnected, 137080 bytes received, 1379 bytes sent, lasted for 241 seconds
+[2022-08-09 19:25:23] [INFO] 127.0.0.1:59806 disconnected, 59725 bytes received, 3586 bytes sent, lasted for 244 seconds
+[2022-08-09 19:25:23] [INFO] 127.0.0.1:59820 disconnected, 5298 bytes received, 3734 bytes sent, lasted for 242 seconds
+[2022-08-09 19:25:24] [INFO] 127.0.0.1:59862 disconnected, 2411 bytes received, 1549 bytes sent, lasted for 241 seconds
+[2022-08-09 19:52:50] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-08-09 19:53:04] [INFO] 127.0.0.1:60835 requested connection to www.google.com:443
+[2022-08-09 19:53:07] [INFO] 127.0.0.1:60841 requested connection to developer.android.com:443
+[2022-08-09 19:53:07] [INFO] 127.0.0.1:60842 requested connection to developer.android.com:443
+[2022-08-09 19:53:07] [INFO] 127.0.0.1:60841 disconnected, 4301 bytes received, 581 bytes sent, lasted for 0 seconds
+[2022-08-09 19:53:09] [INFO] 127.0.0.1:60846 requested connection to accounts.google.com:443
+[2022-08-09 19:53:10] [INFO] 127.0.0.1:60850 requested connection to www.gstatic.com:443
+[2022-08-09 19:53:10] [INFO] 127.0.0.1:60851 requested connection to www.gstatic.com:443
+[2022-08-09 19:53:10] [INFO] 127.0.0.1:60857 requested connection to apis.google.com:443
+[2022-08-09 19:53:12] [INFO] 127.0.0.1:60861 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 19:53:15] [INFO] 127.0.0.1:60835 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 19:54:05] [INFO] 127.0.0.1:60870 requested connection to www.google.com:443
+[2022-08-09 19:54:15] [INFO] 127.0.0.1:60870 disconnected, 4287 bytes received, 658 bytes sent, lasted for 10 seconds
+[2022-08-09 19:54:24] [INFO] 127.0.0.1:60857 disconnected, 4925 bytes received, 581 bytes sent, lasted for 74 seconds
+[2022-08-09 19:54:24] [INFO] 127.0.0.1:60861 disconnected, 5297 bytes received, 581 bytes sent, lasted for 72 seconds
+[2022-08-09 19:54:24] [INFO] 127.0.0.1:60876 requested connection to accounts.google.com:443
+[2022-08-09 19:55:05] [INFO] 127.0.0.1:60898 requested connection to www.google.com:443
+[2022-08-09 19:55:15] [INFO] 127.0.0.1:60898 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 19:57:09] [INFO] 127.0.0.1:60846 disconnected, 3155 bytes received, 2562 bytes sent, lasted for 240 seconds
+[2022-08-09 19:57:12] [INFO] 127.0.0.1:60842 disconnected, 24645 bytes received, 4305 bytes sent, lasted for 245 seconds
+[2022-08-09 19:57:12] [INFO] 127.0.0.1:60850 disconnected, 125745 bytes received, 2291 bytes sent, lasted for 242 seconds
+[2022-08-09 19:57:12] [INFO] 127.0.0.1:60851 disconnected, 46418 bytes received, 1637 bytes sent, lasted for 242 seconds
+[2022-08-09 19:58:05] [INFO] 127.0.0.1:60960 requested connection to www.google.com:443
+[2022-08-09 19:58:14] [INFO] 127.0.0.1:60968 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 19:58:16] [INFO] 127.0.0.1:60960 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 19:58:25] [INFO] 127.0.0.1:60876 disconnected, 6558 bytes received, 2643 bytes sent, lasted for 241 seconds
+[2022-08-09 19:59:04] [INFO] 127.0.0.1:60996 requested connection to www.google.com.hk:443
+[2022-08-09 19:59:05] [INFO] 127.0.0.1:60999 requested connection to www.google.com:443
+[2022-08-09 19:59:18] [INFO] 127.0.0.1:60999 disconnected, 4287 bytes received, 581 bytes sent, lasted for 13 seconds
+[2022-08-09 20:00:05] [INFO] 127.0.0.1:61029 requested connection to www.google.com:443
+[2022-08-09 20:00:16] [INFO] 127.0.0.1:61029 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:01:05] [INFO] 127.0.0.1:61061 requested connection to www.google.com:443
+[2022-08-09 20:01:16] [INFO] 127.0.0.1:61061 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:02:05] [INFO] 127.0.0.1:61082 requested connection to www.google.com:443
+[2022-08-09 20:02:16] [INFO] 127.0.0.1:61082 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:03:05] [INFO] 127.0.0.1:61124 requested connection to www.google.com:443
+[2022-08-09 20:03:07] [INFO] 127.0.0.1:60996 disconnected, 2455 bytes received, 3117 bytes sent, lasted for 243 seconds
+[2022-08-09 20:03:16] [INFO] 127.0.0.1:61124 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:04:05] [INFO] 127.0.0.1:61139 requested connection to www.google.com:443
+[2022-08-09 20:04:16] [INFO] 127.0.0.1:61139 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:04:35] [INFO] 127.0.0.1:60968 disconnected, 6670 bytes received, 2029 bytes sent, lasted for 381 seconds
+[2022-08-09 20:05:05] [INFO] 127.0.0.1:61148 requested connection to www.google.com:443
+[2022-08-09 20:05:16] [INFO] 127.0.0.1:61148 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:06:01] [INFO] 127.0.0.1:61167 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 20:06:05] [INFO] 127.0.0.1:61171 requested connection to www.google.com:443
+[2022-08-09 20:06:17] [INFO] 127.0.0.1:61171 disconnected, 4287 bytes received, 581 bytes sent, lasted for 12 seconds
+[2022-08-09 20:07:05] [INFO] 127.0.0.1:61188 requested connection to www.google.com:443
+[2022-08-09 20:07:16] [INFO] 127.0.0.1:61188 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:08:05] [INFO] 127.0.0.1:61211 requested connection to www.google.com:443
+[2022-08-09 20:08:18] [INFO] 127.0.0.1:61211 disconnected, 4286 bytes received, 581 bytes sent, lasted for 13 seconds
+[2022-08-09 20:09:05] [INFO] 127.0.0.1:61221 requested connection to www.google.com:443
+[2022-08-09 20:09:16] [INFO] 127.0.0.1:61221 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:10:02] [INFO] 127.0.0.1:61167 disconnected, 1309 bytes received, 1635 bytes sent, lasted for 241 seconds
+[2022-08-09 20:12:06] [INFO] 127.0.0.1:61259 requested connection to www.google.com:443
+[2022-08-09 20:12:16] [INFO] 127.0.0.1:61259 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 20:13:06] [INFO] 127.0.0.1:61339 requested connection to www.google.com:443
+[2022-08-09 20:13:16] [INFO] 127.0.0.1:61339 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 20:14:06] [INFO] 127.0.0.1:61353 requested connection to www.google.com:443
+[2022-08-09 20:14:16] [INFO] 127.0.0.1:61353 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 20:43:02] [INFO] 127.0.0.1:61764 requested connection to www.google.com.hk:443
+[2022-08-09 20:43:05] [INFO] 127.0.0.1:61784 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 20:43:07] [INFO] 127.0.0.1:61793 requested connection to www.google.com:443
+[2022-08-09 20:43:19] [INFO] 127.0.0.1:61793 disconnected, 4287 bytes received, 581 bytes sent, lasted for 12 seconds
+[2022-08-09 20:44:07] [INFO] 127.0.0.1:61817 requested connection to www.google.com:443
+[2022-08-09 20:44:18] [INFO] 127.0.0.1:61817 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:45:07] [INFO] 127.0.0.1:61849 requested connection to www.google.com:443
+[2022-08-09 20:45:18] [INFO] 127.0.0.1:61849 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:46:08] [INFO] 127.0.0.1:61883 requested connection to www.google.com:443
+[2022-08-09 20:46:13] [INFO] 127.0.0.1:61902 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 20:46:15] [INFO] 127.0.0.1:51434 requested connection to imasdk.googleapis.com:443
+[2022-08-09 20:46:16] [INFO] 127.0.0.1:51446 requested connection to fundingchoicesmessages.google.com:443
+[2022-08-09 20:46:19] [INFO] 127.0.0.1:61883 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:46:47] [INFO] 127.0.0.1:51478 requested connection to www.google.com:443
+[2022-08-09 20:46:50] [INFO] 127.0.0.1:51509 requested connection to ajax.googleapis.com:443
+[2022-08-09 20:47:10] [INFO] 127.0.0.1:64639 requested connection to www.google.com.hk:443
+[2022-08-09 20:47:15] [INFO] 127.0.0.1:64657 requested connection to google.com:443
+[2022-08-09 20:49:57] [INFO] 127.0.0.1:61784 disconnected, 7428 bytes received, 3091 bytes sent, lasted for 412 seconds
+[2022-08-09 20:50:10] [INFO] 127.0.0.1:61764 disconnected, 3724 bytes received, 4226 bytes sent, lasted for 428 seconds
+[2022-08-09 20:50:16] [INFO] 127.0.0.1:51434 disconnected, 4419 bytes received, 1340 bytes sent, lasted for 241 seconds
+[2022-08-09 20:50:21] [INFO] 127.0.0.1:51446 disconnected, 5305 bytes received, 3730 bytes sent, lasted for 245 seconds
+[2022-08-09 20:50:21] [INFO] 127.0.0.1:61902 disconnected, 59702 bytes received, 3658 bytes sent, lasted for 248 seconds
+[2022-08-09 20:50:48] [INFO] 127.0.0.1:51478 disconnected, 6469 bytes received, 1473 bytes sent, lasted for 241 seconds
+[2022-08-09 20:50:51] [INFO] 127.0.0.1:51509 disconnected, 36835 bytes received, 1204 bytes sent, lasted for 241 seconds
+[2022-08-09 20:52:08] [INFO] 127.0.0.1:53872 requested connection to www.google.com:443
+[2022-08-09 20:52:19] [INFO] 127.0.0.1:53872 disconnected, 212 bytes received, 658 bytes sent, lasted for 11 seconds
+[2022-08-09 20:52:22] [INFO] 127.0.0.1:64639 disconnected, 6263 bytes received, 2040 bytes sent, lasted for 312 seconds
+[2022-08-09 20:52:22] [INFO] 127.0.0.1:64657 disconnected, 8626 bytes received, 1842 bytes sent, lasted for 307 seconds
+[2022-08-09 20:53:08] [INFO] 127.0.0.1:53971 requested connection to www.google.com:443
+[2022-08-09 20:53:20] [INFO] 127.0.0.1:53971 disconnected, 212 bytes received, 658 bytes sent, lasted for 12 seconds
+[2022-08-09 20:54:08] [INFO] 127.0.0.1:53995 requested connection to www.google.com:443
+[2022-08-09 20:54:19] [INFO] 127.0.0.1:53995 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:57:08] [INFO] 127.0.0.1:59983 requested connection to www.google.com:443
+[2022-08-09 20:57:19] [INFO] 127.0.0.1:59983 disconnected, 4286 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:58:08] [INFO] 127.0.0.1:54048 requested connection to www.google.com:443
+[2022-08-09 20:58:19] [INFO] 127.0.0.1:54048 disconnected, 4288 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 20:59:08] [INFO] 127.0.0.1:54085 requested connection to www.google.com:443
+[2022-08-09 20:59:19] [INFO] 127.0.0.1:54085 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 21:00:08] [INFO] 127.0.0.1:54097 requested connection to www.google.com:443
+[2022-08-09 21:00:20] [INFO] 127.0.0.1:54097 disconnected, 4287 bytes received, 581 bytes sent, lasted for 12 seconds
+[2022-08-09 21:02:08] [INFO] 127.0.0.1:54992 requested connection to www.google.com:443
+[2022-08-09 21:02:20] [INFO] 127.0.0.1:54992 disconnected, 4286 bytes received, 581 bytes sent, lasted for 12 seconds
+[2022-08-09 21:03:08] [INFO] 127.0.0.1:55078 requested connection to www.google.com:443
+[2022-08-09 21:03:20] [INFO] 127.0.0.1:55078 disconnected, 4288 bytes received, 581 bytes sent, lasted for 12 seconds
+[2022-08-09 21:04:09] [INFO] 127.0.0.1:50055 requested connection to www.google.com:443
+[2022-08-09 21:04:19] [INFO] 127.0.0.1:50055 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 21:05:09] [INFO] 127.0.0.1:54541 requested connection to www.google.com:443
+[2022-08-09 21:05:20] [INFO] 127.0.0.1:54541 disconnected, 4287 bytes received, 581 bytes sent, lasted for 11 seconds
+[2022-08-09 21:06:09] [INFO] 127.0.0.1:50148 requested connection to www.google.com:443
+[2022-08-09 21:06:19] [INFO] 127.0.0.1:50148 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 21:07:09] [INFO] 127.0.0.1:50214 requested connection to www.google.com:443
+[2022-08-09 21:07:19] [INFO] 127.0.0.1:50214 disconnected, 4288 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 21:08:09] [INFO] 127.0.0.1:50781 requested connection to www.google.com:443
+[2022-08-09 21:08:19] [INFO] 127.0.0.1:50781 disconnected, 4287 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 21:09:09] [INFO] 127.0.0.1:50802 requested connection to www.google.com:443
+[2022-08-09 21:09:19] [INFO] 127.0.0.1:50802 disconnected, 4286 bytes received, 581 bytes sent, lasted for 10 seconds
+[2022-08-09 21:09:53] [INFO] 127.0.0.1:50873 requested connection to content-autofill.googleapis.com:443
+[2022-08-09 21:10:09] [INFO] 127.0.0.1:49310 requested connection to www.gstatic.com:443
+[2022-08-09 21:10:09] [INFO] 127.0.0.1:49318 requested connection to www.google.com:443
+[2022-08-09 21:10:22] [INFO] 127.0.0.1:49338 requested connection to apis.google.com:443
+[2022-08-09 21:10:23] [INFO] 127.0.0.1:49345 requested connection to developers.google.com:443
+[2022-08-09 21:10:23] [INFO] 127.0.0.1:49348 requested connection to apis.google.com:443
+[2022-08-09 21:10:24] [INFO] 127.0.0.1:49351 requested connection to www.gstatic.com:443
+[2022-08-09 21:10:26] [INFO] 127.0.0.1:49354 requested connection to scone-pa.clients6.google.com:443
+[2022-08-09 21:10:32] [INFO] 127.0.0.1:49375 requested connection to content-developerprofiles-pa.googleapis.com:443
+[2022-08-09 21:10:33] [INFO] 127.0.0.1:49380 requested connection to r2---sn-2x3elnel.gvt1.com:443
+[2022-08-09 21:11:03] [INFO] 127.0.0.1:49380 disconnected, 0 bytes received, 517 bytes sent, lasted for 30 seconds
+[2022-08-09 21:11:04] [INFO] 127.0.0.1:49394 requested connection to r2---sn-2x3elnel.gvt1.com:443
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49318 disconnected, 6377 bytes received, 1472 bytes sent, lasted for 61 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49338 disconnected, 826 bytes received, 659 bytes sent, lasted for 48 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49345 disconnected, 8718 bytes received, 1522 bytes sent, lasted for 47 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:50873 disconnected, 6563 bytes received, 2044 bytes sent, lasted for 77 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49310 disconnected, 60367 bytes received, 1842 bytes sent, lasted for 61 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49348 disconnected, 151874 bytes received, 2023 bytes sent, lasted for 47 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49351 disconnected, 4357 bytes received, 1188 bytes sent, lasted for 46 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49354 disconnected, 12289 bytes received, 2641 bytes sent, lasted for 44 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49375 disconnected, 8596 bytes received, 2954 bytes sent, lasted for 38 seconds
+[2022-08-09 21:11:10] [INFO] 127.0.0.1:49394 disconnected, 0 bytes received, 517 bytes sent, lasted for 6 seconds

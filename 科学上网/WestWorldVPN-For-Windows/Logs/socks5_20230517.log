@@ -1,0 +1,143 @@
+[2023-05-17 09:33:41] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2023-05-17 09:33:42] [INFO] 127.0.0.1:56302 requested connection to optimizationguide-pa.googleapis.com:443
+[2023-05-17 09:33:43] [INFO] 127.0.0.1:56306 requested connection to optimizationguide-pa.googleapis.com:443
+[2023-05-17 09:33:43] [INFO] 127.0.0.1:56309 requested connection to optimizationguide-pa.googleapis.com:443
+[2023-05-17 09:33:44] [INFO] 127.0.0.1:56309 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 09:33:45] [INFO] 127.0.0.1:56314 requested connection to github.com:443
+[2023-05-17 09:33:46] [INFO] 127.0.0.1:56318 requested connection to avatars.githubusercontent.com:443
+[2023-05-17 09:33:46] [INFO] 127.0.0.1:56321 requested connection to camo.githubusercontent.com:443
+[2023-05-17 09:33:47] [INFO] 127.0.0.1:56324 requested connection to content-autofill.googleapis.com:443
+[2023-05-17 09:33:47] [INFO] 127.0.0.1:56335 requested connection to raw.githubusercontent.com:443
+[2023-05-17 09:33:47] [INFO] 127.0.0.1:56338 requested connection to raw.githubusercontent.com:443
+[2023-05-17 09:33:47] [INFO] 127.0.0.1:56338 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2023-05-17 09:33:48] [INFO] 127.0.0.1:56346 requested connection to collector.github.com:443
+[2023-05-17 09:33:48] [INFO] 127.0.0.1:56349 requested connection to api.github.com:443
+[2023-05-17 09:33:52] [INFO] 127.0.0.1:56353 requested connection to focus-creative-games.github.io:443
+[2023-05-17 09:33:53] [INFO] 127.0.0.1:56356 requested connection to focus-creative-games.github.io:443
+[2023-05-17 09:33:54] [INFO] 127.0.0.1:56369 requested connection to content-autofill.googleapis.com:443
+[2023-05-17 09:34:05] [INFO] 127.0.0.1:56380 requested connection to www.google.com:443
+[2023-05-17 09:34:15] [INFO] 127.0.0.1:56380 disconnected, 4450 bytes received, 591 bytes sent, lasted for 10 seconds
+[2023-05-17 09:34:25] [INFO] 127.0.0.1:56390 requested connection to accounts.google.com:443
+[2023-05-17 09:34:34] [INFO] 127.0.0.1:56393 requested connection to www.googleapis.com:443
+[2023-05-17 09:34:35] [INFO] 127.0.0.1:56396 requested connection to clients4.google.com:443
+[2023-05-17 09:34:43] [INFO] 127.0.0.1:56403 requested connection to accounts.google.com:443
+[2023-05-17 09:35:05] [INFO] 127.0.0.1:56356 disconnected, 437 bytes received, 599 bytes sent, lasted for 72 seconds
+[2023-05-17 09:35:05] [INFO] 127.0.0.1:56416 requested connection to www.google.com:443
+[2023-05-17 09:35:15] [INFO] 127.0.0.1:56416 disconnected, 4450 bytes received, 591 bytes sent, lasted for 10 seconds
+[2023-05-17 09:35:39] [INFO] 127.0.0.1:56435 requested connection to www.googleapis.com:443
+[2023-05-17 09:36:05] [INFO] 127.0.0.1:56453 requested connection to www.google.com:443
+[2023-05-17 09:36:15] [INFO] 127.0.0.1:56453 disconnected, 4450 bytes received, 591 bytes sent, lasted for 10 seconds
+[2023-05-17 09:38:43] [INFO] 127.0.0.1:56302 disconnected, 7163 bytes received, 1677 bytes sent, lasted for 301 seconds
+[2023-05-17 09:38:45] [INFO] 127.0.0.1:56306 disconnected, 57545 bytes received, 1232 bytes sent, lasted for 302 seconds
+[2023-05-17 09:38:47] [INFO] 127.0.0.1:56314 disconnected, 77963 bytes received, 2775 bytes sent, lasted for 302 seconds
+[2023-05-17 09:38:47] [INFO] 127.0.0.1:56321 disconnected, 6022 bytes received, 1252 bytes sent, lasted for 301 seconds
+[2023-05-17 09:38:48] [INFO] 127.0.0.1:56324 disconnected, 6299 bytes received, 1263 bytes sent, lasted for 301 seconds
+[2023-05-17 09:38:48] [INFO] 127.0.0.1:56318 disconnected, 16902 bytes received, 1640 bytes sent, lasted for 302 seconds
+[2023-05-17 09:38:48] [INFO] 127.0.0.1:56335 disconnected, 155895 bytes received, 1274 bytes sent, lasted for 301 seconds
+[2023-05-17 09:38:49] [INFO] 127.0.0.1:56346 disconnected, 4276 bytes received, 2419 bytes sent, lasted for 301 seconds
+[2023-05-17 09:38:53] [INFO] 127.0.0.1:56353 disconnected, 4850 bytes received, 1242 bytes sent, lasted for 301 seconds
+[2023-05-17 09:38:54] [INFO] 127.0.0.1:56349 disconnected, 6175 bytes received, 47312 bytes sent, lasted for 306 seconds
+[2023-05-17 09:38:55] [INFO] 127.0.0.1:56369 disconnected, 6282 bytes received, 1241 bytes sent, lasted for 301 seconds
+[2023-05-17 09:39:35] [INFO] 127.0.0.1:56393 disconnected, 6960 bytes received, 1334 bytes sent, lasted for 301 seconds
+[2023-05-17 09:39:45] [INFO] 127.0.0.1:56403 disconnected, 7767 bytes received, 2665 bytes sent, lasted for 302 seconds
+[2023-05-17 09:40:41] [INFO] 127.0.0.1:56435 disconnected, 28384 bytes received, 1313 bytes sent, lasted for 302 seconds
+[2023-05-17 09:40:41] [INFO] 127.0.0.1:56390 disconnected, 6632 bytes received, 1977 bytes sent, lasted for 376 seconds
+[2023-05-17 09:41:05] [INFO] 127.0.0.1:56553 requested connection to www.google.com:443
+[2023-05-17 09:41:05] [INFO] 127.0.0.1:56396 disconnected, 13696 bytes received, 4896 bytes sent, lasted for 390 seconds
+[2023-05-17 09:41:17] [INFO] 127.0.0.1:56553 disconnected, 4451 bytes received, 591 bytes sent, lasted for 12 seconds
+[2023-05-17 09:42:05] [INFO] 127.0.0.1:56591 requested connection to www.google.com:443
+[2023-05-17 09:42:16] [INFO] 127.0.0.1:56591 disconnected, 4450 bytes received, 591 bytes sent, lasted for 11 seconds
+[2023-05-17 09:43:05] [INFO] 127.0.0.1:56613 requested connection to www.google.com:443
+[2023-05-17 09:43:16] [INFO] 127.0.0.1:56613 disconnected, 4450 bytes received, 591 bytes sent, lasted for 11 seconds
+[2023-05-17 09:48:23] [INFO] 127.0.0.1:56750 requested connection to content-autofill.googleapis.com:443
+[2023-05-17 09:48:23] [INFO] 127.0.0.1:56757 requested connection to content-autofill.googleapis.com:443
+[2023-05-17 09:48:24] [INFO] 127.0.0.1:56757 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 09:48:55] [INFO] 127.0.0.1:56796 requested connection to www.google.com:443
+[2023-05-17 09:49:05] [INFO] 127.0.0.1:56807 requested connection to connect.facebook.net:443
+[2023-05-17 09:49:05] [INFO] 127.0.0.1:56810 requested connection to static.ads-twitter.com:443
+[2023-05-17 09:49:05] [INFO] 127.0.0.1:56813 requested connection to www.redditstatic.com:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56826 requested connection to www.google.com:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56829 requested connection to alb.reddit.com:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56834 requested connection to t.co:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56835 requested connection to analytics.twitter.com:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56836 requested connection to t.co:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56839 requested connection to analytics.twitter.com:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56841 requested connection to t.co:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56842 requested connection to analytics.twitter.com:443
+[2023-05-17 09:49:06] [INFO] 127.0.0.1:56850 requested connection to content-autofill.googleapis.com:443
+[2023-05-17 09:49:07] [INFO] 127.0.0.1:56839 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 09:49:07] [INFO] 127.0.0.1:56842 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 09:49:07] [INFO] 127.0.0.1:56834 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 09:49:07] [INFO] 127.0.0.1:56836 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 09:49:07] [INFO] 127.0.0.1:56854 requested connection to www.facebook.com:443
+[2023-05-17 09:49:07] [INFO] 127.0.0.1:56857 requested connection to www.facebook.com:443
+[2023-05-17 09:49:08] [INFO] 127.0.0.1:56857 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 09:49:16] [INFO] 127.0.0.1:56826 disconnected, 4449 bytes received, 591 bytes sent, lasted for 10 seconds
+[2023-05-17 09:50:06] [INFO] 127.0.0.1:56905 requested connection to www.google.com:443
+[2023-05-17 09:50:12] [INFO] 127.0.0.1:56807 disconnected, 164177 bytes received, 1251 bytes sent, lasted for 67 seconds
+[2023-05-17 09:50:13] [INFO] 127.0.0.1:56854 disconnected, 3015 bytes received, 2836 bytes sent, lasted for 66 seconds
+[2023-05-17 09:50:16] [INFO] 127.0.0.1:56905 disconnected, 4450 bytes received, 591 bytes sent, lasted for 10 seconds
+[2023-05-17 09:53:56] [INFO] 127.0.0.1:56750 disconnected, 7039 bytes received, 1933 bytes sent, lasted for 333 seconds
+[2023-05-17 09:54:06] [INFO] 127.0.0.1:56813 disconnected, 12479 bytes received, 1078 bytes sent, lasted for 301 seconds
+[2023-05-17 09:54:06] [INFO] 127.0.0.1:56810 disconnected, 20281 bytes received, 1125 bytes sent, lasted for 301 seconds
+[2023-05-17 09:54:07] [INFO] 127.0.0.1:56829 disconnected, 4401 bytes received, 1522 bytes sent, lasted for 301 seconds
+[2023-05-17 09:54:07] [INFO] 127.0.0.1:56841 disconnected, 4449 bytes received, 1960 bytes sent, lasted for 301 seconds
+[2023-05-17 09:54:07] [INFO] 127.0.0.1:56850 disconnected, 6169 bytes received, 1630 bytes sent, lasted for 301 seconds
+[2023-05-17 09:54:07] [INFO] 127.0.0.1:56835 disconnected, 4458 bytes received, 2071 bytes sent, lasted for 301 seconds
+[2023-05-17 09:54:28] [INFO] 127.0.0.1:56796 disconnected, 388832 bytes received, 3111 bytes sent, lasted for 333 seconds
+[2023-05-17 10:43:05] [INFO] 127.0.0.1:58599 requested connection to android.clients.google.com:443
+[2023-05-17 10:48:06] [INFO] 127.0.0.1:58599 disconnected, 9408 bytes received, 1138 bytes sent, lasted for 301 seconds
+[2023-05-17 13:36:04] [INFO] 127.0.0.1:61954 requested connection to clients4.google.com:443
+[2023-05-17 13:41:05] [INFO] 127.0.0.1:61954 disconnected, 2555 bytes received, 2302 bytes sent, lasted for 301 seconds
+[2023-05-17 14:40:25] [INFO] 127.0.0.1:52922 requested connection to www.googleapis.com:443
+[2023-05-17 14:40:26] [INFO] 127.0.0.1:52925 requested connection to clients4.google.com:443
+[2023-05-17 14:40:26] [INFO] 127.0.0.1:52928 requested connection to www.googleapis.com:443
+[2023-05-17 14:40:26] [INFO] 127.0.0.1:52928 disconnected, 0 bytes received, 773 bytes sent, lasted for 0 seconds
+[2023-05-17 14:40:27] [INFO] 127.0.0.1:52931 requested connection to accountcapabilities-pa.googleapis.com:443
+[2023-05-17 14:45:27] [INFO] 127.0.0.1:52925 disconnected, 2603 bytes received, 3024 bytes sent, lasted for 301 seconds
+[2023-05-17 14:45:27] [INFO] 127.0.0.1:52922 disconnected, 4636 bytes received, 2387 bytes sent, lasted for 302 seconds
+[2023-05-17 14:45:28] [INFO] 127.0.0.1:52931 disconnected, 6684 bytes received, 1668 bytes sent, lasted for 301 seconds
+[2023-05-17 15:25:31] [INFO] 127.0.0.1:54159 requested connection to www.google.com:443
+[2023-05-17 15:25:31] [INFO] 127.0.0.1:54163 requested connection to www.google.com:443
+[2023-05-17 15:25:31] [INFO] 127.0.0.1:54164 requested connection to www.google.com:443
+[2023-05-17 15:25:31] [INFO] 127.0.0.1:54168 requested connection to www.google.com:443
+[2023-05-17 15:25:32] [INFO] 127.0.0.1:54164 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 15:25:32] [INFO] 127.0.0.1:54163 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 15:25:32] [INFO] 127.0.0.1:54168 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2023-05-17 15:25:32] [INFO] 127.0.0.1:54174 requested connection to www.gstatic.com:443
+[2023-05-17 15:25:32] [INFO] 127.0.0.1:54175 requested connection to lh3.google.com:443
+[2023-05-17 15:25:32] [INFO] 127.0.0.1:54179 requested connection to www.gstatic.com:443
+[2023-05-17 15:25:35] [INFO] 127.0.0.1:54202 requested connection to content-autofill.googleapis.com:443
+[2023-05-17 15:30:32] [INFO] 127.0.0.1:54159 disconnected, 48144 bytes received, 2390 bytes sent, lasted for 301 seconds
+[2023-05-17 15:30:32] [INFO] 127.0.0.1:54175 disconnected, 7890 bytes received, 591 bytes sent, lasted for 300 seconds
+[2023-05-17 15:30:32] [INFO] 127.0.0.1:54174 disconnected, 5443 bytes received, 591 bytes sent, lasted for 300 seconds
+[2023-05-17 15:30:32] [INFO] 127.0.0.1:54179 disconnected, 5444 bytes received, 591 bytes sent, lasted for 300 seconds
+[2023-05-17 15:30:32] [INFO] 127.0.0.1:54412 requested connection to google.com:443
+[2023-05-17 15:30:36] [INFO] 127.0.0.1:54202 disconnected, 6283 bytes received, 1240 bytes sent, lasted for 301 seconds
+[2023-05-17 15:36:34] [INFO] 127.0.0.1:54412 disconnected, 9055 bytes received, 1851 bytes sent, lasted for 362 seconds
+[2023-05-17 17:11:48] [INFO] 127.0.0.1:56620 requested connection to mtalk.google.com:5228
+[2023-05-17 17:16:49] [INFO] 127.0.0.1:56620 disconnected, 7418 bytes received, 790 bytes sent, lasted for 301 seconds
+[2023-05-17 17:16:49] [INFO] 127.0.0.1:56887 requested connection to mtalk.google.com:5228
+[2023-05-17 17:21:51] [INFO] 127.0.0.1:56887 disconnected, 7418 bytes received, 790 bytes sent, lasted for 302 seconds
+[2023-05-17 17:21:51] [INFO] 127.0.0.1:57017 requested connection to mtalk.google.com:5228
+[2023-05-17 17:26:53] [INFO] 127.0.0.1:57017 disconnected, 7419 bytes received, 790 bytes sent, lasted for 302 seconds
+[2023-05-17 17:26:53] [INFO] 127.0.0.1:57084 requested connection to mtalk.google.com:5228
+[2023-05-17 17:31:54] [INFO] 127.0.0.1:57084 disconnected, 7420 bytes received, 790 bytes sent, lasted for 301 seconds
+[2023-05-17 17:31:54] [INFO] 127.0.0.1:57184 requested connection to mtalk.google.com:5228
+[2023-05-17 17:36:05] [INFO] 127.0.0.1:57308 requested connection to clients4.google.com:443
+[2023-05-17 17:36:57] [INFO] 127.0.0.1:57184 disconnected, 7420 bytes received, 790 bytes sent, lasted for 303 seconds
+[2023-05-17 17:36:57] [INFO] 127.0.0.1:57321 requested connection to mtalk.google.com:5228
+[2023-05-17 17:41:06] [INFO] 127.0.0.1:57308 disconnected, 3314 bytes received, 2301 bytes sent, lasted for 301 seconds
+[2023-05-17 17:41:58] [INFO] 127.0.0.1:57321 disconnected, 7419 bytes received, 790 bytes sent, lasted for 301 seconds
+[2023-05-17 17:41:58] [INFO] 127.0.0.1:57447 requested connection to mtalk.google.com:5228
+[2023-05-17 17:46:59] [INFO] 127.0.0.1:57447 disconnected, 7419 bytes received, 790 bytes sent, lasted for 301 seconds
+[2023-05-17 17:46:59] [INFO] 127.0.0.1:57593 requested connection to mtalk.google.com:5228
+[2023-05-17 17:52:01] [INFO] 127.0.0.1:57593 disconnected, 7419 bytes received, 790 bytes sent, lasted for 302 seconds
+[2023-05-17 17:52:01] [INFO] 127.0.0.1:57753 requested connection to mtalk.google.com:5228
+[2023-05-17 17:57:02] [INFO] 127.0.0.1:57753 disconnected, 7419 bytes received, 790 bytes sent, lasted for 301 seconds
+[2023-05-17 17:57:02] [INFO] 127.0.0.1:57927 requested connection to mtalk.google.com:5228
+[2023-05-17 18:02:03] [INFO] 127.0.0.1:57927 disconnected, 7419 bytes received, 790 bytes sent, lasted for 301 seconds
+[2023-05-17 18:02:03] [INFO] 127.0.0.1:58075 requested connection to mtalk.google.com:5228
+[2023-05-17 18:07:04] [INFO] 127.0.0.1:58075 disconnected, 7418 bytes received, 790 bytes sent, lasted for 301 seconds
+[2023-05-17 18:07:04] [INFO] 127.0.0.1:58186 requested connection to mtalk.google.com:5228
+[2023-05-17 18:11:34] [INFO] 127.0.0.1:58186 disconnected, 7418 bytes received, 790 bytes sent, lasted for 270 seconds

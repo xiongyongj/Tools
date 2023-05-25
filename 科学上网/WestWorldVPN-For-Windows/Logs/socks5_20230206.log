@@ -1,0 +1,33 @@
+[2023-02-06 09:51:49] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2023-02-06 09:51:58] [INFO] 127.0.0.1:51854 requested connection to cdp.cloud.unity3d.com:443
+[2023-02-06 09:52:05] [INFO] 127.0.0.1:51858 requested connection to default.exp-tas.com:443
+[2023-02-06 09:52:06] [INFO] 127.0.0.1:51863 requested connection to dc.services.visualstudio.com:443
+[2023-02-06 09:52:06] [INFO] 127.0.0.1:51864 requested connection to dc.services.visualstudio.com:443
+[2023-02-06 09:52:06] [INFO] 127.0.0.1:51865 requested connection to vsdebugger.azureedge.net:443
+[2023-02-06 09:52:06] [INFO] 127.0.0.1:51870 requested connection to marketplace.visualstudio.com:443
+[2023-02-06 09:52:07] [INFO] 127.0.0.1:51863 disconnected, 4848 bytes received, 832 bytes sent, lasted for 1 seconds
+[2023-02-06 09:52:07] [INFO] 127.0.0.1:51864 disconnected, 4848 bytes received, 836 bytes sent, lasted for 1 seconds
+[2023-02-06 09:52:08] [INFO] 127.0.0.1:51876 requested connection to fabianlauer.gallerycdn.vsassets.io:443
+[2023-02-06 09:52:08] [INFO] 127.0.0.1:51879 requested connection to mobile.events.data.microsoft.com:443
+[2023-02-06 09:52:09] [INFO] 127.0.0.1:51879 disconnected, 5029 bytes received, 16482 bytes sent, lasted for 1 seconds
+[2023-02-06 09:52:16] [INFO] 127.0.0.1:51882 requested connection to default.exp-tas.com:443
+[2023-02-06 09:52:17] [INFO] 127.0.0.1:51882 disconnected, 6489 bytes received, 933 bytes sent, lasted for 1 seconds
+[2023-02-06 09:52:18] [INFO] 127.0.0.1:51886 requested connection to mobile.events.data.microsoft.com:443
+[2023-02-06 09:52:19] [INFO] 127.0.0.1:51886 disconnected, 5029 bytes received, 3471 bytes sent, lasted for 1 seconds
+[2023-02-06 09:52:21] [INFO] 127.0.0.1:51890 requested connection to dc.services.visualstudio.com:443
+[2023-02-06 09:52:21] [INFO] 127.0.0.1:51893 requested connection to mobile.events.data.microsoft.com:443
+[2023-02-06 09:52:22] [INFO] 127.0.0.1:51890 disconnected, 4987 bytes received, 1420 bytes sent, lasted for 1 seconds
+[2023-02-06 09:52:23] [INFO] 127.0.0.1:51893 disconnected, 4988 bytes received, 1477 bytes sent, lasted for 2 seconds
+[2023-02-06 09:52:28] [INFO] 127.0.0.1:51901 requested connection to otel.gitkraken.com:4318
+[2023-02-06 09:52:30] [INFO] 127.0.0.1:51901 disconnected, 5643 bytes received, 2918 bytes sent, lasted for 2 seconds
+[2023-02-06 09:53:04] [INFO] 127.0.0.1:51865 disconnected, 48469651 bytes received, 1031 bytes sent, lasted for 58 seconds
+[2023-02-06 09:53:20] [INFO] 127.0.0.1:51917 requested connection to mobile.events.data.microsoft.com:443
+[2023-02-06 09:53:22] [INFO] 127.0.0.1:51920 requested connection to xbvpn.site:443
+[2023-02-06 09:53:22] [INFO] 127.0.0.1:51917 disconnected, 4986 bytes received, 1597 bytes sent, lasted for 2 seconds
+[2023-02-06 09:53:23] [INFO] 127.0.0.1:51923 requested connection to xbvpn.site:443
+[2023-02-06 09:53:24] [INFO] 127.0.0.1:51920 disconnected, 4531 bytes received, 1113 bytes sent, lasted for 2 seconds
+[2023-02-06 09:53:24] [INFO] 127.0.0.1:51854 disconnected, 11441 bytes received, 211134 bytes sent, lasted for 86 seconds
+[2023-02-06 09:53:24] [INFO] 127.0.0.1:51858 disconnected, 6932 bytes received, 1730 bytes sent, lasted for 79 seconds
+[2023-02-06 09:53:24] [INFO] 127.0.0.1:51923 disconnected, 0 bytes received, 364 bytes sent, lasted for 1 seconds
+[2023-02-06 09:53:24] [INFO] 127.0.0.1:51870 disconnected, 205087 bytes received, 3061 bytes sent, lasted for 78 seconds
+[2023-02-06 09:53:24] [INFO] 127.0.0.1:51876 disconnected, 8443 bytes received, 1550 bytes sent, lasted for 76 seconds

@@ -1,0 +1,34 @@
+[2022-11-03 09:41:51] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-11-03 09:41:51] [INFO] 127.0.0.1:59962 requested connection to xbvpn.site:443
+[2022-11-03 09:41:52] [INFO] 127.0.0.1:57339 requested connection to otheve.beacon.qq.com:443
+[2022-11-03 09:41:52] [INFO] 127.0.0.1:57342 requested connection to xbvpn.site:443
+[2022-11-03 09:41:54] [INFO] 127.0.0.1:59962 disconnected, 149607 bytes received, 967 bytes sent, lasted for 3 seconds
+[2022-11-03 09:41:54] [INFO] 127.0.0.1:57339 disconnected, 6230 bytes received, 2381 bytes sent, lasted for 2 seconds
+[2022-11-03 09:41:54] [INFO] 127.0.0.1:57342 disconnected, 16992 bytes received, 915 bytes sent, lasted for 2 seconds
+[2022-11-03 14:37:21] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-11-03 14:37:22] [INFO] 127.0.0.1:59380 requested connection to hm.baidu.com:443
+[2022-11-03 14:37:28] [INFO] 127.0.0.1:59384 requested connection to doc.weixin.qq.com:443
+[2022-11-03 14:37:32] [INFO] 127.0.0.1:59389 requested connection to vortex.data.microsoft.com:443
+[2022-11-03 14:37:33] [INFO] 127.0.0.1:59392 requested connection to config.uca.cloud.unity3d.com:443
+[2022-11-03 14:37:34] [INFO] 127.0.0.1:59395 requested connection to cdp.cloud.unity3d.com:443
+[2022-11-03 14:37:35] [INFO] 127.0.0.1:59399 requested connection to 54.151.139.47:9500
+[2022-11-03 14:37:36] [INFO] 127.0.0.1:59380 disconnected, 517 bytes received, 2716 bytes sent, lasted for 14 seconds
+[2022-11-03 14:37:36] [INFO] 127.0.0.1:59389 disconnected, 4986 bytes received, 1492 bytes sent, lasted for 4 seconds
+[2022-11-03 14:37:36] [INFO] 127.0.0.1:59399 disconnected, 353 bytes received, 225 bytes sent, lasted for 1 seconds
+[2022-11-03 14:37:36] [INFO] 127.0.0.1:59402 requested connection to docrp.weixin.qq.com:443
+[2022-11-03 14:37:36] [INFO] 127.0.0.1:59405 requested connection to 54.151.139.47:9500
+[2022-11-03 14:37:37] [INFO] 127.0.0.1:59405 disconnected, 306 bytes received, 901 bytes sent, lasted for 1 seconds
+[2022-11-03 14:37:37] [INFO] 127.0.0.1:59408 requested connection to 54.151.139.47:9500
+[2022-11-03 14:37:37] [INFO] 127.0.0.1:59408 disconnected, 750 bytes received, 431 bytes sent, lasted for 0 seconds
+[2022-11-03 14:37:37] [INFO] 127.0.0.1:59411 requested connection to 54.151.139.47:9500
+[2022-11-03 14:37:37] [INFO] 127.0.0.1:59411 disconnected, 3772 bytes received, 810 bytes sent, lasted for 0 seconds
+[2022-11-03 14:37:47] [INFO] 127.0.0.1:59416 requested connection to tile-service.weather.microsoft.com:80
+[2022-11-03 14:37:47] [INFO] 127.0.0.1:59416 disconnected, 333 bytes received, 208 bytes sent, lasted for 0 seconds
+[2022-11-03 14:37:48] [INFO] 127.0.0.1:59420 requested connection to cdp.cloud.unity3d.com:443
+[2022-11-03 14:37:49] [INFO] 127.0.0.1:59423 requested connection to xbvpn.site:443
+[2022-11-03 14:37:50] [INFO] 127.0.0.1:59384 disconnected, 13878 bytes received, 10458 bytes sent, lasted for 22 seconds
+[2022-11-03 14:37:50] [INFO] 127.0.0.1:59392 disconnected, 5544 bytes received, 1129 bytes sent, lasted for 17 seconds
+[2022-11-03 14:37:50] [INFO] 127.0.0.1:59395 disconnected, 4616 bytes received, 5205 bytes sent, lasted for 16 seconds
+[2022-11-03 14:37:50] [INFO] 127.0.0.1:59402 disconnected, 5134 bytes received, 1488 bytes sent, lasted for 14 seconds
+[2022-11-03 14:37:50] [INFO] 127.0.0.1:59420 disconnected, 4064 bytes received, 1611 bytes sent, lasted for 2 seconds
+[2022-11-03 14:37:50] [INFO] 127.0.0.1:59423 disconnected, 2789 bytes received, 823 bytes sent, lasted for 1 seconds

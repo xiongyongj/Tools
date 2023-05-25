@@ -1,0 +1,95 @@
+[2022-10-28 01:05:54] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-10-28 01:06:12] [INFO] 127.0.0.1:49736 requested connection to config.uca.cloud.unity3d.com:443
+[2022-10-28 01:06:14] [INFO] 127.0.0.1:49749 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-28 01:06:16] [INFO] 127.0.0.1:49756 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:06:18] [INFO] 127.0.0.1:49756 disconnected, 2616 bytes received, 674 bytes sent, lasted for 2 seconds
+[2022-10-28 01:06:18] [INFO] 127.0.0.1:49765 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:06:19] [INFO] 127.0.0.1:49765 disconnected, 2569 bytes received, 1379 bytes sent, lasted for 1 seconds
+[2022-10-28 01:06:19] [INFO] 127.0.0.1:49769 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:06:20] [INFO] 127.0.0.1:49769 disconnected, 3014 bytes received, 911 bytes sent, lasted for 1 seconds
+[2022-10-28 01:06:20] [INFO] 127.0.0.1:49776 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:06:21] [INFO] 127.0.0.1:49776 disconnected, 6035 bytes received, 1259 bytes sent, lasted for 1 seconds
+[2022-10-28 01:06:24] [INFO] 127.0.0.1:49788 requested connection to tile-service.weather.microsoft.com:80
+[2022-10-28 01:06:25] [INFO] 127.0.0.1:49788 disconnected, 333 bytes received, 208 bytes sent, lasted for 1 seconds
+[2022-10-28 01:07:33] [INFO] 127.0.0.1:49984 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:07:34] [INFO] 127.0.0.1:49984 disconnected, 2616 bytes received, 674 bytes sent, lasted for 1 seconds
+[2022-10-28 01:07:34] [INFO] 127.0.0.1:50001 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:07:35] [INFO] 127.0.0.1:50001 disconnected, 2569 bytes received, 1379 bytes sent, lasted for 1 seconds
+[2022-10-28 01:07:35] [INFO] 127.0.0.1:50007 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:07:36] [INFO] 127.0.0.1:50007 disconnected, 3014 bytes received, 911 bytes sent, lasted for 1 seconds
+[2022-10-28 01:07:50] [INFO] 127.0.0.1:50042 requested connection to docs.qq.com:443
+[2022-10-28 01:08:54] [INFO] 127.0.0.1:50225 requested connection to doc.weixin.qq.com:443
+[2022-10-28 01:09:03] [INFO] 127.0.0.1:50251 requested connection to docrp.weixin.qq.com:443
+[2022-10-28 01:10:51] [INFO] 127.0.0.1:50042 disconnected, 4994 bytes received, 1208 bytes sent, lasted for 181 seconds
+[2022-10-28 01:11:14] [INFO] 127.0.0.1:49736 disconnected, 5543 bytes received, 1129 bytes sent, lasted for 302 seconds
+[2022-10-28 01:11:50] [INFO] 127.0.0.1:50225 disconnected, 9291 bytes received, 7707 bytes sent, lasted for 176 seconds
+[2022-10-28 01:11:55] [INFO] 127.0.0.1:50664 requested connection to doc.weixin.qq.com:443
+[2022-10-28 01:12:33] [INFO] 127.0.0.1:49749 disconnected, 6088 bytes received, 20710 bytes sent, lasted for 379 seconds
+[2022-10-28 01:12:50] [INFO] 127.0.0.1:50792 requested connection to docs.qq.com:443
+[2022-10-28 01:13:14] [INFO] 127.0.0.1:50847 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-28 01:13:31] [INFO] 127.0.0.1:50887 requested connection to oss.mail.qq.com:443
+[2022-10-28 01:14:34] [INFO] 127.0.0.1:51036 requested connection to crl.verisign.com:80
+[2022-10-28 01:14:35] [INFO] 127.0.0.1:51036 disconnected, 1214 bytes received, 204 bytes sent, lasted for 1 seconds
+[2022-10-28 01:14:35] [INFO] 127.0.0.1:51040 requested connection to x1.c.lencr.org:80
+[2022-10-28 01:14:36] [INFO] 127.0.0.1:51040 disconnected, 266 bytes received, 222 bytes sent, lasted for 1 seconds
+[2022-10-28 01:14:36] [INFO] 127.0.0.1:51046 requested connection to ctldl.windowsupdate.com:80
+[2022-10-28 01:14:37] [INFO] 127.0.0.1:51046 disconnected, 247 bytes received, 282 bytes sent, lasted for 1 seconds
+[2022-10-28 01:14:49] [INFO] 127.0.0.1:50887 disconnected, 393 bytes received, 2440 bytes sent, lasted for 78 seconds
+[2022-10-28 01:14:50] [INFO] 127.0.0.1:51078 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-28 01:15:04] [INFO] 127.0.0.1:50251 disconnected, 5725 bytes received, 1891 bytes sent, lasted for 361 seconds
+[2022-10-28 01:15:19] [INFO] 127.0.0.1:51145 requested connection to config.uca.cloud.unity3d.com:443
+[2022-10-28 01:15:20] [INFO] 127.0.0.1:51155 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:15:21] [INFO] 127.0.0.1:51155 disconnected, 2616 bytes received, 674 bytes sent, lasted for 1 seconds
+[2022-10-28 01:15:23] [INFO] 127.0.0.1:51162 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:15:24] [INFO] 127.0.0.1:51162 disconnected, 2569 bytes received, 1379 bytes sent, lasted for 1 seconds
+[2022-10-28 01:15:24] [INFO] 127.0.0.1:51170 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:15:25] [INFO] 127.0.0.1:51170 disconnected, 3014 bytes received, 911 bytes sent, lasted for 1 seconds
+[2022-10-28 01:15:25] [INFO] 127.0.0.1:51175 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:15:26] [INFO] 127.0.0.1:51175 disconnected, 6035 bytes received, 1259 bytes sent, lasted for 1 seconds
+[2022-10-28 01:15:30] [INFO] 127.0.0.1:51190 requested connection to 182.254.118.119:80
+[2022-10-28 01:15:32] [INFO] 127.0.0.1:51190 disconnected, 217 bytes received, 169 bytes sent, lasted for 2 seconds
+[2022-10-28 01:15:50] [INFO] 127.0.0.1:50664 disconnected, 5621 bytes received, 7847 bytes sent, lasted for 235 seconds
+[2022-10-28 01:15:53] [INFO] 127.0.0.1:50792 disconnected, 614 bytes received, 1166 bytes sent, lasted for 183 seconds
+[2022-10-28 01:15:56] [INFO] 127.0.0.1:51254 requested connection to doc.weixin.qq.com:443
+[2022-10-28 01:16:04] [INFO] 127.0.0.1:51274 requested connection to docrp.weixin.qq.com:443
+[2022-10-28 01:16:08] [INFO] 127.0.0.1:51284 requested connection to v10.events.data.microsoft.com:443
+[2022-10-28 01:16:09] [INFO] 127.0.0.1:51284 disconnected, 5358 bytes received, 5640 bytes sent, lasted for 1 seconds
+[2022-10-28 01:17:45] [INFO] 127.0.0.1:51511 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:17:47] [INFO] 127.0.0.1:51511 disconnected, 2616 bytes received, 674 bytes sent, lasted for 2 seconds
+[2022-10-28 01:17:47] [INFO] 127.0.0.1:51519 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:17:50] [INFO] 127.0.0.1:51519 disconnected, 2569 bytes received, 1379 bytes sent, lasted for 3 seconds
+[2022-10-28 01:17:50] [INFO] 127.0.0.1:51526 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:17:50] [INFO] 127.0.0.1:51529 requested connection to docs.qq.com:443
+[2022-10-28 01:17:51] [INFO] 127.0.0.1:51526 disconnected, 3014 bytes received, 911 bytes sent, lasted for 1 seconds
+[2022-10-28 01:17:51] [INFO] 127.0.0.1:51536 requested connection to api.metaspace.cloud:443
+[2022-10-28 01:17:54] [INFO] 127.0.0.1:51536 disconnected, 6035 bytes received, 1259 bytes sent, lasted for 3 seconds
+[2022-10-28 01:18:04] [INFO] 127.0.0.1:51566 requested connection to settings-win.data.microsoft.com:443
+[2022-10-28 01:18:11] [INFO] 127.0.0.1:51566 disconnected, 4039 bytes received, 1872 bytes sent, lasted for 7 seconds
+[2022-10-28 01:19:10] [INFO] 127.0.0.1:51274 disconnected, 775 bytes received, 1391 bytes sent, lasted for 186 seconds
+[2022-10-28 01:19:49] [INFO] 127.0.0.1:51145 disconnected, 6128 bytes received, 1940 bytes sent, lasted for 270 seconds
+[2022-10-28 01:19:49] [INFO] 127.0.0.1:50847 disconnected, 6272 bytes received, 15939 bytes sent, lasted for 395 seconds
+[2022-10-28 01:19:49] [INFO] 127.0.0.1:51078 disconnected, 4248 bytes received, 2844 bytes sent, lasted for 299 seconds
+[2022-10-28 01:19:49] [INFO] 127.0.0.1:51820 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-28 01:19:50] [INFO] 127.0.0.1:51254 disconnected, 9350 bytes received, 7888 bytes sent, lasted for 234 seconds
+[2022-10-28 01:19:56] [INFO] 127.0.0.1:51836 requested connection to doc.weixin.qq.com:443
+[2022-10-28 01:20:04] [INFO] 127.0.0.1:51857 requested connection to docrp.weixin.qq.com:443
+[2022-10-28 01:20:20] [INFO] 127.0.0.1:51895 requested connection to cdp.cloud.unity3d.com:443
+[2022-10-28 01:20:52] [INFO] 127.0.0.1:51529 disconnected, 585 bytes received, 1166 bytes sent, lasted for 182 seconds
+[2022-10-28 01:21:30] [INFO] 127.0.0.1:52046 requested connection to update.code.visualstudio.com:443
+[2022-10-28 01:22:50] [INFO] 127.0.0.1:52225 requested connection to docs.qq.com:443
+[2022-10-28 01:22:50] [INFO] 127.0.0.1:51836 disconnected, 9346 bytes received, 7705 bytes sent, lasted for 174 seconds
+[2022-10-28 01:22:52] [INFO] 127.0.0.1:52231 requested connection to doc.weixin.qq.com:443
+[2022-10-28 01:23:21] [INFO] 127.0.0.1:51895 disconnected, 4064 bytes received, 1634 bytes sent, lasted for 181 seconds
+[2022-10-28 01:23:35] [INFO] 127.0.0.1:52328 requested connection to oss.mail.qq.com:443
+[2022-10-28 01:23:43] [INFO] 127.0.0.1:52046 disconnected, 6367 bytes received, 1135 bytes sent, lasted for 133 seconds
+[2022-10-28 01:24:53] [INFO] 127.0.0.1:52328 disconnected, 393 bytes received, 2138 bytes sent, lasted for 78 seconds
+[2022-10-28 01:25:47] [INFO] 127.0.0.1:52631 requested connection to 182.254.116.117:80
+[2022-10-28 01:25:48] [INFO] 127.0.0.1:52631 disconnected, 217 bytes received, 169 bytes sent, lasted for 1 seconds
+[2022-10-28 01:25:50] [INFO] 127.0.0.1:52231 disconnected, 9316 bytes received, 7704 bytes sent, lasted for 178 seconds
+[2022-10-28 01:25:51] [INFO] 127.0.0.1:52225 disconnected, 585 bytes received, 1166 bytes sent, lasted for 181 seconds
+[2022-10-28 01:25:54] [INFO] 127.0.0.1:52653 requested connection to doc.weixin.qq.com:443
+[2022-10-28 01:25:58] [INFO] 127.0.0.1:52664 requested connection to xbvpn.site:443
+[2022-10-28 01:26:00] [INFO] 127.0.0.1:51857 disconnected, 1242 bytes received, 1849 bytes sent, lasted for 356 seconds
+[2022-10-28 01:26:00] [INFO] 127.0.0.1:52664 disconnected, 4537 bytes received, 771 bytes sent, lasted for 2 seconds
+[2022-10-28 01:26:00] [INFO] 127.0.0.1:52653 disconnected, 4363 bytes received, 6679 bytes sent, lasted for 6 seconds
+[2022-10-28 01:26:00] [INFO] 127.0.0.1:51820 disconnected, 5352 bytes received, 17777 bytes sent, lasted for 371 seconds

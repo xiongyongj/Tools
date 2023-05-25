@@ -1,0 +1,434 @@
+--------------------------------info[09:11:20]--------------------------------
+System.Exception: 程序运行目录 : C:\Users\zhangwei\Desktop\WestWorldVPN-For-Windows\WestWorldVPN.exe
+
+ 
+--------------------------------info[09:11:20]--------------------------------
+System.Exception: Main exe start up 1.06
+
+ 
+--------------------------------info[09:11:20]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=17986a421461f8cbe1b049cb5e5120fe
+
+ 
+--------------------------------info[09:11:24]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[09:11:25]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=2c7d25716d23036880133b3f03ee70e5
+
+ 
+--------------------------------info[09:11:25]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver prefixes http://127.0.0.1:21883/pac/
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver at 127.0.0.1:21883
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver running...
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[09:11:30]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[09:50:17]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:02:06]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:02:06]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:02:07]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:28:01]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:59:37]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:00:08]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:00:08]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:31:15]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:38:24]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[12:38:25]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=4b07432ea6afbd3cd77310fe6c15e6ef
+
+ 
+--------------------------------info[12:38:25]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[12:38:26]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 WestWorldVPN.Component.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[13:37:20]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[13:37:21]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=48b37a9bbf06fef6f0e5430189855580
+
+ 
+--------------------------------info[13:37:21]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver prefixes http://127.0.0.1:21883/pac/
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver at 127.0.0.1:21883
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:37:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:39:33]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:39:33]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:44:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:44:23]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:54:33]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:54:33]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:25:07]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:24:42]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[15:24:43]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=9c36f7a3fdc9b039f19903b447f25e54
+
+ 
+--------------------------------info[15:24:43]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[15:24:43]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 WestWorldVPN.Component.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[16:40:17]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[16:40:18]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=a1e9b64f2563a67a4ba14119b1b9735d
+
+ 
+--------------------------------info[16:40:18]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[16:40:41]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:40:52]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadCnIpCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:40:59]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------info[16:41:03]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:41:04]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadCnIpCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:41:06]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------info[16:49:47]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[16:49:48]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=44833eb85fe925363c1acacf6fe100c3
+
+ 
+--------------------------------info[16:49:48]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:50:05]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadCnIpCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:50:12]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------info[16:50:13]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[16:50:20]--------------------------------
+System.Exception: PAC Webserver prefixes http://127.0.0.1:21883/pac/
+
+ 
+--------------------------------info[16:50:20]--------------------------------
+System.Exception: PAC Webserver running...
+
+ 
+--------------------------------info[16:50:20]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:50:20]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:50:20]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:50:20]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:50:20]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:50:20]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[16:50:34]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 WestWorldVPN.Component.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[16:50:36]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------info[16:50:42]--------------------------------
+System.Exception: 程序运行目录 : C:\Users\zhangwei\Desktop\WestWorldVPN-For-Windows\WestWorldVPN.exe
+
+ 
+--------------------------------info[16:50:42]--------------------------------
+System.Exception: Main exe start up 1.06
+
+ 
+--------------------------------info[16:50:42]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=d1b3a2cded477e26871a9209499cc197
+
+ 
+--------------------------------info[16:51:02]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[16:51:03]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=1d695f741b868eefc81c51406d7a1258
+
+ 
+--------------------------------info[16:51:03]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:51:05]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadCnIpCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:51:06]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------info[16:51:52]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:51:55]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadCnIpCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------未能解析此远程名称: 'raw.githubusercontent.com'[16:51:58]--------------------------------
+System.Net.WebException: 未能解析此远程名称: 'raw.githubusercontent.com'
+   在 WestWorldVPN.Library.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver prefixes http://127.0.0.1:21883/pac/
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver at 127.0.0.1:21883
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver running...
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:52:05]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:52:07]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:03:28]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:03:28]--------------------------------
+System.Exception: PAC Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:49:24]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[17:49:25]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=9a6dbc474fc805ae44e89c0ac2f6d474
+
+ 
+--------------------------------info[17:49:25]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[17:49:26]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 WestWorldVPN.Component.HttpWebServer.<Run>b__4_0(Object o)
+
+ 

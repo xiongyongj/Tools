@@ -1,0 +1,12 @@
+--------------------------------info[14:47:27]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/account/get-info
+
+ 
+--------------------------------info[14:47:28]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/system/default/init?config_version=1220d2b05ecd5ebfc8e7a35e119500d6
+
+ 
+--------------------------------info[14:47:28]--------------------------------
+System.Exception: 网络请求地址：https://xbvpn.site/user/node/get-list?limit=500&net_type=TROJAN&request_platform=APP_WINDOWS
+
+ 

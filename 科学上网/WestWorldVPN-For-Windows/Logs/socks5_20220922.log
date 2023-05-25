@@ -1,0 +1,207 @@
+[2022-09-22 10:27:55] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-09-22 10:28:02] [INFO] 127.0.0.1:51101 requested connection to www.google.com:443
+[2022-09-22 10:28:02] [INFO] 127.0.0.1:51104 requested connection to www.google.com:443
+[2022-09-22 10:28:02] [INFO] 127.0.0.1:51107 requested connection to www.google.com:443
+[2022-09-22 10:28:02] [INFO] 127.0.0.1:51110 requested connection to www.google.com:443
+[2022-09-22 10:28:03] [INFO] 127.0.0.1:51115 requested connection to www.google.com:443
+[2022-09-22 10:28:03] [INFO] 127.0.0.1:51116 requested connection to www.google.com:443
+[2022-09-22 10:28:04] [INFO] 127.0.0.1:51121 requested connection to www.google.com.hk:443
+[2022-09-22 10:28:04] [INFO] 127.0.0.1:51122 requested connection to www.gstatic.com:443
+[2022-09-22 10:28:08] [INFO] 127.0.0.1:51131 requested connection to firestore.googleapis.com:443
+[2022-09-22 10:28:23] [ERROR] 127.0.0.1:51101 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:23] [INFO] 127.0.0.1:51101 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:23] [INFO] 127.0.0.1:51137 requested connection to www.google.com:443
+[2022-09-22 10:28:23] [ERROR] 127.0.0.1:51104 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:23] [INFO] 127.0.0.1:51104 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:23] [INFO] 127.0.0.1:51140 requested connection to www.google.com:443
+[2022-09-22 10:28:23] [ERROR] 127.0.0.1:51107 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:23] [INFO] 127.0.0.1:51107 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:23] [INFO] 127.0.0.1:51143 requested connection to www.google.com:443
+[2022-09-22 10:28:23] [ERROR] 127.0.0.1:51110 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:23] [INFO] 127.0.0.1:51110 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:23] [INFO] 127.0.0.1:51146 requested connection to www.google.com:443
+[2022-09-22 10:28:24] [ERROR] 127.0.0.1:51115 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:24] [INFO] 127.0.0.1:51115 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:24] [ERROR] 127.0.0.1:51116 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:24] [INFO] 127.0.0.1:51116 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:24] [INFO] 127.0.0.1:51150 requested connection to www.google.com:443
+[2022-09-22 10:28:24] [INFO] 127.0.0.1:51151 requested connection to www.google.com:443
+[2022-09-22 10:28:25] [ERROR] 127.0.0.1:51121 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:25] [INFO] 127.0.0.1:51121 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:25] [ERROR] 127.0.0.1:51122 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:25] [INFO] 127.0.0.1:51122 disconnected, 0 bytes received, 714 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:25] [INFO] 127.0.0.1:51156 requested connection to www.google.com.hk:443
+[2022-09-22 10:28:25] [INFO] 127.0.0.1:51157 requested connection to www.gstatic.com:443
+[2022-09-22 10:28:29] [ERROR] 127.0.0.1:51131 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:29] [INFO] 127.0.0.1:51131 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:29] [INFO] 127.0.0.1:51162 requested connection to firestore.googleapis.com:443
+[2022-09-22 10:28:44] [ERROR] 127.0.0.1:51137 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:44] [INFO] 127.0.0.1:51137 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:44] [ERROR] 127.0.0.1:51140 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:44] [INFO] 127.0.0.1:51140 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:44] [ERROR] 127.0.0.1:51143 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:44] [INFO] 127.0.0.1:51143 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:44] [ERROR] 127.0.0.1:51146 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:44] [INFO] 127.0.0.1:51146 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:45] [INFO] 127.0.0.1:51168 requested connection to www.google.com:443
+[2022-09-22 10:28:45] [ERROR] 127.0.0.1:51150 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:45] [INFO] 127.0.0.1:51150 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:45] [ERROR] 127.0.0.1:51151 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:45] [INFO] 127.0.0.1:51151 disconnected, 0 bytes received, 517 bytes sent, lasted for 21 seconds
+[2022-09-22 10:28:47] [ERROR] 127.0.0.1:51157 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:47] [INFO] 127.0.0.1:51157 disconnected, 0 bytes received, 517 bytes sent, lasted for 22 seconds
+[2022-09-22 10:28:47] [ERROR] 127.0.0.1:51156 cannot establish connection to remote server 139.227.182.176:28179: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2022-09-22 10:28:47] [INFO] 127.0.0.1:51156 disconnected, 0 bytes received, 517 bytes sent, lasted for 22 seconds
+[2022-09-22 10:29:01] [WARN] trojan service (client) started at 127.0.0.1:21881
+[2022-09-22 10:29:03] [INFO] 127.0.0.1:51189 requested connection to firestore.googleapis.com:443
+[2022-09-22 10:29:03] [INFO] 127.0.0.1:51192 requested connection to www.google.com:443
+[2022-09-22 10:29:03] [INFO] 127.0.0.1:51195 requested connection to www.google.com.hk:443
+[2022-09-22 10:29:03] [INFO] 127.0.0.1:51196 requested connection to www.gstatic.com:443
+[2022-09-22 10:29:04] [INFO] 127.0.0.1:51201 requested connection to www.youtube.com:443
+[2022-09-22 10:29:04] [INFO] 127.0.0.1:51204 requested connection to i.ytimg.com:443
+[2022-09-22 10:29:04] [INFO] 127.0.0.1:51207 requested connection to id.google.com:443
+[2022-09-22 10:29:07] [INFO] 127.0.0.1:51212 requested connection to apis.google.com:443
+[2022-09-22 10:29:11] [INFO] 127.0.0.1:51222 requested connection to play.google.com:443
+[2022-09-22 10:29:11] [INFO] 127.0.0.1:51225 requested connection to play.google.com:443
+[2022-09-22 10:29:13] [INFO] 127.0.0.1:51195 disconnected, 4419 bytes received, 591 bytes sent, lasted for 10 seconds
+[2022-09-22 10:29:21] [INFO] 127.0.0.1:51241 requested connection to content-autofill.googleapis.com:443
+[2022-09-22 10:29:21] [INFO] 127.0.0.1:51244 requested connection to connect.facebook.net:443
+[2022-09-22 10:29:21] [INFO] 127.0.0.1:51247 requested connection to static.ads-twitter.com:443
+[2022-09-22 10:29:21] [INFO] 127.0.0.1:51251 requested connection to www.redditstatic.com:443
+[2022-09-22 10:29:22] [INFO] 127.0.0.1:51262 requested connection to t.co:443
+[2022-09-22 10:29:22] [INFO] 127.0.0.1:51266 requested connection to analytics.twitter.com:443
+[2022-09-22 10:29:22] [INFO] 127.0.0.1:51267 requested connection to t.co:443
+[2022-09-22 10:29:22] [INFO] 127.0.0.1:51269 requested connection to analytics.twitter.com:443
+[2022-09-22 10:29:22] [INFO] 127.0.0.1:51270 requested connection to t.co:443
+[2022-09-22 10:29:22] [INFO] 127.0.0.1:51271 requested connection to analytics.twitter.com:443
+[2022-09-22 10:29:22] [INFO] 127.0.0.1:51278 requested connection to alb.reddit.com:443
+[2022-09-22 10:29:23] [INFO] 127.0.0.1:51262 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-09-22 10:29:23] [INFO] 127.0.0.1:51270 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-09-22 10:29:23] [INFO] 127.0.0.1:51269 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-09-22 10:29:23] [INFO] 127.0.0.1:51271 disconnected, 0 bytes received, 517 bytes sent, lasted for 1 seconds
+[2022-09-22 10:29:23] [INFO] 127.0.0.1:51293 requested connection to www.facebook.com:443
+[2022-09-22 10:29:59] [INFO] 127.0.0.1:51312 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-09-22 10:29:59] [INFO] 127.0.0.1:51315 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-09-22 10:30:00] [INFO] 127.0.0.1:51318 requested connection to optimizationguide-pa.googleapis.com:443
+[2022-09-22 10:30:00] [INFO] 127.0.0.1:51318 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-22 10:30:28] [INFO] 127.0.0.1:51244 disconnected, 138209 bytes received, 1244 bytes sent, lasted for 67 seconds
+[2022-09-22 10:30:33] [INFO] 127.0.0.1:51293 disconnected, 3577 bytes received, 2366 bytes sent, lasted for 70 seconds
+[2022-09-22 10:32:28] [INFO] 127.0.0.1:51402 requested connection to www.facebook.com:443
+[2022-09-22 10:32:48] [INFO] 127.0.0.1:51416 requested connection to accounts.google.com:443
+[2022-09-22 10:33:05] [INFO] 127.0.0.1:51204 disconnected, 6033 bytes received, 1530 bytes sent, lasted for 241 seconds
+[2022-09-22 10:33:09] [INFO] 127.0.0.1:51207 disconnected, 8345 bytes received, 1905 bytes sent, lasted for 245 seconds
+[2022-09-22 10:33:11] [INFO] 127.0.0.1:51196 disconnected, 128917 bytes received, 2604 bytes sent, lasted for 248 seconds
+[2022-09-22 10:33:11] [INFO] 127.0.0.1:51212 disconnected, 80462 bytes received, 1889 bytes sent, lasted for 244 seconds
+[2022-09-22 10:33:11] [INFO] 127.0.0.1:51222 disconnected, 7865 bytes received, 1111 bytes sent, lasted for 240 seconds
+[2022-09-22 10:33:12] [INFO] 127.0.0.1:51225 disconnected, 8344 bytes received, 2034 bytes sent, lasted for 241 seconds
+[2022-09-22 10:33:15] [INFO] 127.0.0.1:51201 disconnected, 2603469 bytes received, 5214 bytes sent, lasted for 251 seconds
+[2022-09-22 10:33:21] [INFO] 127.0.0.1:51431 requested connection to connect.facebook.net:443
+[2022-09-22 10:34:00] [INFO] 127.0.0.1:51312 disconnected, 6927 bytes received, 1376 bytes sent, lasted for 241 seconds
+[2022-09-22 10:34:00] [INFO] 127.0.0.1:51315 disconnected, 281039 bytes received, 1216 bytes sent, lasted for 241 seconds
+[2022-09-22 10:34:28] [INFO] 127.0.0.1:51431 disconnected, 136009 bytes received, 1244 bytes sent, lasted for 67 seconds
+[2022-09-22 10:34:30] [INFO] 127.0.0.1:51402 disconnected, 3826 bytes received, 9257 bytes sent, lasted for 122 seconds
+[2022-09-22 10:35:53] [INFO] 127.0.0.1:51192 disconnected, 1737790 bytes received, 19815 bytes sent, lasted for 410 seconds
+[2022-09-22 10:35:53] [INFO] 127.0.0.1:51504 requested connection to www.google.com:443
+[2022-09-22 10:35:59] [INFO] 127.0.0.1:51189 disconnected, 20350 bytes received, 8162 bytes sent, lasted for 416 seconds
+[2022-09-22 10:35:59] [INFO] 127.0.0.1:51525 requested connection to firestore.googleapis.com:443
+[2022-09-22 10:35:59] [INFO] 127.0.0.1:51528 requested connection to firestore.googleapis.com:443
+[2022-09-22 10:35:59] [INFO] 127.0.0.1:51528 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-22 10:36:45] [INFO] 127.0.0.1:51574 requested connection to clients2.google.com:443
+[2022-09-22 10:37:49] [INFO] 127.0.0.1:51416 disconnected, 7005 bytes received, 1399 bytes sent, lasted for 301 seconds
+[2022-09-22 10:38:21] [INFO] 127.0.0.1:51247 disconnected, 4947 bytes received, 1627 bytes sent, lasted for 540 seconds
+[2022-09-22 10:38:21] [INFO] 127.0.0.1:51251 disconnected, 12878 bytes received, 1347 bytes sent, lasted for 540 seconds
+[2022-09-22 10:38:22] [INFO] 127.0.0.1:51266 disconnected, 7032 bytes received, 5014 bytes sent, lasted for 540 seconds
+[2022-09-22 10:38:22] [INFO] 127.0.0.1:51267 disconnected, 6053 bytes received, 4885 bytes sent, lasted for 540 seconds
+[2022-09-22 10:38:23] [INFO] 127.0.0.1:51278 disconnected, 4835 bytes received, 2244 bytes sent, lasted for 541 seconds
+[2022-09-22 10:38:52] [INFO] 127.0.0.1:51241 disconnected, 8571 bytes received, 3860 bytes sent, lasted for 571 seconds
+[2022-09-22 10:40:37] [INFO] 127.0.0.1:51652 requested connection to firestore.googleapis.com:443
+[2022-09-22 10:40:47] [INFO] 127.0.0.1:51574 disconnected, 9680 bytes received, 1076 bytes sent, lasted for 242 seconds
+[2022-09-22 10:40:56] [INFO] 127.0.0.1:51670 requested connection to content-autofill.googleapis.com:443
+[2022-09-22 10:44:38] [INFO] 127.0.0.1:51652 disconnected, 14969 bytes received, 1250 bytes sent, lasted for 241 seconds
+[2022-09-22 10:44:53] [INFO] 127.0.0.1:51504 disconnected, 406683 bytes received, 4864 bytes sent, lasted for 540 seconds
+[2022-09-22 10:44:56] [INFO] 127.0.0.1:51670 disconnected, 1824 bytes received, 1498 bytes sent, lasted for 240 seconds
+[2022-09-22 10:46:15] [INFO] 127.0.0.1:51758 requested connection to www.google.com:443
+[2022-09-22 10:52:49] [INFO] 127.0.0.1:51758 disconnected, 207871 bytes received, 1859 bytes sent, lasted for 394 seconds
+[2022-09-22 11:01:18] [INFO] 127.0.0.1:52076 requested connection to www.google.com:443
+[2022-09-22 11:01:28] [INFO] 127.0.0.1:52076 disconnected, 325 bytes received, 786 bytes sent, lasted for 10 seconds
+[2022-09-22 11:36:39] [INFO] 127.0.0.1:56933 requested connection to firestore.googleapis.com:443
+[2022-09-22 11:36:40] [INFO] 127.0.0.1:51525 disconnected, 136874 bytes received, 52547 bytes sent, lasted for 3641 seconds
+[2022-09-22 12:07:35] [INFO] 127.0.0.1:61189 requested connection to content-autofill.googleapis.com:443
+[2022-09-22 12:07:42] [INFO] 127.0.0.1:61246 requested connection to fundingchoicesmessages.google.com:443
+[2022-09-22 12:07:42] [INFO] 127.0.0.1:61250 requested connection to www.gstatic.com:443
+[2022-09-22 12:07:42] [INFO] 127.0.0.1:61254 requested connection to www.gstatic.com:443
+[2022-09-22 12:07:43] [INFO] 127.0.0.1:61254 disconnected, 0 bytes received, 714 bytes sent, lasted for 1 seconds
+[2022-09-22 12:07:43] [INFO] 127.0.0.1:61266 requested connection to fundingchoicesmessages.google.com:443
+[2022-09-22 12:07:44] [INFO] 127.0.0.1:61272 requested connection to www.google.com:443
+[2022-09-22 12:11:41] [INFO] 127.0.0.1:61189 disconnected, 2065 bytes received, 1756 bytes sent, lasted for 246 seconds
+[2022-09-22 12:11:43] [INFO] 127.0.0.1:61250 disconnected, 10770 bytes received, 1537 bytes sent, lasted for 241 seconds
+[2022-09-22 12:11:44] [INFO] 127.0.0.1:61272 disconnected, 2818 bytes received, 1722 bytes sent, lasted for 240 seconds
+[2022-09-22 12:11:46] [INFO] 127.0.0.1:61246 disconnected, 63727 bytes received, 3878 bytes sent, lasted for 244 seconds
+[2022-09-22 12:11:46] [INFO] 127.0.0.1:61266 disconnected, 10815 bytes received, 3379 bytes sent, lasted for 243 seconds
+[2022-09-22 12:36:59] [INFO] 127.0.0.1:65256 requested connection to firestore.googleapis.com:443
+[2022-09-22 12:37:27] [INFO] 127.0.0.1:56933 disconnected, 137885 bytes received, 51599 bytes sent, lasted for 3648 seconds
+[2022-09-22 12:59:57] [INFO] 127.0.0.1:52035 requested connection to firestore.googleapis.com:443
+[2022-09-22 13:00:10] [INFO] 127.0.0.1:65256 disconnected, 51614 bytes received, 20371 bytes sent, lasted for 1391 seconds
+[2022-09-22 13:00:59] [INFO] 127.0.0.1:52227 requested connection to beacons5.gvt3.com:443
+[2022-09-22 13:02:25] [INFO] 127.0.0.1:52442 requested connection to www.google.com:443
+[2022-09-22 13:02:35] [INFO] 127.0.0.1:52442 disconnected, 325 bytes received, 786 bytes sent, lasted for 10 seconds
+[2022-09-22 13:03:25] [INFO] 127.0.0.1:52586 requested connection to www.google.com:443
+[2022-09-22 13:03:35] [INFO] 127.0.0.1:52586 disconnected, 325 bytes received, 786 bytes sent, lasted for 10 seconds
+[2022-09-22 13:04:59] [INFO] 127.0.0.1:52227 disconnected, 6465 bytes received, 1642 bytes sent, lasted for 240 seconds
+[2022-09-22 13:36:27] [INFO] 127.0.0.1:57180 requested connection to www.google.com:443
+[2022-09-22 13:36:37] [INFO] 127.0.0.1:57180 disconnected, 4401 bytes received, 591 bytes sent, lasted for 10 seconds
+[2022-09-22 13:37:27] [INFO] 127.0.0.1:57323 requested connection to www.google.com:443
+[2022-09-22 13:37:37] [INFO] 127.0.0.1:57323 disconnected, 4402 bytes received, 591 bytes sent, lasted for 10 seconds
+[2022-09-22 13:39:18] [INFO] 127.0.0.1:57590 requested connection to www.google.com:443
+[2022-09-22 13:39:18] [INFO] 127.0.0.1:57605 requested connection to content-autofill.googleapis.com:443
+[2022-09-22 13:42:29] [INFO] 127.0.0.1:58055 requested connection to clients2.google.com:443
+[2022-09-22 13:43:19] [INFO] 127.0.0.1:57605 disconnected, 1869 bytes received, 1551 bytes sent, lasted for 241 seconds
+[2022-09-22 13:43:19] [INFO] 127.0.0.1:57590 disconnected, 115082 bytes received, 1456 bytes sent, lasted for 241 seconds
+[2022-09-22 13:46:30] [INFO] 127.0.0.1:58055 disconnected, 3197 bytes received, 1281 bytes sent, lasted for 241 seconds
+[2022-09-22 14:00:18] [INFO] 127.0.0.1:52035 disconnected, 131237 bytes received, 50535 bytes sent, lasted for 3621 seconds
+[2022-09-22 14:00:18] [INFO] 127.0.0.1:60628 requested connection to firestore.googleapis.com:443
+[2022-09-22 14:20:29] [INFO] 127.0.0.1:63606 requested connection to www.google.com:443
+[2022-09-22 14:20:40] [INFO] 127.0.0.1:63606 disconnected, 4402 bytes received, 591 bytes sent, lasted for 11 seconds
+[2022-09-22 14:21:01] [INFO] 127.0.0.1:63718 requested connection to content-autofill.googleapis.com:443
+[2022-09-22 14:21:01] [INFO] 127.0.0.1:63721 requested connection to www.gstatic.com:443
+[2022-09-22 14:21:01] [INFO] 127.0.0.1:63724 requested connection to translate-pa.googleapis.com:443
+[2022-09-22 14:21:01] [INFO] 127.0.0.1:63728 requested connection to imasdk.googleapis.com:443
+[2022-09-22 14:21:02] [INFO] 127.0.0.1:63737 requested connection to www.gstatic.com:443
+[2022-09-22 14:21:02] [INFO] 127.0.0.1:63740 requested connection to imasdk.googleapis.com:443
+[2022-09-22 14:21:02] [INFO] 127.0.0.1:63744 requested connection to www.gstatic.com:443
+[2022-09-22 14:21:02] [INFO] 127.0.0.1:63740 disconnected, 0 bytes received, 517 bytes sent, lasted for 0 seconds
+[2022-09-22 14:21:02] [INFO] 127.0.0.1:63755 requested connection to ad.atdmt.com:443
+[2022-09-22 14:21:07] [INFO] 127.0.0.1:63737 disconnected, 4455 bytes received, 591 bytes sent, lasted for 5 seconds
+[2022-09-22 14:21:07] [INFO] 127.0.0.1:63744 disconnected, 0 bytes received, 517 bytes sent, lasted for 5 seconds
+[2022-09-22 14:21:07] [INFO] 127.0.0.1:63780 requested connection to www.google.com:443
+[2022-09-22 14:22:06] [INFO] 127.0.0.1:63923 requested connection to google.com:443
+[2022-09-22 14:23:13] [INFO] 127.0.0.1:63755 disconnected, 4262 bytes received, 1456 bytes sent, lasted for 131 seconds
+[2022-09-22 14:25:02] [INFO] 127.0.0.1:63724 disconnected, 8427 bytes received, 1254 bytes sent, lasted for 241 seconds
+[2022-09-22 14:25:02] [INFO] 127.0.0.1:63728 disconnected, 138204 bytes received, 1382 bytes sent, lasted for 241 seconds
+[2022-09-22 14:25:02] [INFO] 127.0.0.1:63718 disconnected, 6293 bytes received, 1267 bytes sent, lasted for 241 seconds
+[2022-09-22 14:25:03] [INFO] 127.0.0.1:64426 requested connection to clients2.google.com:443
+[2022-09-22 14:26:02] [INFO] 127.0.0.1:64588 requested connection to fundingchoicesmessages.google.com:443
+[2022-09-22 14:26:03] [INFO] 127.0.0.1:64601 requested connection to fundingchoicesmessages.google.com:443
+[2022-09-22 14:26:59] [INFO] 127.0.0.1:63721 disconnected, 37220 bytes received, 1727 bytes sent, lasted for 358 seconds
+[2022-09-22 14:27:18] [INFO] 127.0.0.1:63923 disconnected, 8991 bytes received, 1861 bytes sent, lasted for 312 seconds
+[2022-09-22 14:29:03] [INFO] 127.0.0.1:64426 disconnected, 9679 bytes received, 1073 bytes sent, lasted for 240 seconds
+[2022-09-22 14:30:04] [INFO] 127.0.0.1:63780 disconnected, 9357 bytes received, 1893 bytes sent, lasted for 537 seconds
+[2022-09-22 14:30:06] [INFO] 127.0.0.1:64588 disconnected, 63910 bytes received, 3884 bytes sent, lasted for 244 seconds
+[2022-09-22 14:30:06] [INFO] 127.0.0.1:64601 disconnected, 10891 bytes received, 3455 bytes sent, lasted for 243 seconds
+[2022-09-22 14:30:30] [INFO] 127.0.0.1:65239 requested connection to www.google.com:443
+[2022-09-22 14:30:44] [INFO] 127.0.0.1:65239 disconnected, 325 bytes received, 786 bytes sent, lasted for 14 seconds
+[2022-09-22 14:37:54] [INFO] 127.0.0.1:60628 disconnected, 45233 bytes received, 16379 bytes sent, lasted for 2256 seconds
+[2022-09-22 15:14:15] [INFO] 127.0.0.1:55174 requested connection to edgedl.me.gvt1.com:80
+[2022-09-22 15:14:16] [INFO] 127.0.0.1:55174 disconnected, 548 bytes received, 392 bytes sent, lasted for 1 seconds
+[2022-09-22 15:14:16] [INFO] 127.0.0.1:55177 requested connection to edgedl.me.gvt1.com:80
+[2022-09-22 15:14:16] [INFO] 127.0.0.1:55177 disconnected, 1754 bytes received, 464 bytes sent, lasted for 0 seconds
+[2022-09-22 15:14:20] [INFO] 127.0.0.1:55190 requested connection to edgedl.me.gvt1.com:80
+[2022-09-22 15:14:25] [INFO] 127.0.0.1:55190 disconnected, 2766 bytes received, 467 bytes sent, lasted for 5 seconds
+[2022-09-22 15:14:27] [INFO] 127.0.0.1:55212 requested connection to edgedl.me.gvt1.com:80
+[2022-09-22 15:14:28] [INFO] 127.0.0.1:55212 disconnected, 2002 bytes received, 467 bytes sent, lasted for 1 seconds
+[2022-09-22 15:14:29] [INFO] 127.0.0.1:55219 requested connection to edgedl.me.gvt1.com:80
+[2022-09-22 15:14:30] [INFO] 127.0.0.1:55219 disconnected, 1160 bytes received, 467 bytes sent, lasted for 1 seconds
+[2022-09-22 15:40:24] [INFO] 127.0.0.1:58937 requested connection to content-autofill.googleapis.com:443
+[2022-09-22 15:40:34] [INFO] 127.0.0.1:58959 requested connection to www.google.com:443
+[2022-09-22 15:40:44] [INFO] 127.0.0.1:58959 disconnected, 4401 bytes received, 591 bytes sent, lasted for 10 seconds
+[2022-09-22 15:44:25] [INFO] 127.0.0.1:58937 disconnected, 6632 bytes received, 1579 bytes sent, lasted for 241 seconds
