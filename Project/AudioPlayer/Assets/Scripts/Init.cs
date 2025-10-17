@@ -9,6 +9,22 @@ public class Init : MonoBehaviour {
 
     private void Awake() {
         _canvas = GameObject.Find("Canvas").GetComponent<Canvas>();
-        
+
+        GameObject go = Resources.Load<GameObject>("Prefabs/AudioPlayerPanel");
+        go = Instantiate(go, _canvas.transform);
+        AudioPlayerPanel panel = go.AddComponent<AudioPlayerPanel>();
+
+        List<ClientData.AudioData> list = new();
+        list.Add(new() {
+            ID = "GO1",
+            Name = "After A While, Crocodile",
+            Order = 1
+        });
+        list.Add(new() {
+            ID = "GO2",
+            Name = "Bath Time Song",
+            Order = 2
+        });
+        panel.SetData(list);
     }
 }

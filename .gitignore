@@ -1,0 +1,12 @@
+.vscode
+*.csproj
+*.sln
+.idea
+Library
+Logs
+Temp
+UserSettings
+obj
+yoo
+Bundles
+HybridCLRData
