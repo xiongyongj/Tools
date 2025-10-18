@@ -14,14 +14,15 @@ public class Init : MonoBehaviour {
         go = Instantiate(go, _canvas.transform);
         AudioPlayerPanel panel = go.AddComponent<AudioPlayerPanel>();
 
+
         List<ClientData.AudioData> list = new();
         list.Add(new() {
-            ID = "GO1",
+            ID = "G01",
             Name = "After A While, Crocodile",
             Order = 1
         });
         list.Add(new() {
-            ID = "GO2",
+            ID = "G02",
             Name = "Bath Time Song",
             Order = 2
         });

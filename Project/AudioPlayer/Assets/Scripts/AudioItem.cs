@@ -48,6 +48,13 @@ public class AudioItem : MonoBehaviour {
         Refresh();
     }
 
+    public List<Image> GetBars() {
+        Image[] gos = _animation.GetComponentsInChildren<Image>();
+        List<Image> bars = new();
+        bars.AddRange(gos);
+        return bars;
+    }
+
     private void OnClick() {
         _props.OnClick?.Invoke(_props.Data.Order - 1);
     }

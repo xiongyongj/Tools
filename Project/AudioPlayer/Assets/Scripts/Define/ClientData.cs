@@ -16,4 +16,9 @@ public class ClientData {
         public AudioData Data;
         public UnityAction<int> OnClick;
     }
+
+    public struct LyricItemProps {
+        public int Index;
+        public AudioPlayer.AudioLyric Lyric;
+    }
 }

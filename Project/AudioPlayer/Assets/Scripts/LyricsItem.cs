@@ -1,18 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class LyricsItem : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+public class LyricsItem : MonoBehaviour {
+    private Text _text;
+
+    private ClientData.LyricItemProps _props;
+
+    private void Awake() {
+        _text = GetComponent<Text>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    public void Init(ClientData.LyricItemProps props) {
+        _props = props;
+
+        Refresh();
+    }
+
+    private void Refresh() {
+        _text.text = _props.Lyric.lyric;
+
+        _text.fontSize = _props.Index == 0 ? 51 : 35;
     }
 }
