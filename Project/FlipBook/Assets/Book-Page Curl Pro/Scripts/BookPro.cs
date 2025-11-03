@@ -3,6 +3,7 @@ using UnityEngine.Events;
 using UnityEngine.UI;
 using System.Collections;
 using System;
+using System.Collections.Generic;
 #if ENABLE_INPUT_SYSTEM
 using UnityEngine.InputSystem;
 #endif
@@ -30,7 +31,7 @@ namespace BookCurlPro {
         [HideInInspector]
         public int currentPaper = 0;
         [HideInInspector]
-        public Paper[] papers;
+        public List<Paper> papers;
         /// <summary>
         /// OnFlip invocation list, called when any page flipped
         /// </summary>
@@ -176,7 +177,7 @@ namespace BookCurlPro {
             int previousPaper = pageDragging ? currentPaper - 2 : currentPaper - 1;
 
             //Hide all pages
-            for (int i = 0; i < papers.Length; i++) {
+            for (int i = 0; i < papers.Count; i++) {
                 BookUtility.HidePage(papers[i].Front);
                 papers[i].Front.transform.SetParent(BookPanel.transform);
                 BookUtility.HidePage(papers[i].Back);
@@ -193,9 +194,9 @@ namespace BookCurlPro {
                 }
 
                 //Show the front page of all next papers
-                for (int i = papers.Length - 1; i >= currentPaper; i--) {
+                for (int i = papers.Count - 1; i >= currentPaper; i--) {
                     BookUtility.ShowPage(papers[i].Front);
-                    papers[i].Front.transform.SetSiblingIndex(papers.Length - i + previousPaper);
+                    papers[i].Front.transform.SetSiblingIndex(papers.Count - i + previousPaper);
                     BookUtility.CopyTransform(RightPageTransform.transform, papers[i].Front.transform);
                 }
 
@@ -209,9 +210,9 @@ namespace BookCurlPro {
                     BookUtility.CopyTransform(LeftPageTransform.transform, papers[previousPaper].Back.transform);
                 }
                 //show front of current page only
-                if (currentPaper <= papers.Length - 1) {
+                if (currentPaper <= papers.Count - 1) {
                     BookUtility.ShowPage(papers[currentPaper].Front);
-                    papers[currentPaper].Front.transform.SetSiblingIndex(papers.Length - currentPaper + previousPaper);
+                    papers[currentPaper].Front.transform.SetSiblingIndex(papers.Count - currentPaper + previousPaper);
                     BookUtility.CopyTransform(RightPageTransform.transform, papers[currentPaper].Front.transform);
 
                 }
@@ -232,7 +233,7 @@ namespace BookCurlPro {
                     LeftPageShadow.transform.SetParent(BookPanel, true);
                 }
 
-                if (currentPaper < papers.Length) {
+                if (currentPaper < papers.Count) {
                     //has at least one next page, the right shadow should be active
                     RightPageShadow.gameObject.SetActive(true);
                     RightPageShadow.transform.SetParent(papers[currentPaper].Front.transform, true);

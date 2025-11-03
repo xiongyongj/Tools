@@ -44,7 +44,16 @@ namespace English.Readbook {
             }
             // 已解锁
             // BookSystem.OpenBook(_props.Book.Title);
-            Debug.Log($"打开书籍：{_props.Book.Title}");
+            Debug.Log($"打开书籍：{_props.Book.Name}");
+
+            GameObject go = Resources.Load<GameObject>($"Prefabs/BookDetailPanel");
+            go = Instantiate(go, BookSystem.Canvas.transform);
+            BookDetailPanel panel = go.AddComponent<BookDetailPanel>();
+
+            BookDetailProps props = new();
+            props.BookName = _props.Book.Name;
+            props.Pages = _props.Book.Pages;
+            panel.Init(props);
         }
 
         private void Refresh() {
@@ -52,7 +61,7 @@ namespace English.Readbook {
             _tomorrow.gameObject.SetActive(!_props.Book.IsUnlocked);
             _lock.SetActive(!_props.Book.IsUnlocked);
             _free.SetActive(_props.Book.IsFree);
-            _icon.sprite = Resources.Load<Sprite>($"Icon/{_props.Book.Icon}");
+            _icon.sprite = Resources.Load<Sprite>($"{_props.Book.Name}/Icon/{_props.Book.Icon}");
         }
     }
 }

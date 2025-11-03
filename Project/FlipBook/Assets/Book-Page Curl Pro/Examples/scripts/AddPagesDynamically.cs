@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 namespace BookCurlPro.Examples
 {
     /// <summary>
@@ -22,15 +23,15 @@ namespace BookCurlPro.Examples
             Paper newPaper = new Paper();
             newPaper.Front = frontPage;
             newPaper.Back = backPage;
-            Paper[] papers = new Paper[book.papers.Length + 1];
-            for (int i = 0; i < book.papers.Length; i++)
+            List<Paper> papers = new(book.papers.Count + 1);
+            for (int i = 0; i < book.papers.Count; i++)
             {
                 papers[i] = book.papers[i];
             }
-            papers[papers.Length - 1] = newPaper;
+            papers[papers.Count - 1] = newPaper;
             book.papers = papers;
             //update the flipping range to contain the new added paper
-            book.EndFlippingPaper = book.papers.Length - 1;
+            book.EndFlippingPaper = book.papers.Count - 1;
             book.UpdatePages();
         }
 

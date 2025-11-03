@@ -34,7 +34,7 @@ namespace BookCurlPro.BookEditor
                     "Are you sure you want to delete this Paper?\r\nThe paper pages (front and back) will be deleted from the scene", "Yes", "No"))
                 {
                     BookPro book = target as BookPro;
-                    if (book.EndFlippingPaper == book.papers.Length - 1)
+                    if (book.EndFlippingPaper == book.papers.Count - 1)
                         book.EndFlippingPaper--;
                     OnInspectorGUI();
                     Paper paper = book.papers[l.index];
@@ -66,9 +66,9 @@ namespace BookCurlPro.BookEditor
         {
             BookPro book = target as BookPro;
 
-            if (book.EndFlippingPaper == book.papers.Length - 1)
+            if (book.EndFlippingPaper == book.papers.Count - 1)
             {
-                book.EndFlippingPaper = book.papers.Length;
+                book.EndFlippingPaper = book.papers.Count;
                 OnInspectorGUI();
             }
 
@@ -186,7 +186,7 @@ namespace BookCurlPro.BookEditor
                     "All Pages will be renamed according to its order", "Ok", "Cancel"))
                 {
                     BookPro book = target as BookPro;
-                    for (int i = 0; i < book.papers.Length; i++)
+                    for (int i = 0; i < book.papers.Count; i++)
                     {
                         book.papers[i].Front.name = "Page" + (i * 2);
                         book.papers[i].Back.name = "Page" + (i * 2 + 1);
@@ -217,7 +217,7 @@ namespace BookCurlPro.BookEditor
             EditorGUILayout.LabelField("Last Flippable Paper: " + "Paper#" + book.EndFlippingPaper);
             float start = book.StartFlippingPaper;
             float end = book.EndFlippingPaper;
-            EditorGUILayout.MinMaxSlider(ref start, ref end, 0, book.papers.Length - 1);
+            EditorGUILayout.MinMaxSlider(ref start, ref end, 0, book.papers.Count - 1);
             book.StartFlippingPaper = Mathf.RoundToInt(start);
             book.EndFlippingPaper = Mathf.RoundToInt(end);
             EditorGUILayout.EndVertical();
@@ -249,7 +249,7 @@ namespace BookCurlPro.BookEditor
             }
             if (GUILayout.Button(">|"))
             {
-                book.CurrentPaper = book.papers.Length;
+                book.CurrentPaper = book.papers.Count;
             }
             EditorGUILayout.EndHorizontal();
 
