@@ -8,60 +8,67 @@
             "Frequently": "apple, ant, sweet",
             "Pages": [
                 {
-                    "Background": "00_0",
-                    "Content": "Page_0"
+                    "Background": [ "00_0", "00_1" ],
+                    "Lines": [
+                        {
+                            "Text": "Apple and Ant",
+                            "Audio": "P0"
+                        }
+                    ]
                 },
                 {
-                    "Background": "00_1",
-                    "Content": "Page_0"
+                    "Background": [ "01_0", "01_1" ],
+                    "Lines": [
+                        {
+                            "Text": "An ant.",
+                            "Audio": "P1"
+                        }
+                    ]
                 },
                 {
-                    "Background": "01_0",
-                    "Content": "Page_1"
+                    "Background": [ "02_0", "02_1" ],
+                    "Lines": [
+                        {
+                            "Text": "An apple!",
+                            "Audio": "P2"
+                        }
+                    ]
                 },
                 {
-                    "Background": "01_1",
-                    "Content": "Page_1"
+                    "Background": [ "03_0", "03_1" ],
+                    "Lines": [
+                        {
+                            "Text": "The ant drags.",
+                            "Audio": "P3"
+                        }
+                    ]
                 },
                 {
-                    "Background": "02_0",
-                    "Content": "Page_1"
+                    "Background": [ "04_0", "04_1" ],
+                    "Lines": [
+                        {
+                            "Text": "The apple cracks.",
+                            "Audio": "P4"
+                        }
+                    ]
                 },
                 {
-                    "Background": "02_1",
-                    "Content": "Page_1"
+                    "Background": [ "05_0", "05_1" ],
+                    "Lines": [
+                        {
+                            "Text": "The ant slips.",
+                            "Audio": "P5"
+                        }
+                    ]
                 },
                 {
-                    "Background": "03_0",
-                    "Content": "Page_1"
-                },
-                {
-                    "Background": "03_1",
-                    "Content": "Page_1"
-                },
-                {
-                    "Background": "04_0",
-                    "Content": "Page_1"
-                },
-                {
-                    "Background": "04_1",
-                    "Content": "Page_1"
-                },
-                {
-                    "Background": "05_0",
-                    "Content": "Page_1"
-                },
-                {
-                    "Background": "05_1",
-                    "Content": "Page_1"
-                },
-                {
-                    "Background": "06_0",
-                    "Content": "Page_1"
-                },
-                {
-                    "Background": "06_1",
-                    "Content": "Page_1"
+                    "Background": [ "06_0", "06_1" ],
+                    "Lines": [
+                        {
+                            "Text": "The ant laughs.",
+                            "Audio": "P6"
+                        }
+                    ]
                 }
             ]
         },

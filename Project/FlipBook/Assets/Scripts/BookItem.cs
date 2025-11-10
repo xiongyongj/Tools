@@ -51,8 +51,7 @@ namespace English.Readbook {
             BookDetailPanel panel = go.AddComponent<BookDetailPanel>();
 
             BookDetailProps props = new();
-            props.BookName = _props.Book.Name;
-            props.Pages = _props.Book.Pages;
+            props.Book = _props.Book;
             panel.Init(props);
         }
 
@@ -61,7 +60,7 @@ namespace English.Readbook {
             _tomorrow.gameObject.SetActive(!_props.Book.IsUnlocked);
             _lock.SetActive(!_props.Book.IsUnlocked);
             _free.SetActive(_props.Book.IsFree);
-            _icon.sprite = Resources.Load<Sprite>($"{_props.Book.Name}/Icon/{_props.Book.Icon}");
+            _icon.sprite = Resources.Load<Sprite>($"Icon/{_props.Book.Icon}");
         }
     }
 }
