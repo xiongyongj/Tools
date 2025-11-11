@@ -12,6 +12,7 @@ namespace English.Readbook {
 
         private void Start() {
             BookSystem.Initialize();
+            _panel.Init();
         }
     }
 }

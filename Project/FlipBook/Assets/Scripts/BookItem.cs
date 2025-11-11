@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 namespace English.Readbook {
     public struct BookItemProps {
-        public Book Book;
+        public BookCover Cover;
     }
     public class BookItem : MonoBehaviour {
         private Image _icon;
@@ -38,29 +38,29 @@ namespace English.Readbook {
         }
 
         private void OnClick() {
-            if (!_props.Book.IsUnlocked) {
+            if (!_props.Cover.IsUnlocked) {
                 // 未解锁
                 return;
             }
             // 已解锁
             // BookSystem.OpenBook(_props.Book.Title);
-            Debug.Log($"打开书籍：{_props.Book.Name}");
+            Debug.Log($"打开书籍：{_props.Cover.Name}");
 
             GameObject go = Resources.Load<GameObject>($"Prefabs/BookDetailPanel");
             go = Instantiate(go, BookSystem.Canvas.transform);
             BookDetailPanel panel = go.AddComponent<BookDetailPanel>();
 
             BookDetailProps props = new();
-            props.Book = _props.Book;
+            props.BookName = _props.Cover.Name;
             panel.Init(props);
         }
 
         private void Refresh() {
-            _icon.gameObject.SetActive(_props.Book.IsUnlocked);
-            _tomorrow.gameObject.SetActive(!_props.Book.IsUnlocked);
-            _lock.SetActive(!_props.Book.IsUnlocked);
-            _free.SetActive(_props.Book.IsFree);
-            _icon.sprite = Resources.Load<Sprite>($"Icon/{_props.Book.Icon}");
+            _icon.gameObject.SetActive(_props.Cover.IsUnlocked);
+            _tomorrow.gameObject.SetActive(!_props.Cover.IsUnlocked);
+            _lock.SetActive(!_props.Cover.IsUnlocked);
+            _free.SetActive(_props.Cover.IsFree);
+            _icon.sprite = Resources.Load<Sprite>($"Icon/{_props.Cover.Icon}");
         }
     }
 }

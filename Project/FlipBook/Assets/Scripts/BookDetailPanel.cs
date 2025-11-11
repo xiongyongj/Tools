@@ -7,25 +7,29 @@ using System.Linq;
 using UnityEngine.UI;
 using System;
 using System.Collections;
+using Unity.VisualScripting;
 
 namespace English.Readbook {
     public struct BookDetailProps {
-        public Book Book;
+        public string BookName;
     }
 
     public class BookDetailPanel : MonoBehaviour {
         private BookPro _bookPro;
-        private Paper _first;
-        private Paper _finally;
+        private PageFlipper _pageFlipper;
+        private AutoFlipBook _autoFlipBook;
 
         private BookDetailProps _props;
-        private bool _isAutoRead = true;
+        private Book _book;
         private int _lineIndex;
 
         private void Awake() {
             _bookPro = transform.Find("BookPro").GetComponent<BookPro>();
-            _first = _bookPro.papers[0];
-            _finally = _bookPro.papers[_bookPro.papers.Count - 1];
+            _pageFlipper = _bookPro.gameObject.AddComponent<PageFlipper>();
+            _autoFlipBook = _bookPro.gameObject.AddComponent<AutoFlipBook>();
+
+            _pageFlipper.book = _bookPro;
+            _autoFlipBook.Book = _bookPro;
 
             Register();
         }
@@ -36,20 +40,21 @@ namespace English.Readbook {
 
         private void Register() {
             BookSystem.EventCloseBookDetail += OnCloseBook;
-            BookSystem.EventSwtichAutoRead += OnSwitchAutoRead;
 
             _bookPro.OnFlip.AddListener(OnFlip);
         }
 
         private void UnRegister() {
             BookSystem.EventCloseBookDetail -= OnCloseBook;
-            BookSystem.EventSwtichAutoRead -= OnSwitchAutoRead;
 
             _bookPro.OnFlip.RemoveListener(OnFlip);
         }
 
         public void Init(BookDetailProps props) {
+            BookSystem.IsAutoRead = true;
             _props = props;
+            _book = BookSystem.GetBook(_props.BookName);
+
             AddPages();
 
             OnFlip();
@@ -59,29 +64,28 @@ namespace English.Readbook {
             Destroy(gameObject);
         }
 
-        private void OnSwitchAutoRead(bool isOn) {
-            _isAutoRead = isOn;
-            _bookPro.Flip();
-        }
-
         private void OnFlip() {
             // Debug.Log("OnFlip =>" + _bookPro.CurrentPaper);
-
             StopCoroutine(nameof(PlayAudioComplete));
+            BookSystem.OnFlipPage(_bookPro.CurrentPaper);
 
             _lineIndex = 0;
+
+            BookSystem.OnPageReadStart(_bookPro.CurrentPaper);
 
             PlayAudio();
         }
 
         private void PlayAudio() {
-            Page page = _props.Book.Pages[_bookPro.CurrentPaper - 1];
+            Page page = _book.Pages[_bookPro.CurrentPaper - 1];
             if (_lineIndex >= page.Lines.Count) {
+                // Debug.Log("OnPageReadComplete =>" + _bookPro.CurrentPaper);
+                BookSystem.OnPageReadComplete(_bookPro.CurrentPaper);
                 return;
             }
 
             Line line = page.Lines[_lineIndex];
-            float duration = BookSystem.PlayAudio(_props.Book.Name, line.Audio);
+            float duration = BookSystem.PlayAudio(_book.Name, line.Audio);
             BookSystem.OnPlayAudioStart(_bookPro.CurrentPaper, _lineIndex, duration);
 
             StartCoroutine(nameof(PlayAudioComplete), duration);
@@ -97,7 +101,7 @@ namespace English.Readbook {
 
         private void AddPages() {
             Paper paper = _bookPro.papers[0];
-            for (int i = 0; i < _props.Book.Pages.Count; ++i) {
+            for (int i = 0; i < _book.Pages.Count; ++i) {
                 int pageIndex = i + 1;
 
                 for (int side = 0; side < 2; ++side) {
@@ -108,7 +112,7 @@ namespace English.Readbook {
                         paper.Back = page.gameObject;
                     }
                     else {
-                        if (pageIndex >= _props.Book.Pages.Count) {
+                        if (pageIndex >= _book.Pages.Count) {
                             paper = _bookPro.papers[^1];
                         }
                         else {
@@ -119,10 +123,10 @@ namespace English.Readbook {
                     }
 
                     PageItemProps props = new();
-                    props.BookName = _props.Book.Name;
-                    props.Page = _props.Book.Pages[i];
-                    props.Keys = _props.Book.Keys;
-                    props.Frequently = _props.Book.Frequently;
+                    props.BookName = _book.Name;
+                    props.Page = _book.Pages[i];
+                    props.Keys = _book.Keys;
+                    props.Frequently = _book.Frequently;
                     props.PageIndex = pageIndex;
                     props.Side = (Define.PageSide)side;
                     page.Init(props);

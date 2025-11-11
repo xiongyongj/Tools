@@ -3,200 +3,88 @@
         {
             "ID": 1000,
             "Name": "Apple and Ant",
-            "Icon": "hb_001",
-            "Keys": "a(as in apple)",
-            "Frequently": "apple, ant, sweet",
-            "Pages": [
-                {
-                    "Background": [ "00_0", "00_1" ],
-                    "Lines": [
-                        {
-                            "Text": "Apple and Ant",
-                            "Audio": "P0"
-                        }
-                    ]
-                },
-                {
-                    "Background": [ "01_0", "01_1" ],
-                    "Lines": [
-                        {
-                            "Text": "An ant.",
-                            "Audio": "P1"
-                        }
-                    ]
-                },
-                {
-                    "Background": [ "02_0", "02_1" ],
-                    "Lines": [
-                        {
-                            "Text": "An apple!",
-                            "Audio": "P2"
-                        }
-                    ]
-                },
-                {
-                    "Background": [ "03_0", "03_1" ],
-                    "Lines": [
-                        {
-                            "Text": "The ant drags.",
-                            "Audio": "P3"
-                        }
-                    ]
-                },
-                {
-                    "Background": [ "04_0", "04_1" ],
-                    "Lines": [
-                        {
-                            "Text": "The apple cracks.",
-                            "Audio": "P4"
-                        }
-                    ]
-                },
-                {
-                    "Background": [ "05_0", "05_1" ],
-                    "Lines": [
-                        {
-                            "Text": "The ant slips.",
-                            "Audio": "P5"
-                        }
-                    ]
-                },
-                {
-                    "Background": [ "06_0", "06_1" ],
-                    "Lines": [
-                        {
-                            "Text": "The ant laughs.",
-                            "Audio": "P6"
-                        }
-                    ]
-                }
-            ]
+            "Icon": "hb_001"
         },
         {
             "ID": 1001,
             "Name": "An ant.2",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 1002,
             "Name": "An ant.3",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 1003,
             "Name": "An ant.4",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         }
     ],
     "Level2": [
         {
             "ID": 2000,
             "Name": "An ant.11",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 2001,
             "Name": "An ant.12",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 2002,
             "Name": "An ant.13",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 2003,
             "Name": "An ant.14",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         }
     ],
     "Level3": [
         {
             "ID": 3000,
             "Name": "An ant.21",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 3001,
             "Name": "An ant.22",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 3002,
             "Name": "An ant.23",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 3003,
             "Name": "An ant.24",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         }
     ],
     "Level4": [
         {
             "ID": 4000,
             "Name": "An ant.31",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 4001,
             "Name": "An ant.32",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 4002,
             "Name": "An ant.33",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         },
         {
             "ID": 4003,
             "Name": "An ant.34",
-            "Icon": "hb_001",
-            "Keys": "",
-            "Frequently": "",
-            "Pages": []
+            "Icon": "hb_001"
         }
     ]
 }

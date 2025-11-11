@@ -36,7 +36,7 @@ namespace English.Readbook {
             Register();
         }
 
-        private void Start() {
+        public void Init() {
             Refresh();
         }
 
@@ -80,12 +80,12 @@ namespace English.Readbook {
         // 刷新列表，每行 4 个
         private void RefreshItems() {
             _scroll.verticalNormalizedPosition = 1;
-            List<Book> books = BookSystem.GetBooks($"Level{_selectedLevelIndex + 1}");
+            List<BookCover> covers = BookSystem.GetCovers($"Level{_selectedLevelIndex + 1}");
 
             var (index, rowIndex) = (0, 0);
-            List<Book> rowBooks = new(4);
-            for (; index < books.Count; ++index) {
-                Book book = books[index];
+            List<BookCover> rowCovers = new(4);
+            for (; index < covers.Count; ++index) {
+                BookCover book = covers[index];
 
                 RowItem item;
                 if (rowIndex < _content.childCount) {
@@ -99,9 +99,9 @@ namespace English.Readbook {
                 }
                 item.gameObject.SetActive(true);
 
-                rowBooks.Add(book);
+                rowCovers.Add(book);
                 RowItemProps props = new();
-                props.Books.AddRange(rowBooks);
+                props.Covers.AddRange(rowCovers);
                 item.Init(props);
             }
         }

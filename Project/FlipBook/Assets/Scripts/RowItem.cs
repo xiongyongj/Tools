@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace English.Readbook {
     public class RowItemProps {
-        public List<Book> Books = new();
+        public List<BookCover> Covers = new();
     }
 
     public class RowItem : MonoBehaviour {
@@ -29,8 +29,8 @@ namespace English.Readbook {
 
         private void RefreshContent() {
             int index = 0;
-            for (; index < _props.Books.Count; ++index) {
-                Book book = _props.Books[index];
+            for (; index < _props.Covers.Count; ++index) {
+                BookCover cover = _props.Covers[index];
 
                 BookItem item;
                 if (index < _content.childCount) {
@@ -45,7 +45,7 @@ namespace English.Readbook {
                 item.gameObject.SetActive(true);
 
                 BookItemProps itemProps = new();
-                itemProps.Book = book;
+                itemProps.Cover = cover;
                 item.Init(itemProps);
             }
 

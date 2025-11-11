@@ -77,6 +77,8 @@ namespace BookCurlPro {
             }
         }
 
+        public bool OnMouseDragging;
+
         Image Left;
         Image Right;
 
@@ -86,7 +88,7 @@ namespace BookCurlPro {
         /// <summary>
         /// this value should e true while the user darg the page
         /// </summary>
-        bool pageDragging = false;
+        bool pageDragging;
 
         /// <summary>
         /// should be true when the page tween forward or backward after release
@@ -262,7 +264,7 @@ namespace BookCurlPro {
         //mouse interaction events call back
         public void OnMouseDragRightPage() {
             if (interactable && !tweening) {
-
+                OnMouseDragging = true;
                 DragRightPageToPoint(transformPointMousePosition(GetMousePosition()));
             }
 
@@ -298,11 +300,11 @@ namespace BookCurlPro {
         }
         public void OnMouseDragLeftPage() {
             if (interactable && !tweening) {
+                OnMouseDragging = true;
                 DragLeftPageToPoint(transformPointMousePosition(GetMousePosition()));
-
             }
-
         }
+
         public void DragLeftPageToPoint(Vector3 point) {
             if (currentPaper <= StartFlippingPaper)
                 return;
@@ -338,6 +340,7 @@ namespace BookCurlPro {
                 ReleasePage();
         }
         public void ReleasePage() {
+            OnMouseDragging = false;
             if (pageDragging) {
                 pageDragging = false;
                 float distanceToLeft = Vector2.Distance(c, ebl);
